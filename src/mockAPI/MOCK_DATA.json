@@ -1,0 +1,5252 @@
+[
+  {
+    "userId": "1001",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14EH2C9C36XMTFHP9G0Z",
+        "cost": 395.01,
+        "transactionTime": "2023-01-06 13:36:38"
+      },
+      {
+        "transactionId": "01GZ4P14SFN8FAVVBRPA9PAJGX",
+        "cost": 276.16,
+        "transactionTime": "2023-01-06 22:25:16"
+      },
+      {
+        "transactionId": "01GZ4P14J0M2E9J6BJH00HBQR4",
+        "cost": 15.37,
+        "transactionTime": "2023-01-10 11:03:25"
+      },
+      {
+        "transactionId": "01GZ4P14MRJRQ117BMB1464XNT",
+        "cost": 1.8,
+        "transactionTime": "2023-01-19 15:57:01"
+      },
+      {
+        "transactionId": "01GZ4P14QDDZ5FD610JEF6DYNQ",
+        "cost": 66.39,
+        "transactionTime": "2023-01-26 05:18:15"
+      },
+      {
+        "transactionId": "01GZ4P14HE9PJMB392SQ3KH77V",
+        "cost": 237.59,
+        "transactionTime": "2023-02-02 11:41:25"
+      },
+      {
+        "transactionId": "01GZ4P14VDAYZ1P2JV4DXX78ZH",
+        "cost": 253.93,
+        "transactionTime": "2023-02-02 16:43:59"
+      },
+      {
+        "transactionId": "01GZ4P14GPV14B0KTE2YGVCEA8",
+        "cost": 12.41,
+        "transactionTime": "2023-02-28 22:38:17"
+      },
+      {
+        "transactionId": "01GZ4P14F7EDX0GSVYJ6H46XAZ",
+        "cost": 195.11,
+        "transactionTime": "2023-03-03 12:40:40"
+      },
+      {
+        "transactionId": "01GZ4P14RGTQDJ7351ZF605GZE",
+        "cost": 340.18,
+        "transactionTime": "2023-03-19 06:07:35"
+      },
+      {
+        "transactionId": "01GZ4P14DYFAEDP6FZ30WZKFDT",
+        "cost": 240.77,
+        "transactionTime": "2023-03-20 17:26:16"
+      },
+      {
+        "transactionId": "01GZ4P14MBB0Q23DXVRFT6TF5F",
+        "cost": 474.13,
+        "transactionTime": "2023-03-21 16:55:37"
+      },
+      {
+        "transactionId": "01GZ4P14T40ZMHYD3WZ7K8MASC",
+        "cost": 383.15,
+        "transactionTime": "2023-03-28 22:53:22"
+      },
+      {
+        "transactionId": "01GZ4P14W9304J53WWYP1K2X4D",
+        "cost": 476.88,
+        "transactionTime": "2023-04-02 05:46:31"
+      },
+      {
+        "transactionId": "01GZ4P14WE4NCV7SH6G8JFDXP3",
+        "cost": 227.57,
+        "transactionTime": "2023-04-05 06:29:32"
+      },
+      {
+        "transactionId": "01GZ4P14K8XFFFQX7QFACXQAVB",
+        "cost": 232.62,
+        "transactionTime": "2023-04-13 04:02:24"
+      },
+      {
+        "transactionId": "01GZ4P14K38V6557DXTDCJX9V3",
+        "cost": 271.97,
+        "transactionTime": "2023-04-20 02:18:05"
+      }
+    ]
+  },
+  {
+    "userId": "1002",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14QAMJ9C3HVH56FV1816",
+        "cost": 6.36,
+        "transactionTime": "2023-01-03 18:48:09"
+      },
+      {
+        "transactionId": "01GZ4P14VK55W2B7QK0TBV5WPY",
+        "cost": 128.78,
+        "transactionTime": "2023-01-10 02:36:38"
+      },
+      {
+        "transactionId": "01GZ4P14NMBPC45671NDPC2KFG",
+        "cost": 422.65,
+        "transactionTime": "2023-01-21 21:30:12"
+      },
+      {
+        "transactionId": "01GZ4P14N17HC6B84DH6B9Z7AD",
+        "cost": 95.65,
+        "transactionTime": "2023-01-30 03:14:22"
+      },
+      {
+        "transactionId": "01GZ4P14H1ZYXBM53GWQ8KQ1XR",
+        "cost": 446.55,
+        "transactionTime": "2023-02-11 15:10:53"
+      },
+      {
+        "transactionId": "01GZ4P14MQ38738DV8PH93GYVY",
+        "cost": 161.5,
+        "transactionTime": "2023-02-15 06:56:06"
+      },
+      {
+        "transactionId": "01GZ4P14NWMHYZP8E102G406DJ",
+        "cost": 78.83,
+        "transactionTime": "2023-02-28 21:36:01"
+      },
+      {
+        "transactionId": "01GZ4P14HPR6Z9AV94Y79XC47D",
+        "cost": 39.91,
+        "transactionTime": "2023-03-01 05:53:03"
+      },
+      {
+        "transactionId": "01GZ4P14EQG3D7XHB4MNWNNZJ6",
+        "cost": 58.48,
+        "transactionTime": "2023-03-03 10:03:29"
+      },
+      {
+        "transactionId": "01GZ4P14VWXP968RQXYN6NTPDC",
+        "cost": 264.32,
+        "transactionTime": "2023-03-12 11:44:44"
+      },
+      {
+        "transactionId": "01GZ4P14EG7S5MGGY2VMQQ8YRR",
+        "cost": 409.87,
+        "transactionTime": "2023-03-18 05:50:15"
+      },
+      {
+        "transactionId": "01GZ4P14QJ3GT04G7QPC023AS8",
+        "cost": 232.97,
+        "transactionTime": "2023-03-19 02:26:38"
+      },
+      {
+        "transactionId": "01GZ4P14RVNTSCZVN406HY6D65",
+        "cost": 160.8,
+        "transactionTime": "2023-03-24 13:01:53"
+      },
+      {
+        "transactionId": "01GZ4P14WW52H6EPRF5DA461EY",
+        "cost": 256.94,
+        "transactionTime": "2023-03-29 22:24:19"
+      },
+      {
+        "transactionId": "01GZ4P14EPAV6NNJ7BDJ0H78NJ",
+        "cost": 343.69,
+        "transactionTime": "2023-04-01 14:24:25"
+      },
+      {
+        "transactionId": "01GZ4P14SA1PQESCPENKF02NMR",
+        "cost": 225.71,
+        "transactionTime": "2023-04-25 11:07:37"
+      },
+      {
+        "transactionId": "01GZ4P14S01ZXVKG9V0FZWX1J9",
+        "cost": 290.49,
+        "transactionTime": "2023-04-25 16:55:32"
+      },
+      {
+        "transactionId": "01GZ4P14JET7CGD4SJ0RRGZSVR",
+        "cost": 246.09,
+        "transactionTime": "2023-04-27 15:24:21"
+      }
+    ]
+  },
+  {
+    "userId": "1003",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14KH7RQZSS7WC3R6SEXE",
+        "cost": 433.13,
+        "transactionTime": "2023-01-04 23:41:44"
+      },
+      {
+        "transactionId": "01GZ4P14G8C5FSGF0Z8NXEJNDA",
+        "cost": 209.02,
+        "transactionTime": "2023-01-09 04:56:47"
+      },
+      {
+        "transactionId": "01GZ4P14QZWJA8EC4Z3CS2R51D",
+        "cost": 332.35,
+        "transactionTime": "2023-01-14 09:46:46"
+      },
+      {
+        "transactionId": "01GZ4P14SSHBV6WDYKAAVS7825",
+        "cost": 480.91,
+        "transactionTime": "2023-01-20 22:28:25"
+      },
+      {
+        "transactionId": "01GZ4P14W85AFEC6PNV4B8J1MP",
+        "cost": 419.01,
+        "transactionTime": "2023-01-22 05:50:03"
+      },
+      {
+        "transactionId": "01GZ4P14ENGM275E4GM37A3M3P",
+        "cost": 379.4,
+        "transactionTime": "2023-02-08 23:14:53"
+      },
+      {
+        "transactionId": "01GZ4P14H0FM0SWTVBQ28464X5",
+        "cost": 185.2,
+        "transactionTime": "2023-02-14 09:50:00"
+      },
+      {
+        "transactionId": "01GZ4P14R93VE11XCKAKMPYXXE",
+        "cost": 123.67,
+        "transactionTime": "2023-02-14 12:41:33"
+      },
+      {
+        "transactionId": "01GZ4P14HJYG2XFW9SGX7PBF1X",
+        "cost": 330.81,
+        "transactionTime": "2023-02-22 11:22:34"
+      },
+      {
+        "transactionId": "01GZ4P14Q0CY85569037JFMWCK",
+        "cost": 312.25,
+        "transactionTime": "2023-02-26 14:06:33"
+      },
+      {
+        "transactionId": "01GZ4P14Q9F10MQN6DRZWT8VFB",
+        "cost": 222.98,
+        "transactionTime": "2023-02-26 21:33:38"
+      },
+      {
+        "transactionId": "01GZ4P14N1PKPT1P5WGPXFYM85",
+        "cost": 183.14,
+        "transactionTime": "2023-03-03 08:47:54"
+      },
+      {
+        "transactionId": "01GZ4P14K2A7ANFF5M8JCF6666",
+        "cost": 287.53,
+        "transactionTime": "2023-03-04 18:11:33"
+      },
+      {
+        "transactionId": "01GZ4P14EBVESEAWPFSGA5TJHJ",
+        "cost": 232.24,
+        "transactionTime": "2023-03-06 18:50:56"
+      },
+      {
+        "transactionId": "01GZ4P14EZY16T45NJX51WXG5S",
+        "cost": 197.68,
+        "transactionTime": "2023-03-15 03:19:01"
+      },
+      {
+        "transactionId": "01GZ4P14G80AKGZ4GE7ENPA7ZJ",
+        "cost": 306.85,
+        "transactionTime": "2023-03-17 02:55:59"
+      },
+      {
+        "transactionId": "01GZ4P14S88CYM2H7MRK65PZYB",
+        "cost": 469.62,
+        "transactionTime": "2023-03-18 23:34:31"
+      },
+      {
+        "transactionId": "01GZ4P14W5KKED65VX9JMX2YKG",
+        "cost": 345.94,
+        "transactionTime": "2023-03-28 11:29:19"
+      },
+      {
+        "transactionId": "01GZ4P14E44TXV0B8BB301NQGD",
+        "cost": 276.81,
+        "transactionTime": "2023-04-02 05:06:05"
+      },
+      {
+        "transactionId": "01GZ4P14R8QCW984AZQ0308R0D",
+        "cost": 341.2,
+        "transactionTime": "2023-04-06 18:06:41"
+      },
+      {
+        "transactionId": "01GZ4P14PBX2Y9K68EVF2AGAXX",
+        "cost": 99.1,
+        "transactionTime": "2023-04-13 05:03:46"
+      },
+      {
+        "transactionId": "01GZ4P14KSVF7RMY4S71PW0TSQ",
+        "cost": 322.87,
+        "transactionTime": "2023-04-17 10:56:47"
+      },
+      {
+        "transactionId": "01GZ4P14NG5QVJTKH9M1TTQZ32",
+        "cost": 151.23,
+        "transactionTime": "2023-04-20 01:20:32"
+      },
+      {
+        "transactionId": "01GZ4P14FAHWGS23P41FDWK7BW",
+        "cost": 469.95,
+        "transactionTime": "2023-04-20 22:44:43"
+      }
+    ]
+  },
+  {
+    "userId": "1004",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14NAWT54VVAEXPZ6GY21",
+        "cost": 496.08,
+        "transactionTime": "2023-01-01 09:07:03"
+      },
+      {
+        "transactionId": "01GZ4P14RNQG20EG5DZXW4J5W0",
+        "cost": 487.62,
+        "transactionTime": "2023-01-05 01:40:15"
+      },
+      {
+        "transactionId": "01GZ4P14SBTXQCZ7KZBAP58K45",
+        "cost": 90.18,
+        "transactionTime": "2023-01-11 12:10:58"
+      },
+      {
+        "transactionId": "01GZ4P14GWCPZR02ZJARJ67SHM",
+        "cost": 160.7,
+        "transactionTime": "2023-01-17 01:19:46"
+      },
+      {
+        "transactionId": "01GZ4P14S56YW4QSB1MF5E4B99",
+        "cost": 336.52,
+        "transactionTime": "2023-01-17 16:12:22"
+      },
+      {
+        "transactionId": "01GZ4P14HNPBX9P1D99NWJCM8P",
+        "cost": 199.41,
+        "transactionTime": "2023-01-18 21:52:58"
+      },
+      {
+        "transactionId": "01GZ4P14SHGFT9WMR0WRX08KZW",
+        "cost": 99.45,
+        "transactionTime": "2023-01-30 19:42:00"
+      },
+      {
+        "transactionId": "01GZ4P14JRKFWT0XJKXPD2JR6D",
+        "cost": 99.37,
+        "transactionTime": "2023-02-02 04:23:13"
+      },
+      {
+        "transactionId": "01GZ4P14GJGP4R265PPSGY6FK1",
+        "cost": 109.4,
+        "transactionTime": "2023-02-06 14:54:00"
+      },
+      {
+        "transactionId": "01GZ4P14FAKR6SNX3ZHTNTSGQJ",
+        "cost": 398.8,
+        "transactionTime": "2023-02-07 10:44:18"
+      },
+      {
+        "transactionId": "01GZ4P14HM5XKCVZVPK063MQE5",
+        "cost": 95.7,
+        "transactionTime": "2023-02-14 19:08:09"
+      },
+      {
+        "transactionId": "01GZ4P14PW9SMFVSBYZ1FVHV4G",
+        "cost": 310.17,
+        "transactionTime": "2023-02-19 23:20:19"
+      },
+      {
+        "transactionId": "01GZ4P14QY46A8CP59QWXCGC68",
+        "cost": 319.6,
+        "transactionTime": "2023-03-02 15:41:11"
+      },
+      {
+        "transactionId": "01GZ4P14X2C8EHFNNFHHSPVEEH",
+        "cost": 67.47,
+        "transactionTime": "2023-03-07 17:24:00"
+      },
+      {
+        "transactionId": "01GZ4P14GE3E15Y9WW1Q8QCX95",
+        "cost": 479.69,
+        "transactionTime": "2023-03-14 05:41:26"
+      },
+      {
+        "transactionId": "01GZ4P14JKCFRW5T0N8FZZKWZT",
+        "cost": 32.59,
+        "transactionTime": "2023-03-22 03:30:59"
+      },
+      {
+        "transactionId": "01GZ4P14KGR7T2F3ZRPR5S0A8T",
+        "cost": 59.77,
+        "transactionTime": "2023-03-23 13:29:42"
+      },
+      {
+        "transactionId": "01GZ4P14V0B5JNE1TBC5DJDNXC",
+        "cost": 279.23,
+        "transactionTime": "2023-03-25 03:17:06"
+      },
+      {
+        "transactionId": "01GZ4P14HFQ5QFMK9CF7B63JK2",
+        "cost": 108.81,
+        "transactionTime": "2023-03-29 23:25:45"
+      },
+      {
+        "transactionId": "01GZ4P14JDAAB2W4QX5Y8J26XV",
+        "cost": 262.2,
+        "transactionTime": "2023-04-02 23:56:04"
+      },
+      {
+        "transactionId": "01GZ4P14KV1Y0K7MPRCXHDM83N",
+        "cost": 168.26,
+        "transactionTime": "2023-04-08 07:02:20"
+      },
+      {
+        "transactionId": "01GZ4P14V2WME3X39R7RRVWWW1",
+        "cost": 107.74,
+        "transactionTime": "2023-04-13 00:31:56"
+      },
+      {
+        "transactionId": "01GZ4P14H4HF15JXBBDCRC2FQ7",
+        "cost": 410.85,
+        "transactionTime": "2023-04-21 04:19:12"
+      },
+      {
+        "transactionId": "01GZ4P14HH91JGHXQVMAAXDG5M",
+        "cost": 201.63,
+        "transactionTime": "2023-04-22 14:44:05"
+      },
+      {
+        "transactionId": "01GZ4P14S77FCZD2GXCTW8BGB5",
+        "cost": 284.09,
+        "transactionTime": "2023-04-25 19:19:50"
+      }
+    ]
+  },
+  {
+    "userId": "1005",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14RW5B9NKDQ1ZMV1X288",
+        "cost": 281.18,
+        "transactionTime": "2023-01-03 17:12:03"
+      },
+      {
+        "transactionId": "01GZ4P14R7P8702HFBM7RPNVJ0",
+        "cost": 115.16,
+        "transactionTime": "2023-01-06 04:06:30"
+      },
+      {
+        "transactionId": "01GZ4P14MAJ0NBSHJ4AXEJYH1M",
+        "cost": 76.73,
+        "transactionTime": "2023-01-12 15:45:52"
+      },
+      {
+        "transactionId": "01GZ4P14M3YKW1S81Q9YC1ZP9P",
+        "cost": 343.43,
+        "transactionTime": "2023-01-13 11:11:28"
+      },
+      {
+        "transactionId": "01GZ4P14PDVEGMJ1VA5XZ7F88A",
+        "cost": 345.9,
+        "transactionTime": "2023-01-15 15:44:46"
+      },
+      {
+        "transactionId": "01GZ4P14VZ296XJP998ZDSM98P",
+        "cost": 450.82,
+        "transactionTime": "2023-01-20 04:23:24"
+      },
+      {
+        "transactionId": "01GZ4P14QRV4XT5M9TY1EWKHR4",
+        "cost": 199.28,
+        "transactionTime": "2023-01-21 14:30:48"
+      },
+      {
+        "transactionId": "01GZ4P14JR3QCZXN59FA0ECZCQ",
+        "cost": 415.78,
+        "transactionTime": "2023-01-21 20:15:36"
+      },
+      {
+        "transactionId": "01GZ4P14EP3RDBNH0XH3X3F9B8",
+        "cost": 119.73,
+        "transactionTime": "2023-01-26 11:42:21"
+      },
+      {
+        "transactionId": "01GZ4P14N81XHT8WEE860NAJZ7",
+        "cost": 33.64,
+        "transactionTime": "2023-01-27 11:09:31"
+      },
+      {
+        "transactionId": "01GZ4P14WN6TK4FVH7T4S8VAAW",
+        "cost": 496.79,
+        "transactionTime": "2023-01-27 17:14:03"
+      },
+      {
+        "transactionId": "01GZ4P14J9T7ADGF6PSXJVPVJM",
+        "cost": 363.28,
+        "transactionTime": "2023-02-01 19:33:21"
+      },
+      {
+        "transactionId": "01GZ4P14VGY00602G30JJVGNBX",
+        "cost": 479.48,
+        "transactionTime": "2023-02-05 18:30:49"
+      },
+      {
+        "transactionId": "01GZ4P14PVQ5B42HQXSZGZ6ASM",
+        "cost": 453.64,
+        "transactionTime": "2023-02-13 09:40:30"
+      },
+      {
+        "transactionId": "01GZ4P14P5BYSBFC7CCHTF1BFN",
+        "cost": 64.44,
+        "transactionTime": "2023-02-19 18:48:15"
+      },
+      {
+        "transactionId": "01GZ4P14HW71KDBVXT3SFW7H4X",
+        "cost": 298.86,
+        "transactionTime": "2023-02-20 03:32:46"
+      },
+      {
+        "transactionId": "01GZ4P14S8SBCK0XBD3K0KE11D",
+        "cost": 498.9,
+        "transactionTime": "2023-02-22 07:06:52"
+      },
+      {
+        "transactionId": "01GZ4P14G6NPA373B80TS434DS",
+        "cost": 232.77,
+        "transactionTime": "2023-03-03 02:12:08"
+      },
+      {
+        "transactionId": "01GZ4P14J13HXGSKSBNJ3NCVGF",
+        "cost": 225.07,
+        "transactionTime": "2023-03-03 04:48:38"
+      },
+      {
+        "transactionId": "01GZ4P14F42GWZVT37VR8JSTFC",
+        "cost": 322.31,
+        "transactionTime": "2023-03-19 20:32:46"
+      },
+      {
+        "transactionId": "01GZ4P14MXJT395R3RB5DCX7XH",
+        "cost": 159.23,
+        "transactionTime": "2023-03-21 13:30:08"
+      },
+      {
+        "transactionId": "01GZ4P14FZARV7Z8R9BYKV03QM",
+        "cost": 49.03,
+        "transactionTime": "2023-03-27 10:21:20"
+      },
+      {
+        "transactionId": "01GZ4P14E5JQBZ405P8JHFJSKD",
+        "cost": 341.86,
+        "transactionTime": "2023-03-29 09:33:26"
+      },
+      {
+        "transactionId": "01GZ4P14NCFH74V4WYN3TQ9QQ7",
+        "cost": 31.08,
+        "transactionTime": "2023-03-30 16:13:19"
+      },
+      {
+        "transactionId": "01GZ4P14HQEHT9PSZRVTFZFTJK",
+        "cost": 358.82,
+        "transactionTime": "2023-04-08 04:03:32"
+      },
+      {
+        "transactionId": "01GZ4P14VK0AQRB4C2K8ET2HAM",
+        "cost": 373.08,
+        "transactionTime": "2023-04-08 18:44:37"
+      },
+      {
+        "transactionId": "01GZ4P14G0X74HED2W94N7V7X0",
+        "cost": 65.48,
+        "transactionTime": "2023-04-23 02:50:54"
+      },
+      {
+        "transactionId": "01GZ4P14Q80D85YF7Q2PXADNBH",
+        "cost": 139.92,
+        "transactionTime": "2023-04-26 13:54:13"
+      }
+    ]
+  },
+  {
+    "userId": "1006",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14S6Y9JHPPEZ2XWK8XBT",
+        "cost": 355.39,
+        "transactionTime": "2023-01-12 04:30:31"
+      },
+      {
+        "transactionId": "01GZ4P14FCFTTX49B4BVRVG5W8",
+        "cost": 26.98,
+        "transactionTime": "2023-01-14 21:41:00"
+      },
+      {
+        "transactionId": "01GZ4P14JTMD8CPT92CKD83KVN",
+        "cost": 412.02,
+        "transactionTime": "2023-01-15 13:05:04"
+      },
+      {
+        "transactionId": "01GZ4P14N799SSG1Q9MEXW8CAX",
+        "cost": 283.41,
+        "transactionTime": "2023-01-23 22:37:55"
+      },
+      {
+        "transactionId": "01GZ4P14SX0GRV0ECV664HCF78",
+        "cost": 94.81,
+        "transactionTime": "2023-01-30 00:51:19"
+      },
+      {
+        "transactionId": "01GZ4P14E0R0JQZXK3J74HAN90",
+        "cost": 455.78,
+        "transactionTime": "2023-02-02 12:53:22"
+      },
+      {
+        "transactionId": "01GZ4P14NET6QM5FT2FC7FXZPX",
+        "cost": 267.11,
+        "transactionTime": "2023-02-04 12:44:09"
+      },
+      {
+        "transactionId": "01GZ4P14HY22CV4W0R08WBZH0X",
+        "cost": 478.5,
+        "transactionTime": "2023-02-08 15:23:53"
+      },
+      {
+        "transactionId": "01GZ4P14HTYFH9741H238S2F1H",
+        "cost": 330.29,
+        "transactionTime": "2023-02-16 17:18:40"
+      },
+      {
+        "transactionId": "01GZ4P14K3V8FHN0AEV5ECW8JS",
+        "cost": 89.5,
+        "transactionTime": "2023-02-23 04:02:35"
+      },
+      {
+        "transactionId": "01GZ4P14R1TGX1BAVXBT72SXD9",
+        "cost": 493.43,
+        "transactionTime": "2023-02-25 18:57:35"
+      },
+      {
+        "transactionId": "01GZ4P14P9MGPTKVC2MZEYRKVV",
+        "cost": 423.2,
+        "transactionTime": "2023-02-26 01:07:12"
+      },
+      {
+        "transactionId": "01GZ4P14RYBCM9SMPW6E5F8TQA",
+        "cost": 111.56,
+        "transactionTime": "2023-03-02 03:47:21"
+      },
+      {
+        "transactionId": "01GZ4P14H381SXZNMXWZXFVYMC",
+        "cost": 441.51,
+        "transactionTime": "2023-03-07 22:12:30"
+      },
+      {
+        "transactionId": "01GZ4P14N5RA3VMNG7X3NY0102",
+        "cost": 370.26,
+        "transactionTime": "2023-03-09 20:20:13"
+      },
+      {
+        "transactionId": "01GZ4P14Q7HMZXFBM5F6CWCGYM",
+        "cost": 395.93,
+        "transactionTime": "2023-03-19 02:22:44"
+      },
+      {
+        "transactionId": "01GZ4P14PFW90TWB18FFKAWQ26",
+        "cost": 275.77,
+        "transactionTime": "2023-03-31 23:26:16"
+      },
+      {
+        "transactionId": "01GZ4P14KMJ92Z6AQNXPV5FA39",
+        "cost": 5.41,
+        "transactionTime": "2023-04-03 16:07:56"
+      },
+      {
+        "transactionId": "01GZ4P14J8BHTN23BWEHMBJV9C",
+        "cost": 154.66,
+        "transactionTime": "2023-04-08 11:41:20"
+      },
+      {
+        "transactionId": "01GZ4P14QTYVCE5VJMKVFVHSP7",
+        "cost": 28.96,
+        "transactionTime": "2023-04-14 16:53:32"
+      },
+      {
+        "transactionId": "01GZ4P14SMKW5PAC5HHKQXYSA2",
+        "cost": 311.51,
+        "transactionTime": "2023-04-15 11:06:28"
+      },
+      {
+        "transactionId": "01GZ4P14P2E7PX5Z5748NKE1P9",
+        "cost": 138.83,
+        "transactionTime": "2023-04-17 15:59:32"
+      },
+      {
+        "transactionId": "01GZ4P14EKY57WXJFFKS24BFHQ",
+        "cost": 364.04,
+        "transactionTime": "2023-04-19 14:15:15"
+      },
+      {
+        "transactionId": "01GZ4P14KHCBKPYGKBMEZMF500",
+        "cost": 282.75,
+        "transactionTime": "2023-04-22 08:00:50"
+      }
+    ]
+  },
+  {
+    "userId": "1007",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14P3A9QNS4Y62S1CE5FD",
+        "cost": 68.11,
+        "transactionTime": "2023-01-07 05:35:25"
+      },
+      {
+        "transactionId": "01GZ4P14G3TGK9HBM4GSGKZ6PR",
+        "cost": 363.38,
+        "transactionTime": "2023-01-12 18:45:53"
+      },
+      {
+        "transactionId": "01GZ4P14F1CDSSQYNM8D0F3GDJ",
+        "cost": 191.2,
+        "transactionTime": "2023-01-13 21:40:58"
+      },
+      {
+        "transactionId": "01GZ4P14GSQHNV6EJJWCCSZSAM",
+        "cost": 446.76,
+        "transactionTime": "2023-01-21 03:59:01"
+      },
+      {
+        "transactionId": "01GZ4P14J6BY53888A1FHTSEB4",
+        "cost": 409.71,
+        "transactionTime": "2023-02-06 23:56:54"
+      },
+      {
+        "transactionId": "01GZ4P14J6GF4BP7ZZCDYJ5M7T",
+        "cost": 159.79,
+        "transactionTime": "2023-02-15 00:23:19"
+      },
+      {
+        "transactionId": "01GZ4P14GBZDYBV9QBAX0SEPRY",
+        "cost": 138.65,
+        "transactionTime": "2023-02-15 20:02:24"
+      },
+      {
+        "transactionId": "01GZ4P14GYTDJ2F48M4RR7TBRM",
+        "cost": 463.67,
+        "transactionTime": "2023-03-06 10:43:37"
+      },
+      {
+        "transactionId": "01GZ4P14F396NXK6MP4RFTWXR8",
+        "cost": 394.96,
+        "transactionTime": "2023-03-07 04:00:29"
+      },
+      {
+        "transactionId": "01GZ4P14E0R7C5J5K4HV2KKZHV",
+        "cost": 381.28,
+        "transactionTime": "2023-03-12 07:09:10"
+      },
+      {
+        "transactionId": "01GZ4P14DZK6D9EF5DKPQW73VS",
+        "cost": 199.64,
+        "transactionTime": "2023-03-19 13:01:30"
+      },
+      {
+        "transactionId": "01GZ4P14RKT2YT4Y7MADJS0M3S",
+        "cost": 30.25,
+        "transactionTime": "2023-03-25 13:26:48"
+      },
+      {
+        "transactionId": "01GZ4P14WGFA06MA8DT44BY4DY",
+        "cost": 271.95,
+        "transactionTime": "2023-04-07 08:49:35"
+      },
+      {
+        "transactionId": "01GZ4P14HXWZF3MQB8XV4PWJHG",
+        "cost": 298.78,
+        "transactionTime": "2023-04-16 22:04:21"
+      },
+      {
+        "transactionId": "01GZ4P14HBYQSV3980RFFHZE98",
+        "cost": 108.71,
+        "transactionTime": "2023-04-18 19:33:26"
+      },
+      {
+        "transactionId": "01GZ4P14FRCSQEMWEFKDY3JS0W",
+        "cost": 161.3,
+        "transactionTime": "2023-04-20 18:29:51"
+      },
+      {
+        "transactionId": "01GZ4P14J6VAG0X1N0HG4RCDPD",
+        "cost": 26.02,
+        "transactionTime": "2023-04-26 18:40:10"
+      },
+      {
+        "transactionId": "01GZ4P14K29BNA623G2M00B3EX",
+        "cost": 425.89,
+        "transactionTime": "2023-04-27 23:08:24"
+      }
+    ]
+  },
+  {
+    "userId": "1008",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14GV4WW511XSSZVY483Z",
+        "cost": 372.14,
+        "transactionTime": "2023-01-03 14:13:12"
+      },
+      {
+        "transactionId": "01GZ4P14NSATTDQGE8D415DB2H",
+        "cost": 53.14,
+        "transactionTime": "2023-01-17 17:31:07"
+      },
+      {
+        "transactionId": "01GZ4P14S259XEB9WJ49C9E61X",
+        "cost": 321.36,
+        "transactionTime": "2023-01-27 21:41:13"
+      },
+      {
+        "transactionId": "01GZ4P14GKG87NY6K52TPSJP4E",
+        "cost": 272.39,
+        "transactionTime": "2023-01-30 06:38:20"
+      },
+      {
+        "transactionId": "01GZ4P14GYA2BZWGJDQHW16S4N",
+        "cost": 459.12,
+        "transactionTime": "2023-02-02 12:51:41"
+      },
+      {
+        "transactionId": "01GZ4P14VXJ9KDXXNKSAG507X9",
+        "cost": 76.54,
+        "transactionTime": "2023-02-14 09:10:36"
+      },
+      {
+        "transactionId": "01GZ4P14JAS99C0KBB359ACA1G",
+        "cost": 402.33,
+        "transactionTime": "2023-02-20 04:47:59"
+      },
+      {
+        "transactionId": "01GZ4P14X4PXVRC9B5R6X12K25",
+        "cost": 470.7,
+        "transactionTime": "2023-02-23 12:08:50"
+      },
+      {
+        "transactionId": "01GZ4P14NDX9JPS60B63C3S4EW",
+        "cost": 309.6,
+        "transactionTime": "2023-02-25 16:46:29"
+      },
+      {
+        "transactionId": "01GZ4P14VJB3PYGMP3QYQ1CX3M",
+        "cost": 145.45,
+        "transactionTime": "2023-02-27 14:28:20"
+      },
+      {
+        "transactionId": "01GZ4P14J20C589X2P9F189WJ6",
+        "cost": 205.95,
+        "transactionTime": "2023-03-12 19:04:31"
+      },
+      {
+        "transactionId": "01GZ4P14S2FPVES1D6Y5CW3DMC",
+        "cost": 372.9,
+        "transactionTime": "2023-03-17 16:20:01"
+      },
+      {
+        "transactionId": "01GZ4P14K9DZCXTKMA6948Z8KE",
+        "cost": 32.72,
+        "transactionTime": "2023-03-18 07:11:09"
+      },
+      {
+        "transactionId": "01GZ4P14RGFT55T1XJYYMKAQTK",
+        "cost": 465.45,
+        "transactionTime": "2023-03-18 13:51:14"
+      },
+      {
+        "transactionId": "01GZ4P14DZBB01S6C70CMTWEP9",
+        "cost": 23.84,
+        "transactionTime": "2023-04-03 18:59:12"
+      },
+      {
+        "transactionId": "01GZ4P14MDFYHABQGFRR9E6HJ1",
+        "cost": 272.65,
+        "transactionTime": "2023-04-06 19:51:33"
+      },
+      {
+        "transactionId": "01GZ4P14VJX2T3DKD8DD3DJ3V3",
+        "cost": 287.2,
+        "transactionTime": "2023-04-11 21:09:19"
+      },
+      {
+        "transactionId": "01GZ4P14GJEGSJYNMTW4GKG8Q4",
+        "cost": 346.04,
+        "transactionTime": "2023-04-16 21:14:16"
+      },
+      {
+        "transactionId": "01GZ4P14PTKXXZATKZ0HY2GY6P",
+        "cost": 152.67,
+        "transactionTime": "2023-04-22 12:18:25"
+      },
+      {
+        "transactionId": "01GZ4P14J5ZWBXC5SCCZE9MXBY",
+        "cost": 337.46,
+        "transactionTime": "2023-04-27 21:06:27"
+      },
+      {
+        "transactionId": "01GZ4P14T2ZJH7SW0N5GKHV35Q",
+        "cost": 156.75,
+        "transactionTime": "2023-04-27 22:56:02"
+      }
+    ]
+  },
+  {
+    "userId": "1009",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14GX9GBZPGFEXAAXPR8S",
+        "cost": 380.13,
+        "transactionTime": "2023-01-03 09:29:28"
+      },
+      {
+        "transactionId": "01GZ4P14EG4P5QW2F584K1JBCC",
+        "cost": 25.16,
+        "transactionTime": "2023-01-06 07:57:29"
+      },
+      {
+        "transactionId": "01GZ4P14TA0WGQ22WF2ZHZZCPG",
+        "cost": 143.56,
+        "transactionTime": "2023-01-12 04:36:43"
+      },
+      {
+        "transactionId": "01GZ4P14N7139QSZMFTWVPMDE9",
+        "cost": 109.55,
+        "transactionTime": "2023-02-20 00:28:02"
+      },
+      {
+        "transactionId": "01GZ4P14VQS787BBQ38V4DSJCV",
+        "cost": 90.74,
+        "transactionTime": "2023-02-22 22:14:32"
+      },
+      {
+        "transactionId": "01GZ4P14H66820ZJARMSFW3BSF",
+        "cost": 134.57,
+        "transactionTime": "2023-02-26 02:53:34"
+      },
+      {
+        "transactionId": "01GZ4P14MEYEY0Q2GGAA2M2ZX3",
+        "cost": 170.58,
+        "transactionTime": "2023-03-10 21:18:04"
+      },
+      {
+        "transactionId": "01GZ4P14HRYADR52JSRVEKP49Z",
+        "cost": 366.31,
+        "transactionTime": "2023-03-14 12:39:56"
+      },
+      {
+        "transactionId": "01GZ4P14N3QTM5JF1RSGK4B11G",
+        "cost": 31.17,
+        "transactionTime": "2023-03-14 21:45:29"
+      },
+      {
+        "transactionId": "01GZ4P14TXPBA8B5YFY8MMRPYM",
+        "cost": 481.04,
+        "transactionTime": "2023-03-17 23:25:06"
+      },
+      {
+        "transactionId": "01GZ4P14GS9GY1ZQ8GDWQH4K2Q",
+        "cost": 123.17,
+        "transactionTime": "2023-03-26 05:03:14"
+      },
+      {
+        "transactionId": "01GZ4P14JPA2EX21NX9J1MCW20",
+        "cost": 233,
+        "transactionTime": "2023-03-29 16:22:19"
+      },
+      {
+        "transactionId": "01GZ4P14FDETCE8FEEKAE9QR77",
+        "cost": 462.84,
+        "transactionTime": "2023-04-04 12:46:31"
+      },
+      {
+        "transactionId": "01GZ4P14WA86SSCZVHH3CY8TN9",
+        "cost": 144.51,
+        "transactionTime": "2023-04-09 21:44:46"
+      },
+      {
+        "transactionId": "01GZ4P14EXNZYQFSYYB7YMK9AF",
+        "cost": 259.98,
+        "transactionTime": "2023-04-10 06:14:00"
+      },
+      {
+        "transactionId": "01GZ4P14HZE5G360RFK3HECH7G",
+        "cost": 135.39,
+        "transactionTime": "2023-04-10 19:24:51"
+      },
+      {
+        "transactionId": "01GZ4P14G9R2FH4M1964R2QFTT",
+        "cost": 397.04,
+        "transactionTime": "2023-04-18 04:44:33"
+      },
+      {
+        "transactionId": "01GZ4P14KXTQYV6PBRXX5J0EEQ",
+        "cost": 169.43,
+        "transactionTime": "2023-04-19 16:10:02"
+      },
+      {
+        "transactionId": "01GZ4P14VVP9T6GQD4TERKQG6H",
+        "cost": 231.36,
+        "transactionTime": "2023-04-25 09:15:46"
+      },
+      {
+        "transactionId": "01GZ4P14NSA1X8EK2F68HPWA50",
+        "cost": 326.5,
+        "transactionTime": "2023-04-27 19:21:03"
+      }
+    ]
+  },
+  {
+    "userId": "1010",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14SDDMPD0WF06TKDC728",
+        "cost": 327.34,
+        "transactionTime": "2023-01-03 01:08:20"
+      },
+      {
+        "transactionId": "01GZ4P14KBYGA19NM1RDBDBF3V",
+        "cost": 170.78,
+        "transactionTime": "2023-01-06 19:14:17"
+      },
+      {
+        "transactionId": "01GZ4P14H96ABJ51D8EHNPZ6NH",
+        "cost": 340.09,
+        "transactionTime": "2023-01-08 10:35:05"
+      },
+      {
+        "transactionId": "01GZ4P14N6YFJTM8GZTAGZ8MJY",
+        "cost": 24.24,
+        "transactionTime": "2023-01-10 22:33:13"
+      },
+      {
+        "transactionId": "01GZ4P14E8YFH81N661EQA6V2R",
+        "cost": 287.41,
+        "transactionTime": "2023-01-11 18:57:47"
+      },
+      {
+        "transactionId": "01GZ4P14E95R060BSC5Y17C9JK",
+        "cost": 342.9,
+        "transactionTime": "2023-01-22 17:36:48"
+      },
+      {
+        "transactionId": "01GZ4P14H0RSD83859WM1NSPZH",
+        "cost": 114.9,
+        "transactionTime": "2023-01-23 04:31:32"
+      },
+      {
+        "transactionId": "01GZ4P14SCTP3PFQAJY3SM3HG3",
+        "cost": 333.63,
+        "transactionTime": "2023-02-01 20:52:33"
+      },
+      {
+        "transactionId": "01GZ4P14WQD1HQ9BN5TJG5D7EJ",
+        "cost": 49.89,
+        "transactionTime": "2023-02-03 06:54:06"
+      },
+      {
+        "transactionId": "01GZ4P14GD1B5ZFJDN38APDWBN",
+        "cost": 422.58,
+        "transactionTime": "2023-03-12 09:40:09"
+      },
+      {
+        "transactionId": "01GZ4P14WRA596NPC223GX7VN9",
+        "cost": 351.85,
+        "transactionTime": "2023-04-20 09:47:50"
+      },
+      {
+        "transactionId": "01GZ4P14S4GN1APYM6EY5DDTVX",
+        "cost": 203.16,
+        "transactionTime": "2023-04-27 17:26:11"
+      }
+    ]
+  },
+  {
+    "userId": "1011",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14VAM115E23RJC11ECAD",
+        "cost": 312.96,
+        "transactionTime": "2023-01-03 06:20:06"
+      },
+      {
+        "transactionId": "01GZ4P14Q5G5MNAEB97208ZQBV",
+        "cost": 410.37,
+        "transactionTime": "2023-01-21 11:21:36"
+      },
+      {
+        "transactionId": "01GZ4P14T97WVQB43H5HVMC57F",
+        "cost": 487.78,
+        "transactionTime": "2023-02-07 05:14:03"
+      },
+      {
+        "transactionId": "01GZ4P14SJNVX64MZ7FDG5DR7V",
+        "cost": 443.21,
+        "transactionTime": "2023-02-08 13:33:39"
+      },
+      {
+        "transactionId": "01GZ4P14HGV0MD1GEDQVDPN2PQ",
+        "cost": 222.37,
+        "transactionTime": "2023-02-15 10:28:57"
+      },
+      {
+        "transactionId": "01GZ4P14V8RZ400999C3KGTPCZ",
+        "cost": 260.27,
+        "transactionTime": "2023-02-15 14:25:45"
+      },
+      {
+        "transactionId": "01GZ4P14HE9VDRJ5V5G65RWRAF",
+        "cost": 134.13,
+        "transactionTime": "2023-02-24 19:57:03"
+      },
+      {
+        "transactionId": "01GZ4P14J3M7JW5Y77RYV9NVK5",
+        "cost": 234.97,
+        "transactionTime": "2023-03-07 07:07:27"
+      },
+      {
+        "transactionId": "01GZ4P14G2449HWVGYWZ2WAB3Z",
+        "cost": 41.79,
+        "transactionTime": "2023-03-21 09:13:33"
+      },
+      {
+        "transactionId": "01GZ4P14HCR0KKNW16HGXWJTE5",
+        "cost": 377.09,
+        "transactionTime": "2023-03-24 12:28:17"
+      },
+      {
+        "transactionId": "01GZ4P14NPS8Y14S0DYSMDC713",
+        "cost": 449.88,
+        "transactionTime": "2023-04-02 01:26:06"
+      },
+      {
+        "transactionId": "01GZ4P14QQ360Z1EVXHKD1GG4A",
+        "cost": 8.5,
+        "transactionTime": "2023-04-04 15:18:06"
+      },
+      {
+        "transactionId": "01GZ4P14GPH4T8HD4N444TNFJ4",
+        "cost": 68.02,
+        "transactionTime": "2023-04-06 09:38:41"
+      },
+      {
+        "transactionId": "01GZ4P14N50M2X4TT8B7C4QKFB",
+        "cost": 295.74,
+        "transactionTime": "2023-04-08 20:51:04"
+      },
+      {
+        "transactionId": "01GZ4P14PJ6ZYC2G6K2RAB19B4",
+        "cost": 160.59,
+        "transactionTime": "2023-04-12 09:02:47"
+      },
+      {
+        "transactionId": "01GZ4P14S7YWYCNWBTB7TEKN2V",
+        "cost": 243.71,
+        "transactionTime": "2023-04-13 01:10:46"
+      },
+      {
+        "transactionId": "01GZ4P14PCA4EH7EXTGTB50QDH",
+        "cost": 259,
+        "transactionTime": "2023-04-17 15:57:54"
+      },
+      {
+        "transactionId": "01GZ4P14JQPMFHWM63GAG50ECN",
+        "cost": 360.45,
+        "transactionTime": "2023-04-21 22:04:18"
+      }
+    ]
+  },
+  {
+    "userId": "1012",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14JCPAWR2YYEYQ0DMYZW",
+        "cost": 291.15,
+        "transactionTime": "2023-01-12 04:32:41"
+      },
+      {
+        "transactionId": "01GZ4P14GG2NHEZWTXNGW695Y3",
+        "cost": 281.38,
+        "transactionTime": "2023-01-28 18:06:18"
+      },
+      {
+        "transactionId": "01GZ4P14X1E56V5MW43JRZG24W",
+        "cost": 319.79,
+        "transactionTime": "2023-02-01 12:34:42"
+      },
+      {
+        "transactionId": "01GZ4P14FRXGZQY48FSF15Q4EV",
+        "cost": 251.85,
+        "transactionTime": "2023-02-02 02:39:24"
+      },
+      {
+        "transactionId": "01GZ4P14JGS77SNDPGGD203KM9",
+        "cost": 348.61,
+        "transactionTime": "2023-02-04 19:45:13"
+      },
+      {
+        "transactionId": "01GZ4P14N4JZBX4EKYJV7ZRHVR",
+        "cost": 82.31,
+        "transactionTime": "2023-03-07 00:22:59"
+      },
+      {
+        "transactionId": "01GZ4P14NZA2P6SHG6NR1YB81P",
+        "cost": 286.83,
+        "transactionTime": "2023-03-10 13:42:38"
+      },
+      {
+        "transactionId": "01GZ4P14KQ5AQN83N3P7XHGWX8",
+        "cost": 265.35,
+        "transactionTime": "2023-03-11 14:35:50"
+      },
+      {
+        "transactionId": "01GZ4P14VQ5J9SG82JK1F220BP",
+        "cost": 139.88,
+        "transactionTime": "2023-03-12 00:03:55"
+      },
+      {
+        "transactionId": "01GZ4P14KMWAZMK074K9MM1S97",
+        "cost": 105.41,
+        "transactionTime": "2023-03-17 14:15:01"
+      },
+      {
+        "transactionId": "01GZ4P14V92SZH5AV65ME20PVD",
+        "cost": 15.21,
+        "transactionTime": "2023-03-20 14:48:32"
+      },
+      {
+        "transactionId": "01GZ4P14WBV1DT2JF4N7ZAKABH",
+        "cost": 284.8,
+        "transactionTime": "2023-03-26 11:39:33"
+      },
+      {
+        "transactionId": "01GZ4P14R6RNZA9TPWD37G4JA1",
+        "cost": 72.32,
+        "transactionTime": "2023-03-30 11:39:08"
+      },
+      {
+        "transactionId": "01GZ4P14ER8JWA4R4AGMZG9R9J",
+        "cost": 99.75,
+        "transactionTime": "2023-04-01 18:24:08"
+      },
+      {
+        "transactionId": "01GZ4P14JX3291EP2NAYTCX389",
+        "cost": 217.34,
+        "transactionTime": "2023-04-02 16:04:13"
+      },
+      {
+        "transactionId": "01GZ4P14JF4TX91XN7Q1VRRM0F",
+        "cost": 417.71,
+        "transactionTime": "2023-04-07 15:24:37"
+      },
+      {
+        "transactionId": "01GZ4P14SNC3C2N7KPYBH4XH5Q",
+        "cost": 332.56,
+        "transactionTime": "2023-04-19 01:46:59"
+      },
+      {
+        "transactionId": "01GZ4P14G9J2EDS4DT9SEBZJRR",
+        "cost": 370.65,
+        "transactionTime": "2023-04-20 09:38:01"
+      }
+    ]
+  },
+  {
+    "userId": "1013",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14HAKND6756BJHX3ZVHB",
+        "cost": 412.72,
+        "transactionTime": "2023-01-01 18:54:16"
+      },
+      {
+        "transactionId": "01GZ4P14FT9D5GEJTN0YR82EJ7",
+        "cost": 240.12,
+        "transactionTime": "2023-01-10 05:53:19"
+      },
+      {
+        "transactionId": "01GZ4P14HVGNZPH33Z5KAWC9YY",
+        "cost": 8.97,
+        "transactionTime": "2023-01-12 21:37:28"
+      },
+      {
+        "transactionId": "01GZ4P14JDPQ9WQNPKPSSNR2HZ",
+        "cost": 361.55,
+        "transactionTime": "2023-01-14 07:49:36"
+      },
+      {
+        "transactionId": "01GZ4P14JV6BBFKH71X4F7Q9ZT",
+        "cost": 248.21,
+        "transactionTime": "2023-01-19 02:18:50"
+      },
+      {
+        "transactionId": "01GZ4P14RANA4QX7THYZ20GSS7",
+        "cost": 330.52,
+        "transactionTime": "2023-01-19 16:24:41"
+      },
+      {
+        "transactionId": "01GZ4P14FCM5HB735RNVES6WQT",
+        "cost": 270.65,
+        "transactionTime": "2023-01-28 08:01:21"
+      },
+      {
+        "transactionId": "01GZ4P14QG18YKWP3YQXVRQVPQ",
+        "cost": 73.51,
+        "transactionTime": "2023-01-31 21:50:24"
+      },
+      {
+        "transactionId": "01GZ4P14H97AYXMJC4WT16ZEGQ",
+        "cost": 146.78,
+        "transactionTime": "2023-02-02 23:30:44"
+      },
+      {
+        "transactionId": "01GZ4P14FH91CM5TV6WTBK2V2P",
+        "cost": 343.05,
+        "transactionTime": "2023-02-03 15:47:15"
+      },
+      {
+        "transactionId": "01GZ4P14HV7G2DC13EFKGSYM6K",
+        "cost": 172.02,
+        "transactionTime": "2023-02-06 07:03:47"
+      },
+      {
+        "transactionId": "01GZ4P14NRKSVQT41Y6PJ5NJYN",
+        "cost": 209.8,
+        "transactionTime": "2023-02-14 16:36:16"
+      },
+      {
+        "transactionId": "01GZ4P14MWCYR1M1CY4DYBYX1Q",
+        "cost": 151.78,
+        "transactionTime": "2023-02-21 11:59:04"
+      },
+      {
+        "transactionId": "01GZ4P14R6VGK2BMJPASWYP3ZR",
+        "cost": 117.51,
+        "transactionTime": "2023-02-23 17:59:29"
+      },
+      {
+        "transactionId": "01GZ4P14E97WBPNMQ10NY8QE4N",
+        "cost": 193.76,
+        "transactionTime": "2023-03-01 19:25:32"
+      },
+      {
+        "transactionId": "01GZ4P14E8T1516HBXS732HT8C",
+        "cost": 334.4,
+        "transactionTime": "2023-03-02 09:51:16"
+      },
+      {
+        "transactionId": "01GZ4P14JC3VQYTWCEHZDAJHCA",
+        "cost": 74.67,
+        "transactionTime": "2023-03-06 17:12:21"
+      },
+      {
+        "transactionId": "01GZ4P14PM2HT2PT8HSCQ8GSPQ",
+        "cost": 204.04,
+        "transactionTime": "2023-03-10 03:21:51"
+      },
+      {
+        "transactionId": "01GZ4P14MDYF22FK65P9EXMWAR",
+        "cost": 182.49,
+        "transactionTime": "2023-03-13 13:14:09"
+      },
+      {
+        "transactionId": "01GZ4P14K01REPQG0MPGWDPQKM",
+        "cost": 244.78,
+        "transactionTime": "2023-03-20 09:07:57"
+      },
+      {
+        "transactionId": "01GZ4P14PHERCPFB7V4ATY33TQ",
+        "cost": 13.84,
+        "transactionTime": "2023-03-20 12:24:59"
+      },
+      {
+        "transactionId": "01GZ4P14PNWT36STDFA9H7FSS4",
+        "cost": 102.38,
+        "transactionTime": "2023-03-23 15:44:35"
+      },
+      {
+        "transactionId": "01GZ4P14W90D47VSACYSMZGPCX",
+        "cost": 476.59,
+        "transactionTime": "2023-03-26 17:16:10"
+      },
+      {
+        "transactionId": "01GZ4P14JWGRA18AJ2BVYGZ071",
+        "cost": 367.69,
+        "transactionTime": "2023-03-27 06:22:04"
+      },
+      {
+        "transactionId": "01GZ4P14Q7349SHZEB29B18CDE",
+        "cost": 407.42,
+        "transactionTime": "2023-03-29 13:14:08"
+      },
+      {
+        "transactionId": "01GZ4P14G4MR2WNPQNZ8XD9TDS",
+        "cost": 333.68,
+        "transactionTime": "2023-03-31 09:14:57"
+      },
+      {
+        "transactionId": "01GZ4P14NSQ40G7KAVVG67MBS0",
+        "cost": 162.03,
+        "transactionTime": "2023-04-06 08:37:13"
+      },
+      {
+        "transactionId": "01GZ4P14GZ8FMG34C3HQC8P3B8",
+        "cost": 106.3,
+        "transactionTime": "2023-04-21 05:42:16"
+      },
+      {
+        "transactionId": "01GZ4P14G7AW8T8YNSVWZXJXTK",
+        "cost": 441.59,
+        "transactionTime": "2023-04-25 02:10:17"
+      }
+    ]
+  },
+  {
+    "userId": "1014",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14RWKSDEZWY2SMAMNFE6",
+        "cost": 270.74,
+        "transactionTime": "2023-01-04 10:58:51"
+      },
+      {
+        "transactionId": "01GZ4P14REK9GCS5QP7N1C0XNP",
+        "cost": 72.52,
+        "transactionTime": "2023-01-05 17:32:46"
+      },
+      {
+        "transactionId": "01GZ4P14S0S2KEG9W95Q5253JC",
+        "cost": 67.71,
+        "transactionTime": "2023-01-07 23:37:10"
+      },
+      {
+        "transactionId": "01GZ4P14FQGCNQVN5SBHVXQ9NN",
+        "cost": 380.43,
+        "transactionTime": "2023-01-14 22:08:16"
+      },
+      {
+        "transactionId": "01GZ4P14E7VGPW2Q7NYFS8JNY0",
+        "cost": 109.79,
+        "transactionTime": "2023-01-16 20:42:22"
+      },
+      {
+        "transactionId": "01GZ4P14K2MB0REQFGJYKVP5NW",
+        "cost": 101.86,
+        "transactionTime": "2023-01-20 23:07:39"
+      },
+      {
+        "transactionId": "01GZ4P14PXNNT590BMMKP7XQ5V",
+        "cost": 91.88,
+        "transactionTime": "2023-01-22 17:47:31"
+      },
+      {
+        "transactionId": "01GZ4P14QE7MT4XCZTXGJ140DZ",
+        "cost": 248.46,
+        "transactionTime": "2023-01-23 10:33:41"
+      },
+      {
+        "transactionId": "01GZ4P14S2QGPM56V03KN1FPSQ",
+        "cost": 163.39,
+        "transactionTime": "2023-01-23 15:00:28"
+      },
+      {
+        "transactionId": "01GZ4P14NJ74PSXPD8N11RYP9C",
+        "cost": 271.44,
+        "transactionTime": "2023-01-27 19:25:41"
+      },
+      {
+        "transactionId": "01GZ4P14PASDPTJ9MV23NYBDG6",
+        "cost": 18.98,
+        "transactionTime": "2023-01-31 07:13:19"
+      },
+      {
+        "transactionId": "01GZ4P14PWRCRBED5RN5FHJ09Q",
+        "cost": 422.33,
+        "transactionTime": "2023-01-31 12:51:40"
+      },
+      {
+        "transactionId": "01GZ4P14W3854Z5KZAEAGDT2Z1",
+        "cost": 447.75,
+        "transactionTime": "2023-02-06 09:10:57"
+      },
+      {
+        "transactionId": "01GZ4P14QHC7WJX8WKFVXBA9BE",
+        "cost": 208.72,
+        "transactionTime": "2023-02-13 16:57:08"
+      },
+      {
+        "transactionId": "01GZ4P14JBXNV5ZHRC81RG95SG",
+        "cost": 420.29,
+        "transactionTime": "2023-02-17 02:07:20"
+      },
+      {
+        "transactionId": "01GZ4P14FMM6TP8F5QYSES2DJG",
+        "cost": 368.73,
+        "transactionTime": "2023-02-20 16:39:10"
+      },
+      {
+        "transactionId": "01GZ4P14QMBP7EJH4GH4Z2PMW2",
+        "cost": 225.9,
+        "transactionTime": "2023-02-22 08:27:58"
+      },
+      {
+        "transactionId": "01GZ4P14R16TNCHB6TGWJTKY7G",
+        "cost": 90.24,
+        "transactionTime": "2023-02-24 03:09:35"
+      },
+      {
+        "transactionId": "01GZ4P14S5177B9N9BJ6FN84YN",
+        "cost": 105.96,
+        "transactionTime": "2023-03-04 22:40:56"
+      },
+      {
+        "transactionId": "01GZ4P14QMFNKPRVRZHBJ0R209",
+        "cost": 39.44,
+        "transactionTime": "2023-03-15 04:32:28"
+      },
+      {
+        "transactionId": "01GZ4P14FXGPW8EVZMKJWTWHQ1",
+        "cost": 28.17,
+        "transactionTime": "2023-03-17 01:23:40"
+      },
+      {
+        "transactionId": "01GZ4P14KE1ZNT72H95ZV6SDMX",
+        "cost": 364.35,
+        "transactionTime": "2023-03-21 19:29:57"
+      },
+      {
+        "transactionId": "01GZ4P14GHFZ6WYVCWGQ1YACQ4",
+        "cost": 264.78,
+        "transactionTime": "2023-03-27 09:21:38"
+      },
+      {
+        "transactionId": "01GZ4P14PJKZ8KMT5FGTWG9ZKD",
+        "cost": 170.61,
+        "transactionTime": "2023-03-29 02:40:20"
+      },
+      {
+        "transactionId": "01GZ4P14R1KMFVVKMTASG19DC9",
+        "cost": 454.8,
+        "transactionTime": "2023-03-31 04:27:38"
+      },
+      {
+        "transactionId": "01GZ4P14FX7RX5RYJPAVBZWGYM",
+        "cost": 13.88,
+        "transactionTime": "2023-04-02 18:00:49"
+      },
+      {
+        "transactionId": "01GZ4P14EM18BD7V4817SQT8HP",
+        "cost": 52.26,
+        "transactionTime": "2023-04-08 20:25:43"
+      },
+      {
+        "transactionId": "01GZ4P14R073KHVTAZ7N3RWEDE",
+        "cost": 117.33,
+        "transactionTime": "2023-04-10 16:05:44"
+      }
+    ]
+  },
+  {
+    "userId": "1015",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14Q523YSMENQV7C0K9FZ",
+        "cost": 146.27,
+        "transactionTime": "2023-01-05 19:29:56"
+      },
+      {
+        "transactionId": "01GZ4P14FT5ENMPQXHWAED5J8K",
+        "cost": 210.41,
+        "transactionTime": "2023-01-07 00:06:33"
+      },
+      {
+        "transactionId": "01GZ4P14GAH5KPQFWFRAJ37GCM",
+        "cost": 241.97,
+        "transactionTime": "2023-01-07 10:37:15"
+      },
+      {
+        "transactionId": "01GZ4P14PW741KWTR814A719VR",
+        "cost": 311.94,
+        "transactionTime": "2023-01-17 22:43:04"
+      },
+      {
+        "transactionId": "01GZ4P14K5VD34YK9Y46NMS0HD",
+        "cost": 265.27,
+        "transactionTime": "2023-01-25 01:09:20"
+      },
+      {
+        "transactionId": "01GZ4P14F0PRAKBQA88HMV5XMC",
+        "cost": 344.04,
+        "transactionTime": "2023-01-25 03:31:51"
+      },
+      {
+        "transactionId": "01GZ4P14T4BVQCTPK3D3TCFT51",
+        "cost": 484.14,
+        "transactionTime": "2023-01-28 00:58:08"
+      },
+      {
+        "transactionId": "01GZ4P14W76XF34GJNPTYVBHS5",
+        "cost": 200.36,
+        "transactionTime": "2023-02-02 12:58:54"
+      },
+      {
+        "transactionId": "01GZ4P14EETG7W5Z0XPM678VPV",
+        "cost": 127.86,
+        "transactionTime": "2023-02-02 20:08:25"
+      },
+      {
+        "transactionId": "01GZ4P14G6BXAC11KJ6BHQW6XT",
+        "cost": 61.49,
+        "transactionTime": "2023-02-12 04:58:02"
+      },
+      {
+        "transactionId": "01GZ4P14GBHAYZD33ZAPJ709WX",
+        "cost": 135.6,
+        "transactionTime": "2023-02-17 02:15:43"
+      },
+      {
+        "transactionId": "01GZ4P14QAJY744QJM5K0ST8PK",
+        "cost": 498.64,
+        "transactionTime": "2023-03-06 10:22:29"
+      },
+      {
+        "transactionId": "01GZ4P14MFT2M3PWVS6J0GMSFE",
+        "cost": 299.12,
+        "transactionTime": "2023-03-11 15:37:56"
+      },
+      {
+        "transactionId": "01GZ4P14T5NYXSYEFGWPJMWJ02",
+        "cost": 55.87,
+        "transactionTime": "2023-03-13 02:26:54"
+      },
+      {
+        "transactionId": "01GZ4P14X0QE4Y1N814MJVSXN0",
+        "cost": 223.71,
+        "transactionTime": "2023-03-17 15:46:42"
+      },
+      {
+        "transactionId": "01GZ4P14GKJTG0DEQD23J267ZW",
+        "cost": 280.43,
+        "transactionTime": "2023-03-21 03:55:30"
+      },
+      {
+        "transactionId": "01GZ4P14WBKY7PSNJK9B8C2DRS",
+        "cost": 285.38,
+        "transactionTime": "2023-03-29 08:23:37"
+      },
+      {
+        "transactionId": "01GZ4P14QW2S9YTXXPGQE03HGR",
+        "cost": 452.81,
+        "transactionTime": "2023-03-30 21:55:31"
+      },
+      {
+        "transactionId": "01GZ4P14F9MEG2EXFHR04TA4YR",
+        "cost": 100.69,
+        "transactionTime": "2023-04-02 13:54:16"
+      },
+      {
+        "transactionId": "01GZ4P14HJW5GZ18BGVS3YVNEH",
+        "cost": 392.5,
+        "transactionTime": "2023-04-04 19:28:29"
+      },
+      {
+        "transactionId": "01GZ4P14WCF90AAWWBP3BAVVN1",
+        "cost": 357.89,
+        "transactionTime": "2023-04-11 14:42:11"
+      },
+      {
+        "transactionId": "01GZ4P14EYNP7CA25BQBEW7TCR",
+        "cost": 164.15,
+        "transactionTime": "2023-04-13 06:24:26"
+      },
+      {
+        "transactionId": "01GZ4P14S3S046ES6FMF5FSXYZ",
+        "cost": 82.59,
+        "transactionTime": "2023-04-22 16:50:41"
+      }
+    ]
+  },
+  {
+    "userId": "1016",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14QYRNQY8DK8DY8067FS",
+        "cost": 52.18,
+        "transactionTime": "2023-01-08 13:53:20"
+      },
+      {
+        "transactionId": "01GZ4P14RFEAS0Q60F51G7MCVB",
+        "cost": 238.5,
+        "transactionTime": "2023-01-12 18:11:48"
+      },
+      {
+        "transactionId": "01GZ4P14Q23SC16N7D751AT14N",
+        "cost": 162.59,
+        "transactionTime": "2023-01-20 00:27:23"
+      },
+      {
+        "transactionId": "01GZ4P14QAH7110H9AGA1WGJB2",
+        "cost": 60.91,
+        "transactionTime": "2023-01-30 05:13:30"
+      },
+      {
+        "transactionId": "01GZ4P14F6TY0EGDRDSJ6B5SWY",
+        "cost": 324.91,
+        "transactionTime": "2023-02-01 08:30:44"
+      },
+      {
+        "transactionId": "01GZ4P14N09RVDYERXNW1VQ17Q",
+        "cost": 478.41,
+        "transactionTime": "2023-02-07 14:40:46"
+      },
+      {
+        "transactionId": "01GZ4P14J41878RZF7GJRNA7T0",
+        "cost": 220.36,
+        "transactionTime": "2023-02-12 12:45:51"
+      },
+      {
+        "transactionId": "01GZ4P14KKGEXKNTHM2KS3YGWK",
+        "cost": 446.69,
+        "transactionTime": "2023-02-14 03:25:22"
+      },
+      {
+        "transactionId": "01GZ4P14Q43NWKRVJ3867MNKKF",
+        "cost": 107.55,
+        "transactionTime": "2023-02-16 09:32:09"
+      },
+      {
+        "transactionId": "01GZ4P14SEJSA9NJBXJZRA55R1",
+        "cost": 264.51,
+        "transactionTime": "2023-02-18 04:56:56"
+      },
+      {
+        "transactionId": "01GZ4P14QX0WRENTE8JYF2H9TX",
+        "cost": 55.65,
+        "transactionTime": "2023-02-19 18:12:33"
+      },
+      {
+        "transactionId": "01GZ4P14J841J128NH64SBVKD0",
+        "cost": 434.71,
+        "transactionTime": "2023-02-22 19:41:37"
+      },
+      {
+        "transactionId": "01GZ4P14KFVFYFNTGPHDM95Y5Q",
+        "cost": 186.8,
+        "transactionTime": "2023-03-04 06:17:16"
+      },
+      {
+        "transactionId": "01GZ4P14QVZMQAZNZE4ZQMW8BX",
+        "cost": 64.62,
+        "transactionTime": "2023-03-10 06:57:13"
+      },
+      {
+        "transactionId": "01GZ4P14FM7NKFMY4SVFQPW3EJ",
+        "cost": 429.78,
+        "transactionTime": "2023-03-11 04:51:48"
+      },
+      {
+        "transactionId": "01GZ4P14EZ7G1DH00A6R0AV6N2",
+        "cost": 246.97,
+        "transactionTime": "2023-03-12 00:18:48"
+      },
+      {
+        "transactionId": "01GZ4P14QHPC4VTYZN31BYWRMP",
+        "cost": 131.73,
+        "transactionTime": "2023-03-19 11:09:49"
+      },
+      {
+        "transactionId": "01GZ4P14MR5ZHCG7Q62FNVJ7FP",
+        "cost": 240.44,
+        "transactionTime": "2023-03-24 01:30:54"
+      },
+      {
+        "transactionId": "01GZ4P14WPZ2RH6HBWMDSQPH35",
+        "cost": 296.76,
+        "transactionTime": "2023-04-01 17:22:12"
+      },
+      {
+        "transactionId": "01GZ4P14QRZ3W21P6BJYR4DTS1",
+        "cost": 333.3,
+        "transactionTime": "2023-04-15 14:35:55"
+      },
+      {
+        "transactionId": "01GZ4P14KPETYXC4J6007NAF4C",
+        "cost": 379,
+        "transactionTime": "2023-04-24 04:29:44"
+      }
+    ]
+  },
+  {
+    "userId": "1017",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14HASVXJ40BV1X23WRQG",
+        "cost": 309.83,
+        "transactionTime": "2023-01-01 17:40:19"
+      },
+      {
+        "transactionId": "01GZ4P14QJEAWG67009QSYSG2H",
+        "cost": 484.47,
+        "transactionTime": "2023-01-02 21:06:55"
+      },
+      {
+        "transactionId": "01GZ4P14G1B3XDC5PDP5T4D881",
+        "cost": 400.2,
+        "transactionTime": "2023-01-02 21:08:34"
+      },
+      {
+        "transactionId": "01GZ4P14W0FA9PN33Q1RA12P0H",
+        "cost": 97.73,
+        "transactionTime": "2023-01-07 12:11:43"
+      },
+      {
+        "transactionId": "01GZ4P14EVTHQYNBCVYBW9R2S5",
+        "cost": 157.48,
+        "transactionTime": "2023-01-09 05:09:00"
+      },
+      {
+        "transactionId": "01GZ4P14NW1SNKB8N75ZKV47E6",
+        "cost": 40.01,
+        "transactionTime": "2023-01-13 08:54:53"
+      },
+      {
+        "transactionId": "01GZ4P14T62ANDM8DFS3A3CXJJ",
+        "cost": 18.79,
+        "transactionTime": "2023-01-15 20:12:53"
+      },
+      {
+        "transactionId": "01GZ4P14GBYWDFZ27E64TNC537",
+        "cost": 128.11,
+        "transactionTime": "2023-01-26 07:09:56"
+      },
+      {
+        "transactionId": "01GZ4P14PZJGNC4QXKG08GS69S",
+        "cost": 440.15,
+        "transactionTime": "2023-01-28 11:19:03"
+      },
+      {
+        "transactionId": "01GZ4P14PFMWJPNVDW68ARH0H5",
+        "cost": 90.63,
+        "transactionTime": "2023-01-28 12:02:07"
+      },
+      {
+        "transactionId": "01GZ4P14X63TW6KTSMKYQ3QK6Z",
+        "cost": 391.16,
+        "transactionTime": "2023-02-01 10:17:49"
+      },
+      {
+        "transactionId": "01GZ4P14MVNCSPX96HYSA1V1XF",
+        "cost": 201.21,
+        "transactionTime": "2023-02-02 07:31:12"
+      },
+      {
+        "transactionId": "01GZ4P14R58RSCF5RR9KW4CXKT",
+        "cost": 327.46,
+        "transactionTime": "2023-02-05 02:39:50"
+      },
+      {
+        "transactionId": "01GZ4P14JH4E49H50FE20Q59K9",
+        "cost": 17.52,
+        "transactionTime": "2023-02-12 13:35:42"
+      },
+      {
+        "transactionId": "01GZ4P14M1S0BE1K6D5G17GQ9H",
+        "cost": 385.3,
+        "transactionTime": "2023-03-03 21:27:04"
+      },
+      {
+        "transactionId": "01GZ4P14RXDPJQBZX3GM30W1AK",
+        "cost": 168.17,
+        "transactionTime": "2023-03-13 01:23:06"
+      },
+      {
+        "transactionId": "01GZ4P14QN8VTTY3RCAAZ72ETM",
+        "cost": 109.34,
+        "transactionTime": "2023-03-14 00:53:07"
+      },
+      {
+        "transactionId": "01GZ4P14KAPQK2YT5EZH0VZ4MV",
+        "cost": 384.71,
+        "transactionTime": "2023-03-24 04:02:03"
+      },
+      {
+        "transactionId": "01GZ4P14V1C00Z10B47PKN9F1A",
+        "cost": 372.45,
+        "transactionTime": "2023-03-25 12:32:23"
+      },
+      {
+        "transactionId": "01GZ4P14F507ZK4RB31SQ9NTV7",
+        "cost": 338.21,
+        "transactionTime": "2023-03-29 19:03:35"
+      },
+      {
+        "transactionId": "01GZ4P14NX4MXYFWRKMF4B4FPF",
+        "cost": 56.14,
+        "transactionTime": "2023-04-10 06:53:29"
+      },
+      {
+        "transactionId": "01GZ4P14K4G4TSPQ0N886DVX6E",
+        "cost": 121.72,
+        "transactionTime": "2023-04-14 08:46:09"
+      },
+      {
+        "transactionId": "01GZ4P14FZN21FKK6KWTA7A0W0",
+        "cost": 461.03,
+        "transactionTime": "2023-04-14 18:05:02"
+      },
+      {
+        "transactionId": "01GZ4P14JQ3ZA5N223K3FR694Z",
+        "cost": 463.16,
+        "transactionTime": "2023-04-20 07:37:17"
+      }
+    ]
+  },
+  {
+    "userId": "1018",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14HN436XRNWWMTBYFYTH",
+        "cost": 24.25,
+        "transactionTime": "2023-01-01 22:22:27"
+      },
+      {
+        "transactionId": "01GZ4P14WZCQTTX7W23SZP3N8E",
+        "cost": 435.69,
+        "transactionTime": "2023-01-10 01:25:01"
+      },
+      {
+        "transactionId": "01GZ4P14JJAZMJN41PJAGZ89V5",
+        "cost": 92.58,
+        "transactionTime": "2023-01-14 19:32:26"
+      },
+      {
+        "transactionId": "01GZ4P14Q2YY3AX0MDAWC3AYKR",
+        "cost": 131,
+        "transactionTime": "2023-01-18 22:31:23"
+      },
+      {
+        "transactionId": "01GZ4P14WEKB2DF8ZAABX5X2GZ",
+        "cost": 210.42,
+        "transactionTime": "2023-01-21 11:13:28"
+      },
+      {
+        "transactionId": "01GZ4P14NCS5QMHB2B9D3533Y4",
+        "cost": 228.76,
+        "transactionTime": "2023-01-23 18:04:57"
+      },
+      {
+        "transactionId": "01GZ4P14FB1VHFJ349BQYG3B6Q",
+        "cost": 41.12,
+        "transactionTime": "2023-01-26 03:57:06"
+      },
+      {
+        "transactionId": "01GZ4P14QYCTQG6AV0T8C6ZNKG",
+        "cost": 498.94,
+        "transactionTime": "2023-02-05 20:40:50"
+      },
+      {
+        "transactionId": "01GZ4P14P474YK89FJBE22VNWE",
+        "cost": 482.79,
+        "transactionTime": "2023-02-16 13:04:57"
+      },
+      {
+        "transactionId": "01GZ4P14E3RKBR0C6JSREE2G5N",
+        "cost": 74.92,
+        "transactionTime": "2023-02-20 08:56:42"
+      },
+      {
+        "transactionId": "01GZ4P14W13R9NJY75SR9NVYS2",
+        "cost": 178.48,
+        "transactionTime": "2023-02-26 04:51:40"
+      },
+      {
+        "transactionId": "01GZ4P14MQ9Q51XC3E459KPB4C",
+        "cost": 320.81,
+        "transactionTime": "2023-03-02 05:31:00"
+      },
+      {
+        "transactionId": "01GZ4P14GAGFNVBDVKE87ZRWWC",
+        "cost": 36.61,
+        "transactionTime": "2023-03-04 08:47:43"
+      },
+      {
+        "transactionId": "01GZ4P14TZ7M6H4FS70KHY3VMS",
+        "cost": 294.5,
+        "transactionTime": "2023-03-09 05:04:08"
+      },
+      {
+        "transactionId": "01GZ4P14S6QEQ6RQH2ZZ50781K",
+        "cost": 323.83,
+        "transactionTime": "2023-03-23 22:38:31"
+      },
+      {
+        "transactionId": "01GZ4P14PSKCKCT23KSAC0VZ04",
+        "cost": 469.07,
+        "transactionTime": "2023-04-01 12:50:15"
+      },
+      {
+        "transactionId": "01GZ4P14MSVMPQYBD2Y861PQZF",
+        "cost": 316.76,
+        "transactionTime": "2023-04-02 13:39:07"
+      },
+      {
+        "transactionId": "01GZ4P14WMS50J1TJM7ASN5CFZ",
+        "cost": 434.47,
+        "transactionTime": "2023-04-02 14:26:16"
+      },
+      {
+        "transactionId": "01GZ4P14KAPZ06KXY411CS7S4R",
+        "cost": 322.4,
+        "transactionTime": "2023-04-02 22:56:20"
+      },
+      {
+        "transactionId": "01GZ4P14PRD2NSV1X5931K34ZH",
+        "cost": 461.83,
+        "transactionTime": "2023-04-05 02:15:40"
+      },
+      {
+        "transactionId": "01GZ4P14FVPM0H5DVPZZTZKJE4",
+        "cost": 246.6,
+        "transactionTime": "2023-04-08 20:29:27"
+      },
+      {
+        "transactionId": "01GZ4P14QFC9V0QWZMWJ84JHRX",
+        "cost": 259.73,
+        "transactionTime": "2023-04-13 09:54:09"
+      },
+      {
+        "transactionId": "01GZ4P14P6ZNQWADFTP4YYEXZM",
+        "cost": 88.71,
+        "transactionTime": "2023-04-15 15:20:08"
+      },
+      {
+        "transactionId": "01GZ4P14NEMDXAG1SANW0VG91S",
+        "cost": 288.03,
+        "transactionTime": "2023-04-15 16:50:55"
+      },
+      {
+        "transactionId": "01GZ4P14P06W7MKTY3EDJWDZTN",
+        "cost": 191.44,
+        "transactionTime": "2023-04-17 12:16:23"
+      },
+      {
+        "transactionId": "01GZ4P14P7N6EV5RWPYHTY30RB",
+        "cost": 461.41,
+        "transactionTime": "2023-04-22 20:31:25"
+      }
+    ]
+  },
+  {
+    "userId": "1019",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14G1GBJH945PA7M7WJ5N",
+        "cost": 489.44,
+        "transactionTime": "2023-01-08 04:43:11"
+      },
+      {
+        "transactionId": "01GZ4P14QK01PM8EMP0PFDJG3Z",
+        "cost": 55.17,
+        "transactionTime": "2023-01-16 00:19:04"
+      },
+      {
+        "transactionId": "01GZ4P14S98QHK92GWHK5096PC",
+        "cost": 434.31,
+        "transactionTime": "2023-01-20 15:25:22"
+      },
+      {
+        "transactionId": "01GZ4P14MZWYKYTC3T360W07NV",
+        "cost": 148.45,
+        "transactionTime": "2023-01-21 23:53:57"
+      },
+      {
+        "transactionId": "01GZ4P14ST84BTKT6J1T4S95FP",
+        "cost": 395.99,
+        "transactionTime": "2023-01-27 13:11:13"
+      },
+      {
+        "transactionId": "01GZ4P14SQ1PYR4YKG4QGK086D",
+        "cost": 442.92,
+        "transactionTime": "2023-01-31 06:25:11"
+      },
+      {
+        "transactionId": "01GZ4P14G1NGC19KB2PN23Z1GD",
+        "cost": 45.94,
+        "transactionTime": "2023-02-03 17:11:04"
+      },
+      {
+        "transactionId": "01GZ4P14FD2HB8553H04CBQZEG",
+        "cost": 276.07,
+        "transactionTime": "2023-02-08 10:13:02"
+      },
+      {
+        "transactionId": "01GZ4P14KKDJ58RFTN22ZJFB0H",
+        "cost": 410.66,
+        "transactionTime": "2023-02-13 20:43:59"
+      },
+      {
+        "transactionId": "01GZ4P14P1T3D62DRJA7PJFCV7",
+        "cost": 62.07,
+        "transactionTime": "2023-02-14 06:18:35"
+      },
+      {
+        "transactionId": "01GZ4P14SG4Y68ZKST4KQFRST3",
+        "cost": 126.49,
+        "transactionTime": "2023-02-17 16:28:56"
+      },
+      {
+        "transactionId": "01GZ4P14PBGC3KH0ZZ39K3EXV6",
+        "cost": 207.21,
+        "transactionTime": "2023-02-25 02:09:58"
+      },
+      {
+        "transactionId": "01GZ4P14X51EM40K8GJTQ2DJKT",
+        "cost": 305.23,
+        "transactionTime": "2023-03-08 23:58:06"
+      },
+      {
+        "transactionId": "01GZ4P14QZBR99DP4X7F79P4TM",
+        "cost": 9.97,
+        "transactionTime": "2023-03-10 00:33:10"
+      },
+      {
+        "transactionId": "01GZ4P14KJ8XB9A27E1QY4Q46X",
+        "cost": 190.85,
+        "transactionTime": "2023-03-20 00:40:39"
+      },
+      {
+        "transactionId": "01GZ4P14VTXWV6R4C871FN3MN4",
+        "cost": 313.17,
+        "transactionTime": "2023-03-20 07:02:27"
+      },
+      {
+        "transactionId": "01GZ4P14WGJM4ARA4JW1VNVJST",
+        "cost": 114.8,
+        "transactionTime": "2023-03-22 19:38:26"
+      },
+      {
+        "transactionId": "01GZ4P14NT6N8XN760BDVZBJ5X",
+        "cost": 197.82,
+        "transactionTime": "2023-04-05 04:24:48"
+      },
+      {
+        "transactionId": "01GZ4P14FSXDE6DE1CEG09STNN",
+        "cost": 97.24,
+        "transactionTime": "2023-04-21 18:09:25"
+      },
+      {
+        "transactionId": "01GZ4P14QMYQVDMR4VQRHS19K5",
+        "cost": 265.75,
+        "transactionTime": "2023-04-22 07:37:10"
+      },
+      {
+        "transactionId": "01GZ4P14ESHZEGW7DNT8PEZ5EQ",
+        "cost": 7.79,
+        "transactionTime": "2023-04-23 19:37:00"
+      }
+    ]
+  },
+  {
+    "userId": "1020",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14G3RRPQ049YJQ7YZ3XC",
+        "cost": 45.63,
+        "transactionTime": "2023-01-01 10:08:48"
+      },
+      {
+        "transactionId": "01GZ4P14F8M1JKTBRQ4TE4W77Z",
+        "cost": 275.71,
+        "transactionTime": "2023-01-09 10:53:09"
+      },
+      {
+        "transactionId": "01GZ4P14K5J1YK7MC95GKBY20T",
+        "cost": 357.81,
+        "transactionTime": "2023-01-28 19:30:32"
+      },
+      {
+        "transactionId": "01GZ4P14PG2RFVRBAY3PSAF4D6",
+        "cost": 30.19,
+        "transactionTime": "2023-02-07 06:21:18"
+      },
+      {
+        "transactionId": "01GZ4P14VXAFADE5ZKDE8VZFJC",
+        "cost": 434.22,
+        "transactionTime": "2023-02-19 08:30:56"
+      },
+      {
+        "transactionId": "01GZ4P14QEGE7NSH171B8RGHB3",
+        "cost": 222.46,
+        "transactionTime": "2023-03-01 01:19:48"
+      },
+      {
+        "transactionId": "01GZ4P14GHDVBZ9D6Q371H6V5V",
+        "cost": 498.2,
+        "transactionTime": "2023-03-09 22:32:12"
+      },
+      {
+        "transactionId": "01GZ4P14RZSXWQW9XHW9TW3GNK",
+        "cost": 214.13,
+        "transactionTime": "2023-03-10 02:17:46"
+      },
+      {
+        "transactionId": "01GZ4P14NZNSVXAA8K8K3X1H5X",
+        "cost": 493.92,
+        "transactionTime": "2023-03-10 18:23:46"
+      },
+      {
+        "transactionId": "01GZ4P14RXKXZ6VPANYCPFQ6SK",
+        "cost": 181.67,
+        "transactionTime": "2023-03-12 09:14:34"
+      },
+      {
+        "transactionId": "01GZ4P14F3FWBD807J5JH3XP9G",
+        "cost": 298,
+        "transactionTime": "2023-03-17 05:28:50"
+      },
+      {
+        "transactionId": "01GZ4P14GN89WE1BNZPGY9RGW8",
+        "cost": 329.37,
+        "transactionTime": "2023-03-21 01:49:11"
+      },
+      {
+        "transactionId": "01GZ4P14E2K7AAY4FEPWBZB8JP",
+        "cost": 284.81,
+        "transactionTime": "2023-03-26 11:52:19"
+      },
+      {
+        "transactionId": "01GZ4P14T7RW753HD2ZNGYQ4Q7",
+        "cost": 340.78,
+        "transactionTime": "2023-04-02 18:24:10"
+      },
+      {
+        "transactionId": "01GZ4P14QK9NDE9G72W125S6X1",
+        "cost": 169,
+        "transactionTime": "2023-04-18 13:56:13"
+      },
+      {
+        "transactionId": "01GZ4P14KBNFQ1Q9S5Q5C8NDK7",
+        "cost": 307.86,
+        "transactionTime": "2023-04-21 15:28:27"
+      },
+      {
+        "transactionId": "01GZ4P14NB8AQEGAN2XY9VC2MN",
+        "cost": 83.01,
+        "transactionTime": "2023-04-23 08:36:13"
+      }
+    ]
+  },
+  {
+    "userId": "1021",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14WVVJ6F5D2HADFX7EDY",
+        "cost": 330.92,
+        "transactionTime": "2023-01-05 20:35:07"
+      },
+      {
+        "transactionId": "01GZ4P14NNM501B23ETDXF6RDA",
+        "cost": 172.9,
+        "transactionTime": "2023-02-04 12:55:33"
+      },
+      {
+        "transactionId": "01GZ4P14W0NEM258F4K5S9E7PN",
+        "cost": 40.25,
+        "transactionTime": "2023-02-05 02:07:58"
+      },
+      {
+        "transactionId": "01GZ4P14MK4A922E94JV695D65",
+        "cost": 85.11,
+        "transactionTime": "2023-02-08 17:51:58"
+      },
+      {
+        "transactionId": "01GZ4P14EBTR8S74C4T847TJ1K",
+        "cost": 449.86,
+        "transactionTime": "2023-02-16 13:23:53"
+      },
+      {
+        "transactionId": "01GZ4P14FY7117W3QRDB1DDTJW",
+        "cost": 157.6,
+        "transactionTime": "2023-03-20 03:05:39"
+      },
+      {
+        "transactionId": "01GZ4P14HVR1DAJA87QQR8T5JS",
+        "cost": 119.63,
+        "transactionTime": "2023-03-20 03:20:30"
+      },
+      {
+        "transactionId": "01GZ4P14MG8WBC33MEDKTGVNT9",
+        "cost": 353.75,
+        "transactionTime": "2023-03-23 18:41:36"
+      },
+      {
+        "transactionId": "01GZ4P14FYV5686W4HH3PM8W1N",
+        "cost": 244.8,
+        "transactionTime": "2023-03-25 02:45:01"
+      },
+      {
+        "transactionId": "01GZ4P14NQMWRAGEGXXRXEPCBH",
+        "cost": 29.58,
+        "transactionTime": "2023-03-31 13:51:58"
+      },
+      {
+        "transactionId": "01GZ4P14FSK83F872W7W8XWBF3",
+        "cost": 43.76,
+        "transactionTime": "2023-04-08 09:19:18"
+      },
+      {
+        "transactionId": "01GZ4P14KWPR3WPRJJKQG488TY",
+        "cost": 395.79,
+        "transactionTime": "2023-04-14 06:07:18"
+      },
+      {
+        "transactionId": "01GZ4P14E19ES57M60G4ANSAZ9",
+        "cost": 462.82,
+        "transactionTime": "2023-04-27 02:16:15"
+      }
+    ]
+  },
+  {
+    "userId": "1022",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14GF2X6GWZEQKWPFAPCB",
+        "cost": 187.35,
+        "transactionTime": "2023-01-05 19:18:22"
+      },
+      {
+        "transactionId": "01GZ4P14F52YM7NT78GSS185AV",
+        "cost": 182.24,
+        "transactionTime": "2023-01-06 02:21:15"
+      },
+      {
+        "transactionId": "01GZ4P14PX02M3DMQETKG6R26J",
+        "cost": 117.08,
+        "transactionTime": "2023-01-08 16:31:33"
+      },
+      {
+        "transactionId": "01GZ4P14NNXVTYN5QARK7DRCKE",
+        "cost": 475.58,
+        "transactionTime": "2023-01-08 22:33:34"
+      },
+      {
+        "transactionId": "01GZ4P14E4RDJRF5974WPTDR9M",
+        "cost": 200.36,
+        "transactionTime": "2023-01-20 14:34:02"
+      },
+      {
+        "transactionId": "01GZ4P14WN13WP8CRGG7H9P37H",
+        "cost": 271.11,
+        "transactionTime": "2023-01-25 15:18:20"
+      },
+      {
+        "transactionId": "01GZ4P14GTH7370372YVQAE3D4",
+        "cost": 467.84,
+        "transactionTime": "2023-01-27 21:15:45"
+      },
+      {
+        "transactionId": "01GZ4P14Q8QJGQ0Z21QHAPGSJY",
+        "cost": 158.18,
+        "transactionTime": "2023-01-31 19:41:57"
+      },
+      {
+        "transactionId": "01GZ4P14QXWGB7XWJ3XE4E6E46",
+        "cost": 349.92,
+        "transactionTime": "2023-02-08 12:14:02"
+      },
+      {
+        "transactionId": "01GZ4P14P3FVP5B7D09AKGB6HW",
+        "cost": 157.59,
+        "transactionTime": "2023-02-16 08:38:49"
+      },
+      {
+        "transactionId": "01GZ4P14JSYAYQ70YFW9SBJBA7",
+        "cost": 139.02,
+        "transactionTime": "2023-02-19 13:28:07"
+      },
+      {
+        "transactionId": "01GZ4P14PGEGJ1YVFQ9V5E9JNC",
+        "cost": 251.97,
+        "transactionTime": "2023-03-21 17:41:18"
+      },
+      {
+        "transactionId": "01GZ4P14R8WHRFT3NK8AE42QWB",
+        "cost": 355.03,
+        "transactionTime": "2023-03-22 18:05:16"
+      },
+      {
+        "transactionId": "01GZ4P14S3J8P5AB7B9BEE9VVD",
+        "cost": 163.92,
+        "transactionTime": "2023-03-25 16:13:00"
+      },
+      {
+        "transactionId": "01GZ4P14MWHCK84PFD4572B785",
+        "cost": 265.94,
+        "transactionTime": "2023-04-01 10:21:42"
+      },
+      {
+        "transactionId": "01GZ4P14MNQAWTFB9VF9FCQT4Y",
+        "cost": 430.61,
+        "transactionTime": "2023-04-08 21:44:48"
+      },
+      {
+        "transactionId": "01GZ4P14GR001QS57CBMF9Y7TY",
+        "cost": 54.72,
+        "transactionTime": "2023-04-20 03:41:36"
+      },
+      {
+        "transactionId": "01GZ4P14KYSCZ9TKBSC13RFT1M",
+        "cost": 84.06,
+        "transactionTime": "2023-04-20 23:55:30"
+      },
+      {
+        "transactionId": "01GZ4P14QDAP4QB7GTWEJHHKSP",
+        "cost": 428.53,
+        "transactionTime": "2023-04-22 09:17:36"
+      },
+      {
+        "transactionId": "01GZ4P14QDBVWFFDWFY4FZR84J",
+        "cost": 444.07,
+        "transactionTime": "2023-04-24 15:18:47"
+      },
+      {
+        "transactionId": "01GZ4P14WHJ60SKCCPYR6TVKAA",
+        "cost": 424.2,
+        "transactionTime": "2023-04-24 22:53:53"
+      },
+      {
+        "transactionId": "01GZ4P14QVPH4HPGTECCTE36KW",
+        "cost": 66.23,
+        "transactionTime": "2023-04-25 16:54:50"
+      }
+    ]
+  },
+  {
+    "userId": "1023",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14P047BY9K1CN72XDSD3",
+        "cost": 491.47,
+        "transactionTime": "2023-01-01 06:37:46"
+      },
+      {
+        "transactionId": "01GZ4P14GTB5QWVKETGF5KKD12",
+        "cost": 86.33,
+        "transactionTime": "2023-01-02 15:26:24"
+      },
+      {
+        "transactionId": "01GZ4P14KJ8C9WNHB63J4M4AB9",
+        "cost": 339.75,
+        "transactionTime": "2023-01-16 19:44:25"
+      },
+      {
+        "transactionId": "01GZ4P14X0EC6F3FG81ATT9C8V",
+        "cost": 205.86,
+        "transactionTime": "2023-01-18 01:43:19"
+      },
+      {
+        "transactionId": "01GZ4P14RJ6RM6VMXYB70EY5A9",
+        "cost": 458.23,
+        "transactionTime": "2023-01-19 20:45:05"
+      },
+      {
+        "transactionId": "01GZ4P14R4AAK204B4BRZ43997",
+        "cost": 311.66,
+        "transactionTime": "2023-01-21 07:40:19"
+      },
+      {
+        "transactionId": "01GZ4P14QWN0T0A5QM4PYGP77W",
+        "cost": 461.95,
+        "transactionTime": "2023-01-24 12:41:17"
+      },
+      {
+        "transactionId": "01GZ4P14EFHAS402SYE607YH5Y",
+        "cost": 288.21,
+        "transactionTime": "2023-01-26 00:57:52"
+      },
+      {
+        "transactionId": "01GZ4P14QRM8S6TT1NM7QDZC0K",
+        "cost": 250.15,
+        "transactionTime": "2023-01-28 07:09:20"
+      },
+      {
+        "transactionId": "01GZ4P14HC057X9DHDZ4T0981Q",
+        "cost": 10.1,
+        "transactionTime": "2023-01-28 13:59:34"
+      },
+      {
+        "transactionId": "01GZ4P14HKEZ3E6WFZRD8Y2QTE",
+        "cost": 4.29,
+        "transactionTime": "2023-02-09 17:19:23"
+      },
+      {
+        "transactionId": "01GZ4P14N2C88H8TQVKF4G2JK4",
+        "cost": 388.21,
+        "transactionTime": "2023-02-16 04:38:35"
+      },
+      {
+        "transactionId": "01GZ4P14JTPP5ZHS3BZYCD3D7B",
+        "cost": 287.72,
+        "transactionTime": "2023-02-19 06:17:14"
+      },
+      {
+        "transactionId": "01GZ4P14ND8T1HC9Y7SFXWMACC",
+        "cost": 296.44,
+        "transactionTime": "2023-03-08 16:29:02"
+      },
+      {
+        "transactionId": "01GZ4P14TZF8RC172029PZ14JK",
+        "cost": 494.76,
+        "transactionTime": "2023-03-10 00:17:43"
+      },
+      {
+        "transactionId": "01GZ4P14F1R7AKSEWW9542QHX9",
+        "cost": 161.84,
+        "transactionTime": "2023-03-10 10:51:38"
+      },
+      {
+        "transactionId": "01GZ4P14MPQMCWW8KK1TJQM925",
+        "cost": 225.82,
+        "transactionTime": "2023-03-13 11:28:30"
+      },
+      {
+        "transactionId": "01GZ4P14M9B61VDACCEJ4FAPE6",
+        "cost": 282.05,
+        "transactionTime": "2023-03-22 04:10:42"
+      },
+      {
+        "transactionId": "01GZ4P14PYFVM94BBEB0JE1M8V",
+        "cost": 88.7,
+        "transactionTime": "2023-03-22 08:29:11"
+      },
+      {
+        "transactionId": "01GZ4P14QFYC8XYMXVXCAEBCAZ",
+        "cost": 93.54,
+        "transactionTime": "2023-03-28 12:41:30"
+      },
+      {
+        "transactionId": "01GZ4P14R5S7GEXQGRQF3NPDTJ",
+        "cost": 375.97,
+        "transactionTime": "2023-03-31 01:58:48"
+      },
+      {
+        "transactionId": "01GZ4P14WA3FCJPDSNDENF0ZRA",
+        "cost": 2.76,
+        "transactionTime": "2023-04-06 02:17:57"
+      },
+      {
+        "transactionId": "01GZ4P14FEQCCHNQBMTQQTRCWQ",
+        "cost": 57.37,
+        "transactionTime": "2023-04-07 14:44:12"
+      },
+      {
+        "transactionId": "01GZ4P14VTVK0FFNJE47CKDM9K",
+        "cost": 238.3,
+        "transactionTime": "2023-04-09 06:35:09"
+      },
+      {
+        "transactionId": "01GZ4P14X1BZW1QAHF66GVQSDB",
+        "cost": 363.78,
+        "transactionTime": "2023-04-13 12:49:31"
+      },
+      {
+        "transactionId": "01GZ4P14T6A5GR64J04ECYFJ7R",
+        "cost": 39.25,
+        "transactionTime": "2023-04-15 11:24:55"
+      },
+      {
+        "transactionId": "01GZ4P14S1DY0FPZ4XQ984JW3Y",
+        "cost": 246.67,
+        "transactionTime": "2023-04-16 22:06:11"
+      },
+      {
+        "transactionId": "01GZ4P14TYAAFFRXYAJQ8VZESB",
+        "cost": 285,
+        "transactionTime": "2023-04-17 13:00:53"
+      },
+      {
+        "transactionId": "01GZ4P14QF3S6SCVSKZGZ7NBFG",
+        "cost": 145.59,
+        "transactionTime": "2023-04-22 23:17:29"
+      },
+      {
+        "transactionId": "01GZ4P14NF8TBPQ0B0JAYN4S31",
+        "cost": 427.91,
+        "transactionTime": "2023-04-27 13:58:19"
+      }
+    ]
+  },
+  {
+    "userId": "1024",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14EDFHT0F7VR5PG1W0DF",
+        "cost": 302.16,
+        "transactionTime": "2023-01-07 18:01:10"
+      },
+      {
+        "transactionId": "01GZ4P14WMJF1RE0TEAKR98WBJ",
+        "cost": 171.03,
+        "transactionTime": "2023-01-17 06:11:42"
+      },
+      {
+        "transactionId": "01GZ4P14J4ZWCQ3E53K1FPTX7K",
+        "cost": 57.63,
+        "transactionTime": "2023-01-25 00:29:59"
+      },
+      {
+        "transactionId": "01GZ4P14R0R6ADBM00716TZQQX",
+        "cost": 448.86,
+        "transactionTime": "2023-02-05 20:15:51"
+      },
+      {
+        "transactionId": "01GZ4P14R28PRH7PCH0N2EC2XJ",
+        "cost": 342.21,
+        "transactionTime": "2023-02-06 20:13:16"
+      },
+      {
+        "transactionId": "01GZ4P14R7R6KTFB7RX4RH25C9",
+        "cost": 331.86,
+        "transactionTime": "2023-02-08 23:49:58"
+      },
+      {
+        "transactionId": "01GZ4P14QNZ9ZX3CV63ZDCYT0H",
+        "cost": 352.79,
+        "transactionTime": "2023-02-24 22:55:27"
+      },
+      {
+        "transactionId": "01GZ4P14Q51YZTBY3NEVS05PN6",
+        "cost": 111.57,
+        "transactionTime": "2023-03-03 13:55:08"
+      },
+      {
+        "transactionId": "01GZ4P14EWTF2ZVA1WJ7N6JHS5",
+        "cost": 394.28,
+        "transactionTime": "2023-03-06 14:16:03"
+      },
+      {
+        "transactionId": "01GZ4P14NH6DX6VS8PC8VZW9TE",
+        "cost": 394.21,
+        "transactionTime": "2023-03-16 06:47:40"
+      },
+      {
+        "transactionId": "01GZ4P14NB3VJ7F2DW0N9HNBJX",
+        "cost": 401.05,
+        "transactionTime": "2023-03-25 11:59:00"
+      },
+      {
+        "transactionId": "01GZ4P14EVCR86KQ2HQD6294VK",
+        "cost": 271.05,
+        "transactionTime": "2023-04-10 19:55:04"
+      },
+      {
+        "transactionId": "01GZ4P14R4WS82ZYA4TNKP49R1",
+        "cost": 419.99,
+        "transactionTime": "2023-04-11 21:21:16"
+      },
+      {
+        "transactionId": "01GZ4P14WVEFAFZG3WT4ATY70N",
+        "cost": 323.88,
+        "transactionTime": "2023-04-11 21:25:21"
+      },
+      {
+        "transactionId": "01GZ4P14JNKQF8Q81Z0V587K85",
+        "cost": 469.03,
+        "transactionTime": "2023-04-14 20:45:15"
+      }
+    ]
+  },
+  {
+    "userId": "1025",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14JPBCX32GMM3KXPE63A",
+        "cost": 392.72,
+        "transactionTime": "2023-01-06 19:24:50"
+      },
+      {
+        "transactionId": "01GZ4P14V3MH4TQV8T3MQB0AMF",
+        "cost": 242.83,
+        "transactionTime": "2023-01-16 05:11:52"
+      },
+      {
+        "transactionId": "01GZ4P14SG5480KCCM06B7F67A",
+        "cost": 307.77,
+        "transactionTime": "2023-01-19 10:13:49"
+      },
+      {
+        "transactionId": "01GZ4P14W29AX9V1K8K5763ENQ",
+        "cost": 333.11,
+        "transactionTime": "2023-01-20 18:50:52"
+      },
+      {
+        "transactionId": "01GZ4P14KDTGAGP916KWHNR72N",
+        "cost": 219.8,
+        "transactionTime": "2023-02-05 07:22:55"
+      },
+      {
+        "transactionId": "01GZ4P14VNR7FEF9TZVJH7XAP7",
+        "cost": 411.49,
+        "transactionTime": "2023-02-08 14:52:39"
+      },
+      {
+        "transactionId": "01GZ4P14ES97GF99CD0J63GE7N",
+        "cost": 354.11,
+        "transactionTime": "2023-02-11 14:34:59"
+      },
+      {
+        "transactionId": "01GZ4P14J1PBPCWYMWTRPK1996",
+        "cost": 42.93,
+        "transactionTime": "2023-02-18 13:48:39"
+      },
+      {
+        "transactionId": "01GZ4P14MY4F0KY99B3CMG7T0J",
+        "cost": 171.09,
+        "transactionTime": "2023-02-18 17:24:58"
+      },
+      {
+        "transactionId": "01GZ4P14PDBQAP9AZRAPAEKPPV",
+        "cost": 456.97,
+        "transactionTime": "2023-03-02 00:17:59"
+      },
+      {
+        "transactionId": "01GZ4P14E3CNZX90ADF736ZRBH",
+        "cost": 286.78,
+        "transactionTime": "2023-03-12 19:25:42"
+      },
+      {
+        "transactionId": "01GZ4P14DYAEZNG6T71SGRZAZ2",
+        "cost": 262.57,
+        "transactionTime": "2023-03-19 17:16:10"
+      },
+      {
+        "transactionId": "01GZ4P14SM6NGR8DKKB4GN0NQN",
+        "cost": 102.72,
+        "transactionTime": "2023-03-28 04:08:56"
+      },
+      {
+        "transactionId": "01GZ4P14HSW4560J9Z57N465R5",
+        "cost": 77.76,
+        "transactionTime": "2023-03-28 04:59:22"
+      },
+      {
+        "transactionId": "01GZ4P14W3KVZ5GJG6ZZTNTSZ9",
+        "cost": 264.66,
+        "transactionTime": "2023-04-02 21:28:46"
+      },
+      {
+        "transactionId": "01GZ4P14MBM4E57X2NSXAQ4NCS",
+        "cost": 106.55,
+        "transactionTime": "2023-04-06 05:34:01"
+      },
+      {
+        "transactionId": "01GZ4P14K0B0H1TKEJ9TD21P82",
+        "cost": 8.08,
+        "transactionTime": "2023-04-07 19:53:19"
+      },
+      {
+        "transactionId": "01GZ4P14MHKA8TM5Q5WQP2SNQK",
+        "cost": 132.43,
+        "transactionTime": "2023-04-08 06:26:31"
+      },
+      {
+        "transactionId": "01GZ4P14HCP8CGVZEDZMMJC7N9",
+        "cost": 328.16,
+        "transactionTime": "2023-04-13 20:53:33"
+      },
+      {
+        "transactionId": "01GZ4P14J4QEYV5WCXYAMEKA58",
+        "cost": 102.21,
+        "transactionTime": "2023-04-14 04:18:12"
+      },
+      {
+        "transactionId": "01GZ4P14E7JA2VQ9EB0DDX0T09",
+        "cost": 254.78,
+        "transactionTime": "2023-04-18 10:22:55"
+      }
+    ]
+  },
+  {
+    "userId": "1026",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14EC7ANX8EVFC6QWWDXP",
+        "cost": 298.19,
+        "transactionTime": "2023-01-02 10:39:34"
+      },
+      {
+        "transactionId": "01GZ4P14WXPRW92GB7ZEYEAPY6",
+        "cost": 217.23,
+        "transactionTime": "2023-01-08 23:24:24"
+      },
+      {
+        "transactionId": "01GZ4P14MGJQP2JN36228CT4Z7",
+        "cost": 50.55,
+        "transactionTime": "2023-01-17 00:58:50"
+      },
+      {
+        "transactionId": "01GZ4P14KVV7QYWCPBV45W3846",
+        "cost": 378.35,
+        "transactionTime": "2023-01-20 03:16:35"
+      },
+      {
+        "transactionId": "01GZ4P14NYWK371E5FRCNEKSJY",
+        "cost": 209.93,
+        "transactionTime": "2023-01-22 23:38:36"
+      },
+      {
+        "transactionId": "01GZ4P14SR5RFDTT2XAS9TGH9P",
+        "cost": 401.09,
+        "transactionTime": "2023-02-02 15:18:11"
+      },
+      {
+        "transactionId": "01GZ4P14W77YJ21QJV8KCB8GKT",
+        "cost": 155.54,
+        "transactionTime": "2023-02-02 23:08:46"
+      },
+      {
+        "transactionId": "01GZ4P14SKY5YACE4X9FAH43ZG",
+        "cost": 342.16,
+        "transactionTime": "2023-02-05 09:01:37"
+      },
+      {
+        "transactionId": "01GZ4P14NGPT1RVWHAGJVECRVB",
+        "cost": 121.58,
+        "transactionTime": "2023-02-18 09:29:09"
+      },
+      {
+        "transactionId": "01GZ4P14KE1TWDVR8T5SVKF6N3",
+        "cost": 9.79,
+        "transactionTime": "2023-02-21 23:52:06"
+      },
+      {
+        "transactionId": "01GZ4P14GS89XF22M7PEKWY8S0",
+        "cost": 23.26,
+        "transactionTime": "2023-02-23 12:43:43"
+      },
+      {
+        "transactionId": "01GZ4P14JP1X0KV293S6WQE0GD",
+        "cost": 107.18,
+        "transactionTime": "2023-02-26 22:27:10"
+      },
+      {
+        "transactionId": "01GZ4P14EEZZX75Q2VVAYSW20T",
+        "cost": 159.51,
+        "transactionTime": "2023-02-27 00:58:27"
+      },
+      {
+        "transactionId": "01GZ4P14QB1GTVEDQT44CGM2YC",
+        "cost": 97.26,
+        "transactionTime": "2023-03-04 11:52:01"
+      },
+      {
+        "transactionId": "01GZ4P14V5ENZRJV5VVDZ9CTVR",
+        "cost": 350.95,
+        "transactionTime": "2023-03-07 02:22:04"
+      },
+      {
+        "transactionId": "01GZ4P14EAMH946KVCBA4DCAV4",
+        "cost": 373.25,
+        "transactionTime": "2023-03-11 10:48:13"
+      },
+      {
+        "transactionId": "01GZ4P14FFYG8PM1HNXG76JNH5",
+        "cost": 109.29,
+        "transactionTime": "2023-03-14 04:06:29"
+      },
+      {
+        "transactionId": "01GZ4P14WS66JBBHCBF1J2CHSG",
+        "cost": 385.38,
+        "transactionTime": "2023-03-18 21:58:22"
+      },
+      {
+        "transactionId": "01GZ4P14VEP4XAES0DNQBCNXN2",
+        "cost": 378.8,
+        "transactionTime": "2023-03-18 22:40:55"
+      },
+      {
+        "transactionId": "01GZ4P14GMPD0XKSDN8553T03Q",
+        "cost": 249.33,
+        "transactionTime": "2023-03-27 18:22:36"
+      },
+      {
+        "transactionId": "01GZ4P14MACQJ5HVF1T95NA5ZM",
+        "cost": 421.72,
+        "transactionTime": "2023-04-01 11:04:19"
+      },
+      {
+        "transactionId": "01GZ4P14Q8GXNE9Y77TS8A432X",
+        "cost": 161.03,
+        "transactionTime": "2023-04-13 02:57:44"
+      },
+      {
+        "transactionId": "01GZ4P14P4SJ58Y6VHJQV7T8KD",
+        "cost": 47.1,
+        "transactionTime": "2023-04-15 03:06:03"
+      },
+      {
+        "transactionId": "01GZ4P14QSEZXTP6E37MS160J6",
+        "cost": 42.46,
+        "transactionTime": "2023-04-27 03:13:37"
+      }
+    ]
+  },
+  {
+    "userId": "1027",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14JK6FG336N91TGWD2PT",
+        "cost": 294.9,
+        "transactionTime": "2023-01-04 18:53:55"
+      },
+      {
+        "transactionId": "01GZ4P14GCK2KN9WRD45R9KMKM",
+        "cost": 347.98,
+        "transactionTime": "2023-01-10 02:13:32"
+      },
+      {
+        "transactionId": "01GZ4P14JWVKW7QZZQTKRB270B",
+        "cost": 244.12,
+        "transactionTime": "2023-01-11 03:50:13"
+      },
+      {
+        "transactionId": "01GZ4P14KPZC9AXJZ9DR9X28SD",
+        "cost": 89.51,
+        "transactionTime": "2023-01-13 13:34:27"
+      },
+      {
+        "transactionId": "01GZ4P14EAJG08YD74KYMZ5MY5",
+        "cost": 458.1,
+        "transactionTime": "2023-01-14 19:05:19"
+      },
+      {
+        "transactionId": "01GZ4P14NQHN40QJT39DP4HBCD",
+        "cost": 479.49,
+        "transactionTime": "2023-01-23 19:32:36"
+      },
+      {
+        "transactionId": "01GZ4P14RDXQ931NTTG51NSX9V",
+        "cost": 492.78,
+        "transactionTime": "2023-02-13 00:38:14"
+      },
+      {
+        "transactionId": "01GZ4P14MK6GSFAD25VR0QJH7N",
+        "cost": 450.56,
+        "transactionTime": "2023-02-13 15:18:41"
+      },
+      {
+        "transactionId": "01GZ4P14JY5NKNDMVFV3HV1W8E",
+        "cost": 53.02,
+        "transactionTime": "2023-02-14 01:27:13"
+      },
+      {
+        "transactionId": "01GZ4P14FJH813AY8M4VHQ812T",
+        "cost": 375.63,
+        "transactionTime": "2023-02-23 13:38:40"
+      },
+      {
+        "transactionId": "01GZ4P14SZKGZG4RVWKE28BXR9",
+        "cost": 129.86,
+        "transactionTime": "2023-03-02 09:54:54"
+      },
+      {
+        "transactionId": "01GZ4P14G8S0Y2NBPXPCH7VRNG",
+        "cost": 381.79,
+        "transactionTime": "2023-03-11 03:16:36"
+      },
+      {
+        "transactionId": "01GZ4P14PG7A9WCJY29AEXWRM8",
+        "cost": 257.07,
+        "transactionTime": "2023-03-12 03:53:21"
+      },
+      {
+        "transactionId": "01GZ4P14M29FDNDQKCNRCB1X0S",
+        "cost": 203.17,
+        "transactionTime": "2023-03-14 13:51:42"
+      },
+      {
+        "transactionId": "01GZ4P14FNX341ZME3ZTWSN0SF",
+        "cost": 333.67,
+        "transactionTime": "2023-03-19 13:20:40"
+      },
+      {
+        "transactionId": "01GZ4P14T15FCZATKYCJTNJMH5",
+        "cost": 479.58,
+        "transactionTime": "2023-03-22 20:04:22"
+      },
+      {
+        "transactionId": "01GZ4P14VFK13NJFE0SAQ8RQS3",
+        "cost": 208.18,
+        "transactionTime": "2023-03-23 02:33:19"
+      },
+      {
+        "transactionId": "01GZ4P14EMCXXKHJDDEMXXAS2V",
+        "cost": 372.09,
+        "transactionTime": "2023-04-03 10:07:14"
+      },
+      {
+        "transactionId": "01GZ4P14FG1W953MK295D55AR9",
+        "cost": 193.49,
+        "transactionTime": "2023-04-04 05:00:13"
+      },
+      {
+        "transactionId": "01GZ4P14WYJ40XYE4KW1VW0ZXJ",
+        "cost": 240.99,
+        "transactionTime": "2023-04-25 03:45:14"
+      },
+      {
+        "transactionId": "01GZ4P14HS33T9BN2GX7SA71T8",
+        "cost": 180.24,
+        "transactionTime": "2023-04-27 08:39:28"
+      }
+    ]
+  },
+  {
+    "userId": "1028",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14HZWY588B23C1QJW4T3",
+        "cost": 488.13,
+        "transactionTime": "2023-01-11 22:04:01"
+      },
+      {
+        "transactionId": "01GZ4P14E60QPHVPMC7VFWK301",
+        "cost": 343.24,
+        "transactionTime": "2023-01-23 15:16:32"
+      },
+      {
+        "transactionId": "01GZ4P14VM12CZF010A1HS1CMG",
+        "cost": 478.31,
+        "transactionTime": "2023-02-19 15:02:29"
+      },
+      {
+        "transactionId": "01GZ4P14N8783FMKPSPMK01E78",
+        "cost": 192.55,
+        "transactionTime": "2023-03-02 00:24:17"
+      },
+      {
+        "transactionId": "01GZ4P14JY4WHX30H7B89H04JC",
+        "cost": 487.34,
+        "transactionTime": "2023-03-06 11:41:28"
+      },
+      {
+        "transactionId": "01GZ4P14HDYGKHXQE2X39QZWY7",
+        "cost": 482.97,
+        "transactionTime": "2023-03-10 16:35:39"
+      },
+      {
+        "transactionId": "01GZ4P14QPE9S4CC75SF3YSFM4",
+        "cost": 37.1,
+        "transactionTime": "2023-03-27 00:38:30"
+      },
+      {
+        "transactionId": "01GZ4P14MWBANFADGMQZNN8XHB",
+        "cost": 96.24,
+        "transactionTime": "2023-04-01 07:07:42"
+      },
+      {
+        "transactionId": "01GZ4P14GHEDXHDXTEW534FEGW",
+        "cost": 116.4,
+        "transactionTime": "2023-04-07 11:40:52"
+      },
+      {
+        "transactionId": "01GZ4P14R3HJ9J57PADA0PRQRE",
+        "cost": 40.26,
+        "transactionTime": "2023-04-22 00:17:40"
+      },
+      {
+        "transactionId": "01GZ4P14P6KW8X1667K1NHCMRG",
+        "cost": 226.94,
+        "transactionTime": "2023-04-24 17:04:05"
+      }
+    ]
+  },
+  {
+    "userId": "1029",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14H7JS9NHAJ092FY4KTD",
+        "cost": 472.33,
+        "transactionTime": "2023-01-02 18:05:47"
+      },
+      {
+        "transactionId": "01GZ4P14E12XGF1Q0M2B3RFVZD",
+        "cost": 69.24,
+        "transactionTime": "2023-01-09 21:22:16"
+      },
+      {
+        "transactionId": "01GZ4P14FQF2AJSADFW6J1JNE8",
+        "cost": 322.03,
+        "transactionTime": "2023-01-12 07:12:31"
+      },
+      {
+        "transactionId": "01GZ4P14EJHFR3S2TQMFQJH2YP",
+        "cost": 258.3,
+        "transactionTime": "2023-01-13 08:01:11"
+      },
+      {
+        "transactionId": "01GZ4P14PE4ZX7X8GQK2DS8AB7",
+        "cost": 105.66,
+        "transactionTime": "2023-01-28 17:21:52"
+      },
+      {
+        "transactionId": "01GZ4P14WSMS32D559HXWRCZ6S",
+        "cost": 485.93,
+        "transactionTime": "2023-01-31 07:54:49"
+      },
+      {
+        "transactionId": "01GZ4P14T9KXAMXG294GJQTJ6V",
+        "cost": 397.04,
+        "transactionTime": "2023-01-31 14:44:32"
+      },
+      {
+        "transactionId": "01GZ4P14QSP2KWXV6AG97E4AN9",
+        "cost": 80.25,
+        "transactionTime": "2023-01-31 15:10:00"
+      },
+      {
+        "transactionId": "01GZ4P14KMATE1CZY91F8P1BSK",
+        "cost": 317,
+        "transactionTime": "2023-02-03 02:39:48"
+      },
+      {
+        "transactionId": "01GZ4P14NK5A9GW64TZJ37GQS7",
+        "cost": 313.15,
+        "transactionTime": "2023-02-09 02:46:12"
+      },
+      {
+        "transactionId": "01GZ4P14PKH134M4MZJTJYEXRP",
+        "cost": 164.91,
+        "transactionTime": "2023-02-10 08:53:44"
+      },
+      {
+        "transactionId": "01GZ4P14MZRAWGSHH14YYKAXGD",
+        "cost": 149.09,
+        "transactionTime": "2023-02-13 18:35:25"
+      },
+      {
+        "transactionId": "01GZ4P14Q7636H8EAVDMKB2WPJ",
+        "cost": 485.23,
+        "transactionTime": "2023-02-19 01:04:55"
+      },
+      {
+        "transactionId": "01GZ4P14RWG3HYCT6J7CT8HXV6",
+        "cost": 153.79,
+        "transactionTime": "2023-02-23 00:14:59"
+      },
+      {
+        "transactionId": "01GZ4P14G73AE0F1HMKPKGSRAB",
+        "cost": 152.58,
+        "transactionTime": "2023-02-24 13:55:30"
+      },
+      {
+        "transactionId": "01GZ4P14F8D5JX5DW78BC4SHQN",
+        "cost": 258.7,
+        "transactionTime": "2023-02-25 06:08:34"
+      },
+      {
+        "transactionId": "01GZ4P14F26K65TSMXM2AD1XRD",
+        "cost": 309.72,
+        "transactionTime": "2023-03-02 09:55:13"
+      },
+      {
+        "transactionId": "01GZ4P14X42EEXJVENZ9CRCJ9A",
+        "cost": 476.41,
+        "transactionTime": "2023-03-07 07:21:51"
+      },
+      {
+        "transactionId": "01GZ4P14GMHT0Q6BQXT15SSYKE",
+        "cost": 334.42,
+        "transactionTime": "2023-03-09 03:51:00"
+      },
+      {
+        "transactionId": "01GZ4P14SAA2JYN5N2SDTEXYVX",
+        "cost": 309.99,
+        "transactionTime": "2023-03-20 12:13:32"
+      },
+      {
+        "transactionId": "01GZ4P14P81FTYSDHSFM5XR7GE",
+        "cost": 278.77,
+        "transactionTime": "2023-03-22 13:00:01"
+      },
+      {
+        "transactionId": "01GZ4P14K9Z54T0X9X6D9XDKBE",
+        "cost": 386.6,
+        "transactionTime": "2023-03-25 15:46:51"
+      },
+      {
+        "transactionId": "01GZ4P14RCG29FTXPWVP4PVPDP",
+        "cost": 289.67,
+        "transactionTime": "2023-04-05 23:42:13"
+      },
+      {
+        "transactionId": "01GZ4P14EHHWZNZ4DBX4ENNW63",
+        "cost": 446.51,
+        "transactionTime": "2023-04-06 05:18:47"
+      },
+      {
+        "transactionId": "01GZ4P14S97JBADCG63M2RAZDA",
+        "cost": 211.85,
+        "transactionTime": "2023-04-06 22:05:40"
+      },
+      {
+        "transactionId": "01GZ4P14QCAHNJG0T675Z7F161",
+        "cost": 451.32,
+        "transactionTime": "2023-04-13 00:48:59"
+      },
+      {
+        "transactionId": "01GZ4P14SMBYFZZ6YC1VXE7C65",
+        "cost": 81.17,
+        "transactionTime": "2023-04-18 01:21:52"
+      },
+      {
+        "transactionId": "01GZ4P14MQ8RPC8A2HPY4YY13A",
+        "cost": 486.17,
+        "transactionTime": "2023-04-23 16:11:32"
+      },
+      {
+        "transactionId": "01GZ4P14RR5N0J5E055T236QKF",
+        "cost": 446.56,
+        "transactionTime": "2023-04-27 20:17:39"
+      }
+    ]
+  },
+  {
+    "userId": "1030",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14PC15Q5FC8BYFRB9CC2",
+        "cost": 142.07,
+        "transactionTime": "2023-01-04 15:08:34"
+      },
+      {
+        "transactionId": "01GZ4P14WTR410QJTCM6V3T7D0",
+        "cost": 367.94,
+        "transactionTime": "2023-01-13 02:45:15"
+      },
+      {
+        "transactionId": "01GZ4P14DXGTTT35Q60DF2KPF6",
+        "cost": 263.81,
+        "transactionTime": "2023-01-13 14:47:37"
+      },
+      {
+        "transactionId": "01GZ4P14JC9G69WXXFCN57N3ZA",
+        "cost": 9.3,
+        "transactionTime": "2023-01-13 16:09:12"
+      },
+      {
+        "transactionId": "01GZ4P14RRNMYF50PYYAVPPZ17",
+        "cost": 115.18,
+        "transactionTime": "2023-01-14 05:30:46"
+      },
+      {
+        "transactionId": "01GZ4P14VH77FWKMQZT2ZCFYH6",
+        "cost": 206.77,
+        "transactionTime": "2023-01-19 23:22:15"
+      },
+      {
+        "transactionId": "01GZ4P14Q41EYVTS4QMQ1VAKAG",
+        "cost": 493.11,
+        "transactionTime": "2023-02-12 18:20:31"
+      },
+      {
+        "transactionId": "01GZ4P14WJYW1M629W8DYBF41F",
+        "cost": 95.06,
+        "transactionTime": "2023-02-16 20:16:24"
+      },
+      {
+        "transactionId": "01GZ4P14E4MYRTZZ9CSPW18FJ8",
+        "cost": 416.58,
+        "transactionTime": "2023-02-23 18:26:44"
+      },
+      {
+        "transactionId": "01GZ4P14JNZ5H3XBDXMDEPTR6K",
+        "cost": 69.92,
+        "transactionTime": "2023-02-27 18:49:25"
+      },
+      {
+        "transactionId": "01GZ4P14H2W8W1NR2B3GBDCCZT",
+        "cost": 389.62,
+        "transactionTime": "2023-03-02 09:11:43"
+      },
+      {
+        "transactionId": "01GZ4P14E66PBQ0TVYEMEBHA2T",
+        "cost": 459.42,
+        "transactionTime": "2023-03-27 20:28:08"
+      },
+      {
+        "transactionId": "01GZ4P14KFYZWZZ9SAS3KSW1D9",
+        "cost": 4.42,
+        "transactionTime": "2023-04-03 07:22:37"
+      }
+    ]
+  },
+  {
+    "userId": "1031",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14NFP34HAXHR8X31516T",
+        "cost": 334.9,
+        "transactionTime": "2023-01-10 09:19:25"
+      },
+      {
+        "transactionId": "01GZ4P14FGT6A8DNFKHVXM080F",
+        "cost": 398.76,
+        "transactionTime": "2023-01-13 12:32:06"
+      },
+      {
+        "transactionId": "01GZ4P14HS1G9H9QCAZZ0PXDVW",
+        "cost": 475.96,
+        "transactionTime": "2023-01-29 05:40:02"
+      },
+      {
+        "transactionId": "01GZ4P14EDDTCKYWWT2QT88XWT",
+        "cost": 172.29,
+        "transactionTime": "2023-01-29 16:35:16"
+      },
+      {
+        "transactionId": "01GZ4P14HQTY292V4M8EGV396W",
+        "cost": 464.41,
+        "transactionTime": "2023-02-06 18:03:01"
+      },
+      {
+        "transactionId": "01GZ4P14N66VQYCBR0YPCGBEQV",
+        "cost": 39.07,
+        "transactionTime": "2023-02-09 07:35:19"
+      },
+      {
+        "transactionId": "01GZ4P14H0K0ACC1X6QGVPA83H",
+        "cost": 198.02,
+        "transactionTime": "2023-02-17 11:06:27"
+      },
+      {
+        "transactionId": "01GZ4P14GP6Z2B1B0JKZ5VN31E",
+        "cost": 256.75,
+        "transactionTime": "2023-02-19 21:14:18"
+      },
+      {
+        "transactionId": "01GZ4P14P248Y1FJK3HQT8HWEA",
+        "cost": 172.38,
+        "transactionTime": "2023-02-20 10:07:57"
+      },
+      {
+        "transactionId": "01GZ4P14EWSZCMHF7ETPVCRBVG",
+        "cost": 465.76,
+        "transactionTime": "2023-03-24 05:12:12"
+      },
+      {
+        "transactionId": "01GZ4P14R3TVQWRMD393BVG2EV",
+        "cost": 318.75,
+        "transactionTime": "2023-03-27 11:01:11"
+      },
+      {
+        "transactionId": "01GZ4P14PAGVKC7ZNYE28NHJP7",
+        "cost": 455.85,
+        "transactionTime": "2023-04-01 07:26:30"
+      },
+      {
+        "transactionId": "01GZ4P14MMFY010NGPJEWM4F0V",
+        "cost": 15.01,
+        "transactionTime": "2023-04-02 17:52:13"
+      },
+      {
+        "transactionId": "01GZ4P14VYS8KPH1KC22AVSMW3",
+        "cost": 240.67,
+        "transactionTime": "2023-04-03 21:18:23"
+      },
+      {
+        "transactionId": "01GZ4P14J9TJFPP1F2H9JS7034",
+        "cost": 209.89,
+        "transactionTime": "2023-04-05 17:00:30"
+      },
+      {
+        "transactionId": "01GZ4P14P8FAQC6JV7M7MJA1G7",
+        "cost": 96.19,
+        "transactionTime": "2023-04-20 09:55:25"
+      }
+    ]
+  },
+  {
+    "userId": "1032",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14HF5HXQ7NDF8F7JT5KT",
+        "cost": 274.02,
+        "transactionTime": "2023-01-08 11:58:29"
+      },
+      {
+        "transactionId": "01GZ4P14PMB7K6ATZGXWNAXF6J",
+        "cost": 217.66,
+        "transactionTime": "2023-01-11 11:37:55"
+      },
+      {
+        "transactionId": "01GZ4P14F4V252CDXMRX3FAW3Y",
+        "cost": 297.43,
+        "transactionTime": "2023-01-13 09:33:29"
+      },
+      {
+        "transactionId": "01GZ4P14KNRN2DMSA4B0C4HWFR",
+        "cost": 36.33,
+        "transactionTime": "2023-01-14 13:15:37"
+      },
+      {
+        "transactionId": "01GZ4P14FKH2GRWEF6G1QBZKP6",
+        "cost": 361.72,
+        "transactionTime": "2023-01-20 18:43:29"
+      },
+      {
+        "transactionId": "01GZ4P14SQZKB8NA3S9D5Q8K1Z",
+        "cost": 432.01,
+        "transactionTime": "2023-01-21 07:52:42"
+      },
+      {
+        "transactionId": "01GZ4P14V61Y24SKF5VGC46C6N",
+        "cost": 78.49,
+        "transactionTime": "2023-02-02 23:29:43"
+      },
+      {
+        "transactionId": "01GZ4P14E59B0QM107YCCGHJFY",
+        "cost": 86.09,
+        "transactionTime": "2023-02-12 12:41:22"
+      },
+      {
+        "transactionId": "01GZ4P14M4MCW5B1FSH18XYZAM",
+        "cost": 450.53,
+        "transactionTime": "2023-02-25 06:09:16"
+      },
+      {
+        "transactionId": "01GZ4P14W1AG6578PFR25A8F4S",
+        "cost": 91.65,
+        "transactionTime": "2023-02-27 22:33:53"
+      },
+      {
+        "transactionId": "01GZ4P14RB2K0EVAZ4D5YXNZ8E",
+        "cost": 396.45,
+        "transactionTime": "2023-03-16 22:54:46"
+      },
+      {
+        "transactionId": "01GZ4P14DYGYQENGMJ462FSKTE",
+        "cost": 317.18,
+        "transactionTime": "2023-03-22 21:54:28"
+      },
+      {
+        "transactionId": "01GZ4P14RAT8HR39Z17N8S3JK5",
+        "cost": 425.91,
+        "transactionTime": "2023-03-25 04:08:52"
+      },
+      {
+        "transactionId": "01GZ4P14PQ2JJ8GP5ESEP20M3C",
+        "cost": 297.92,
+        "transactionTime": "2023-03-28 10:41:09"
+      },
+      {
+        "transactionId": "01GZ4P14Q16YC3JHNVTN23F5DG",
+        "cost": 218.37,
+        "transactionTime": "2023-04-18 02:43:35"
+      },
+      {
+        "transactionId": "01GZ4P14H3Z1NHTNXP9ZBN73CF",
+        "cost": 393.9,
+        "transactionTime": "2023-04-21 13:26:46"
+      },
+      {
+        "transactionId": "01GZ4P14NHG4TH3E3YKACZ6J7C",
+        "cost": 490.29,
+        "transactionTime": "2023-04-26 14:16:53"
+      }
+    ]
+  },
+  {
+    "userId": "1033",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14HRWFZR6YM55DGCSXGJ",
+        "cost": 312.45,
+        "transactionTime": "2023-01-05 07:40:01"
+      },
+      {
+        "transactionId": "01GZ4P14HPY67G07T49S44TJ7S",
+        "cost": 89.37,
+        "transactionTime": "2023-01-05 18:04:49"
+      },
+      {
+        "transactionId": "01GZ4P14TYTRHQT8MDVT9ZHTR8",
+        "cost": 354.63,
+        "transactionTime": "2023-01-12 11:33:08"
+      },
+      {
+        "transactionId": "01GZ4P14K4CQJ056K4PYAMJKPZ",
+        "cost": 434.93,
+        "transactionTime": "2023-01-18 01:08:57"
+      },
+      {
+        "transactionId": "01GZ4P14WYMDM3336CEFYYVT4R",
+        "cost": 344.12,
+        "transactionTime": "2023-01-29 20:35:53"
+      },
+      {
+        "transactionId": "01GZ4P14W7DCHRPHP6BGAQD73M",
+        "cost": 298.58,
+        "transactionTime": "2023-02-07 15:06:19"
+      },
+      {
+        "transactionId": "01GZ4P14VRTRTGE5NMEAMGAYZ2",
+        "cost": 60.66,
+        "transactionTime": "2023-02-14 04:26:50"
+      },
+      {
+        "transactionId": "01GZ4P14GED92YGVNDBFFCAW2Z",
+        "cost": 108.61,
+        "transactionTime": "2023-02-19 08:31:20"
+      },
+      {
+        "transactionId": "01GZ4P14EZP3DCZMTYGE52B8Q5",
+        "cost": 118.96,
+        "transactionTime": "2023-02-28 07:02:27"
+      },
+      {
+        "transactionId": "01GZ4P14RZ9AZ4VD2C7EKZQ4ER",
+        "cost": 132.36,
+        "transactionTime": "2023-03-02 16:37:36"
+      },
+      {
+        "transactionId": "01GZ4P14NAGJKEMMMSM8EM001R",
+        "cost": 328.4,
+        "transactionTime": "2023-03-03 20:23:36"
+      },
+      {
+        "transactionId": "01GZ4P14PJ31CMJDKH6GV8BA7R",
+        "cost": 463.23,
+        "transactionTime": "2023-03-21 13:46:13"
+      },
+      {
+        "transactionId": "01GZ4P14EC6GXNZGXK3SG35137",
+        "cost": 259.7,
+        "transactionTime": "2023-04-03 00:24:53"
+      },
+      {
+        "transactionId": "01GZ4P14VZTNREGRKNHENTRVSY",
+        "cost": 112.51,
+        "transactionTime": "2023-04-18 05:23:44"
+      }
+    ]
+  },
+  {
+    "userId": "1034",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14NKGAN1HR4TSN9BWVPE",
+        "cost": 2.2,
+        "transactionTime": "2023-01-19 07:48:28"
+      },
+      {
+        "transactionId": "01GZ4P14M0AP5Y2ZG8TGZJHBQD",
+        "cost": 65.43,
+        "transactionTime": "2023-01-22 18:53:07"
+      },
+      {
+        "transactionId": "01GZ4P14RM54G3HJVC3BF30Y56",
+        "cost": 28.46,
+        "transactionTime": "2023-01-26 20:31:49"
+      },
+      {
+        "transactionId": "01GZ4P14MJZ67FBD5C2EJ0HT9Z",
+        "cost": 320.31,
+        "transactionTime": "2023-02-01 06:33:14"
+      },
+      {
+        "transactionId": "01GZ4P14SVFM3798KNZXV9691G",
+        "cost": 310.63,
+        "transactionTime": "2023-02-02 07:03:34"
+      },
+      {
+        "transactionId": "01GZ4P14PTJ1EGHGEPRV9GF5ET",
+        "cost": 33.25,
+        "transactionTime": "2023-02-14 19:11:47"
+      },
+      {
+        "transactionId": "01GZ4P14MSYT7QYR9N9R8HACTM",
+        "cost": 153.3,
+        "transactionTime": "2023-03-08 11:43:56"
+      },
+      {
+        "transactionId": "01GZ4P14SF1EMAJ0JZ5EJV55K7",
+        "cost": 98.83,
+        "transactionTime": "2023-03-13 08:33:40"
+      },
+      {
+        "transactionId": "01GZ4P14H43XK7SB0HJEV5ZCWH",
+        "cost": 139.25,
+        "transactionTime": "2023-03-13 12:34:17"
+      },
+      {
+        "transactionId": "01GZ4P14EQ42NVPCA1BWRXHKG7",
+        "cost": 261.36,
+        "transactionTime": "2023-03-28 22:03:29"
+      },
+      {
+        "transactionId": "01GZ4P14F4DS9PKJD947NV7D30",
+        "cost": 5.64,
+        "transactionTime": "2023-03-30 11:02:40"
+      },
+      {
+        "transactionId": "01GZ4P14MMDQKNT8K2TRCNM5KT",
+        "cost": 310.34,
+        "transactionTime": "2023-04-01 08:10:02"
+      },
+      {
+        "transactionId": "01GZ4P14NQ8SN92C0MX8K480C2",
+        "cost": 231.75,
+        "transactionTime": "2023-04-01 16:18:33"
+      },
+      {
+        "transactionId": "01GZ4P14HB4PGXR107V77XT3XQ",
+        "cost": 425.21,
+        "transactionTime": "2023-04-12 14:22:18"
+      },
+      {
+        "transactionId": "01GZ4P14VV018SAJAY3C3W2VQ0",
+        "cost": 179.54,
+        "transactionTime": "2023-04-24 13:21:49"
+      },
+      {
+        "transactionId": "01GZ4P14R7NKM9PCSG8SNNZC4W",
+        "cost": 337.38,
+        "transactionTime": "2023-04-26 23:03:51"
+      }
+    ]
+  },
+  {
+    "userId": "1035",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14P86DFCAST48TKACE9J",
+        "cost": 415.86,
+        "transactionTime": "2023-01-07 21:41:04"
+      },
+      {
+        "transactionId": "01GZ4P14M6ZC9EBHEFM94B735M",
+        "cost": 320.14,
+        "transactionTime": "2023-01-09 07:19:38"
+      },
+      {
+        "transactionId": "01GZ4P14P2KHETKGWF7KYFZBJB",
+        "cost": 107.22,
+        "transactionTime": "2023-01-13 15:56:57"
+      },
+      {
+        "transactionId": "01GZ4P14S6EX6MWZQNHMNSE1N2",
+        "cost": 496.16,
+        "transactionTime": "2023-01-21 07:53:46"
+      },
+      {
+        "transactionId": "01GZ4P14H22A5PR715SBG260TZ",
+        "cost": 236.3,
+        "transactionTime": "2023-01-27 05:17:24"
+      },
+      {
+        "transactionId": "01GZ4P14VMBGWMQ7DWJPPKXM4V",
+        "cost": 490.38,
+        "transactionTime": "2023-01-31 18:15:35"
+      },
+      {
+        "transactionId": "01GZ4P14F6HKXHT1N99HCK47R1",
+        "cost": 81.62,
+        "transactionTime": "2023-02-05 12:43:45"
+      },
+      {
+        "transactionId": "01GZ4P14JYVJ03898F9YTA0KGM",
+        "cost": 372.36,
+        "transactionTime": "2023-02-06 21:24:24"
+      },
+      {
+        "transactionId": "01GZ4P14T98AKYCP0BRDRKWCWV",
+        "cost": 104.83,
+        "transactionTime": "2023-02-07 16:14:48"
+      },
+      {
+        "transactionId": "01GZ4P14QTXHFZQ6KRV26YYRC7",
+        "cost": 81.02,
+        "transactionTime": "2023-02-09 12:54:44"
+      },
+      {
+        "transactionId": "01GZ4P14QW2RYN8CXRNWQH28E5",
+        "cost": 482.91,
+        "transactionTime": "2023-02-11 11:54:33"
+      },
+      {
+        "transactionId": "01GZ4P14N2NDF53MMG73WTW5B7",
+        "cost": 287.6,
+        "transactionTime": "2023-03-04 17:45:33"
+      },
+      {
+        "transactionId": "01GZ4P14PNFVQ77ZNYT4JW52SY",
+        "cost": 197.59,
+        "transactionTime": "2023-03-12 11:47:22"
+      },
+      {
+        "transactionId": "01GZ4P14WFDDX93328KPZTTGA6",
+        "cost": 147.66,
+        "transactionTime": "2023-03-13 18:12:01"
+      },
+      {
+        "transactionId": "01GZ4P14MH8GAVPWQJHZDNV3ZM",
+        "cost": 30.23,
+        "transactionTime": "2023-03-18 15:29:23"
+      },
+      {
+        "transactionId": "01GZ4P14J76A14A30KR02WSHQJ",
+        "cost": 184.18,
+        "transactionTime": "2023-03-21 19:58:47"
+      },
+      {
+        "transactionId": "01GZ4P14W41PV7AX62HKEWVS7S",
+        "cost": 448.89,
+        "transactionTime": "2023-03-21 21:01:08"
+      },
+      {
+        "transactionId": "01GZ4P14EMQT0Y9S54G50SQX3F",
+        "cost": 119.13,
+        "transactionTime": "2023-03-25 09:55:34"
+      },
+      {
+        "transactionId": "01GZ4P14K1A8QRYXMYJFQKYW75",
+        "cost": 127.67,
+        "transactionTime": "2023-03-27 18:04:26"
+      },
+      {
+        "transactionId": "01GZ4P14HHW10P0QB2VWYRXNQA",
+        "cost": 141.86,
+        "transactionTime": "2023-03-30 17:02:19"
+      },
+      {
+        "transactionId": "01GZ4P14M70KDMCXP67F97DQ7F",
+        "cost": 277.94,
+        "transactionTime": "2023-04-04 11:14:50"
+      },
+      {
+        "transactionId": "01GZ4P14QPBD2BHEC81NFC32RA",
+        "cost": 228.08,
+        "transactionTime": "2023-04-04 23:14:07"
+      },
+      {
+        "transactionId": "01GZ4P14GNEPA6ZWDFNS33YPD3",
+        "cost": 158.22,
+        "transactionTime": "2023-04-13 13:28:13"
+      }
+    ]
+  },
+  {
+    "userId": "1036",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14JE4H1KPFSRF4D7K8N1",
+        "cost": 331.11,
+        "transactionTime": "2023-01-22 02:48:13"
+      },
+      {
+        "transactionId": "01GZ4P14K4YGDPJ51QXD9M80HE",
+        "cost": 38.03,
+        "transactionTime": "2023-01-25 10:05:00"
+      },
+      {
+        "transactionId": "01GZ4P14G6AZ4P1QNNRR1Y9F1V",
+        "cost": 335.98,
+        "transactionTime": "2023-02-03 23:09:00"
+      },
+      {
+        "transactionId": "01GZ4P14N4JYVMXHZK8ZYPHX39",
+        "cost": 202.2,
+        "transactionTime": "2023-02-14 20:36:04"
+      },
+      {
+        "transactionId": "01GZ4P14FWVR3F05F29XCSCGQW",
+        "cost": 449.66,
+        "transactionTime": "2023-02-14 22:11:54"
+      },
+      {
+        "transactionId": "01GZ4P14N80X2B23544DRF3EH3",
+        "cost": 444.08,
+        "transactionTime": "2023-02-19 07:12:22"
+      },
+      {
+        "transactionId": "01GZ4P14H48AEW7VF3WWP5QP7P",
+        "cost": 163.75,
+        "transactionTime": "2023-02-19 18:41:27"
+      },
+      {
+        "transactionId": "01GZ4P14RDA7MRXA35DR07MZG3",
+        "cost": 168.29,
+        "transactionTime": "2023-03-11 02:13:10"
+      },
+      {
+        "transactionId": "01GZ4P14T1RJCE5EB66KBT8EWX",
+        "cost": 46.84,
+        "transactionTime": "2023-03-11 09:54:03"
+      },
+      {
+        "transactionId": "01GZ4P14MPDKMVN9MYR2JMGTC7",
+        "cost": 198.53,
+        "transactionTime": "2023-03-12 23:27:36"
+      },
+      {
+        "transactionId": "01GZ4P14HXXFN8J6FEQ01V5GSN",
+        "cost": 356.84,
+        "transactionTime": "2023-03-16 05:21:31"
+      },
+      {
+        "transactionId": "01GZ4P14RQSDGN4W9D9ZDX3DYQ",
+        "cost": 494.91,
+        "transactionTime": "2023-03-18 03:10:15"
+      },
+      {
+        "transactionId": "01GZ4P14GG5B87J1EW8WDCG2F5",
+        "cost": 341.96,
+        "transactionTime": "2023-03-19 01:37:00"
+      },
+      {
+        "transactionId": "01GZ4P14Q0Y0NRFC3Q5Y78Y2YY",
+        "cost": 332.92,
+        "transactionTime": "2023-03-27 07:52:48"
+      },
+      {
+        "transactionId": "01GZ4P14ETXDZBKHQSA9QPSGWA",
+        "cost": 264.35,
+        "transactionTime": "2023-04-13 23:33:18"
+      },
+      {
+        "transactionId": "01GZ4P14K8WRDFA5FK2786Q8PX",
+        "cost": 1.76,
+        "transactionTime": "2023-04-15 12:20:40"
+      },
+      {
+        "transactionId": "01GZ4P14K75Z41HPC2FB8FNBJP",
+        "cost": 13.39,
+        "transactionTime": "2023-04-15 16:42:39"
+      },
+      {
+        "transactionId": "01GZ4P14KGQWY2AR01R6EHBCDE",
+        "cost": 193.36,
+        "transactionTime": "2023-04-22 20:32:23"
+      },
+      {
+        "transactionId": "01GZ4P14KZQ79VT5P2H0902XKD",
+        "cost": 495.31,
+        "transactionTime": "2023-04-27 08:41:18"
+      }
+    ]
+  },
+  {
+    "userId": "1037",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14H5773VSS82F1HW8TBJ",
+        "cost": 413.4,
+        "transactionTime": "2023-01-05 19:30:49"
+      },
+      {
+        "transactionId": "01GZ4P14GEJCV587ZNAZ33MS70",
+        "cost": 142.43,
+        "transactionTime": "2023-01-11 11:00:48"
+      },
+      {
+        "transactionId": "01GZ4P14MEHFJM60EBMMFSM72J",
+        "cost": 131.35,
+        "transactionTime": "2023-01-23 05:26:23"
+      },
+      {
+        "transactionId": "01GZ4P14HFRPCZ0T1HQKXQ5CT2",
+        "cost": 268.04,
+        "transactionTime": "2023-01-28 00:59:14"
+      },
+      {
+        "transactionId": "01GZ4P14N9VCG2FSSSDG1783J7",
+        "cost": 468.48,
+        "transactionTime": "2023-02-01 03:00:35"
+      },
+      {
+        "transactionId": "01GZ4P14GVNM4QXHCS09DPV5TJ",
+        "cost": 88.06,
+        "transactionTime": "2023-02-07 09:40:45"
+      },
+      {
+        "transactionId": "01GZ4P14M5NRDA44F3556Z4BMH",
+        "cost": 297.25,
+        "transactionTime": "2023-02-07 14:19:33"
+      },
+      {
+        "transactionId": "01GZ4P14G2G3D2QQ0S9HHFXCT6",
+        "cost": 302.56,
+        "transactionTime": "2023-02-08 09:44:52"
+      },
+      {
+        "transactionId": "01GZ4P14WJNSY91195112QCW33",
+        "cost": 344.55,
+        "transactionTime": "2023-02-09 08:11:11"
+      },
+      {
+        "transactionId": "01GZ4P14MNEP39RV68BP10Y1N7",
+        "cost": 437.41,
+        "transactionTime": "2023-02-12 07:50:33"
+      },
+      {
+        "transactionId": "01GZ4P14HJ1NPY4P7P0EPEHJRG",
+        "cost": 31.75,
+        "transactionTime": "2023-02-13 06:23:52"
+      },
+      {
+        "transactionId": "01GZ4P14G04PKHMFYMFVN5MHDM",
+        "cost": 110.68,
+        "transactionTime": "2023-02-14 18:31:06"
+      },
+      {
+        "transactionId": "01GZ4P14EJED4WT44AGGCEZ2S0",
+        "cost": 51.28,
+        "transactionTime": "2023-02-25 05:18:01"
+      },
+      {
+        "transactionId": "01GZ4P14JSWN85109H6D5VXBJK",
+        "cost": 277.54,
+        "transactionTime": "2023-02-26 11:34:29"
+      },
+      {
+        "transactionId": "01GZ4P14GV5MG1F2ZVE1183JRF",
+        "cost": 264.05,
+        "transactionTime": "2023-02-26 17:42:17"
+      },
+      {
+        "transactionId": "01GZ4P14N5JCSFSQ6MKANE1E8N",
+        "cost": 232.28,
+        "transactionTime": "2023-03-01 06:17:54"
+      },
+      {
+        "transactionId": "01GZ4P14QQPF4Y3W0189TGYGT9",
+        "cost": 400.26,
+        "transactionTime": "2023-03-05 06:41:49"
+      },
+      {
+        "transactionId": "01GZ4P14PQRW6E70A65EV5ZFGH",
+        "cost": 368.68,
+        "transactionTime": "2023-03-16 17:40:08"
+      },
+      {
+        "transactionId": "01GZ4P14NV32MSH8R723SRSTXX",
+        "cost": 92.5,
+        "transactionTime": "2023-03-28 17:56:21"
+      },
+      {
+        "transactionId": "01GZ4P14SSJP7VKCQ7SMX6MDTH",
+        "cost": 38.97,
+        "transactionTime": "2023-03-29 19:14:53"
+      },
+      {
+        "transactionId": "01GZ4P14FJ5XB6JF4EK23K968D",
+        "cost": 319.27,
+        "transactionTime": "2023-04-01 00:37:00"
+      },
+      {
+        "transactionId": "01GZ4P14H850BRG1FMVAVMHQWJ",
+        "cost": 414.49,
+        "transactionTime": "2023-04-01 21:27:54"
+      },
+      {
+        "transactionId": "01GZ4P14NPS7MEHC8ZPJXDATDS",
+        "cost": 348.31,
+        "transactionTime": "2023-04-05 08:37:36"
+      },
+      {
+        "transactionId": "01GZ4P14T02F1NST605VDZB5RV",
+        "cost": 492.86,
+        "transactionTime": "2023-04-09 05:18:28"
+      },
+      {
+        "transactionId": "01GZ4P14VN1YDMRFQPH1DKTVPJ",
+        "cost": 137.83,
+        "transactionTime": "2023-04-16 21:21:54"
+      },
+      {
+        "transactionId": "01GZ4P14K6DCVV0T9ZH48SHBSJ",
+        "cost": 73.25,
+        "transactionTime": "2023-04-24 02:12:16"
+      },
+      {
+        "transactionId": "01GZ4P14JH9YJB4CBP4Z72QW3K",
+        "cost": 51.83,
+        "transactionTime": "2023-04-27 04:52:25"
+      },
+      {
+        "transactionId": "01GZ4P14EY5X79ZE5RAZ0MSQV5",
+        "cost": 289.12,
+        "transactionTime": "2023-04-27 13:43:02"
+      }
+    ]
+  },
+  {
+    "userId": "1038",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14JBVA85E09STD0RCPNY",
+        "cost": 51.51,
+        "transactionTime": "2023-01-05 06:30:11"
+      },
+      {
+        "transactionId": "01GZ4P14SWPP1B0NXHJPBYFRFZ",
+        "cost": 243.81,
+        "transactionTime": "2023-01-06 01:44:49"
+      },
+      {
+        "transactionId": "01GZ4P14R4VS2SJ439QY01WT6T",
+        "cost": 242.05,
+        "transactionTime": "2023-01-11 02:04:08"
+      },
+      {
+        "transactionId": "01GZ4P14SHYH7ZR6GFEJ03PFEM",
+        "cost": 403.16,
+        "transactionTime": "2023-01-16 03:03:01"
+      },
+      {
+        "transactionId": "01GZ4P14SBX9N6E0MSGZFKZE7M",
+        "cost": 166.87,
+        "transactionTime": "2023-01-16 12:46:46"
+      },
+      {
+        "transactionId": "01GZ4P14JZ562DZ1ES62TZ2B2N",
+        "cost": 63.11,
+        "transactionTime": "2023-01-19 14:35:17"
+      },
+      {
+        "transactionId": "01GZ4P14VPNWY70P8GRXEM17MQ",
+        "cost": 327.88,
+        "transactionTime": "2023-01-26 07:54:02"
+      },
+      {
+        "transactionId": "01GZ4P14T8BXC8TW5N7MEA5TQN",
+        "cost": 389.12,
+        "transactionTime": "2023-01-26 21:32:29"
+      },
+      {
+        "transactionId": "01GZ4P14T3BDMGM5JNRV9GA2YF",
+        "cost": 404.68,
+        "transactionTime": "2023-01-30 20:01:41"
+      },
+      {
+        "transactionId": "01GZ4P14VB9MEE0120BMR8Z63M",
+        "cost": 428.21,
+        "transactionTime": "2023-02-10 08:03:43"
+      },
+      {
+        "transactionId": "01GZ4P14MG1MBMXR77KCMSBYHC",
+        "cost": 163.38,
+        "transactionTime": "2023-02-16 00:55:51"
+      },
+      {
+        "transactionId": "01GZ4P14FDY835X76CX689CV0E",
+        "cost": 314.31,
+        "transactionTime": "2023-02-28 04:36:32"
+      },
+      {
+        "transactionId": "01GZ4P14NMA3GD2SXFYN0RJACB",
+        "cost": 266.31,
+        "transactionTime": "2023-03-05 12:00:08"
+      },
+      {
+        "transactionId": "01GZ4P14JJ4W0MN20J8SKMGMFE",
+        "cost": 492.68,
+        "transactionTime": "2023-03-06 21:52:54"
+      },
+      {
+        "transactionId": "01GZ4P14T8P8RNP22E3VCV889E",
+        "cost": 256.39,
+        "transactionTime": "2023-03-13 00:17:38"
+      },
+      {
+        "transactionId": "01GZ4P14KCS5J9Y7MGW5MRFC85",
+        "cost": 346.97,
+        "transactionTime": "2023-03-19 10:41:36"
+      },
+      {
+        "transactionId": "01GZ4P14WPT6DFS9VTDXMY2R95",
+        "cost": 1.77,
+        "transactionTime": "2023-04-03 07:36:23"
+      },
+      {
+        "transactionId": "01GZ4P14GRBMZTM63J90BMWZCJ",
+        "cost": 173.72,
+        "transactionTime": "2023-04-19 01:38:12"
+      }
+    ]
+  },
+  {
+    "userId": "1039",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14V7ETZMGZZCK6ZJFH4F",
+        "cost": 441.39,
+        "transactionTime": "2023-01-08 11:36:04"
+      },
+      {
+        "transactionId": "01GZ4P14WB41TCQZ4NF6V0FPZY",
+        "cost": 284.51,
+        "transactionTime": "2023-01-13 18:05:04"
+      },
+      {
+        "transactionId": "01GZ4P14MXDM58CXRVE8MYA63K",
+        "cost": 443.75,
+        "transactionTime": "2023-01-30 13:31:45"
+      },
+      {
+        "transactionId": "01GZ4P14R0NE7NZ840B5KPC1EM",
+        "cost": 206.52,
+        "transactionTime": "2023-02-04 16:34:21"
+      },
+      {
+        "transactionId": "01GZ4P14GWWSCXNFTWJMNBDM89",
+        "cost": 181.42,
+        "transactionTime": "2023-02-06 11:47:06"
+      },
+      {
+        "transactionId": "01GZ4P14JFFBXK9R2SSN9E3RQP",
+        "cost": 97.85,
+        "transactionTime": "2023-02-07 21:36:38"
+      },
+      {
+        "transactionId": "01GZ4P14J5PG2F3K43758WZTCM",
+        "cost": 386.64,
+        "transactionTime": "2023-02-15 16:16:52"
+      },
+      {
+        "transactionId": "01GZ4P14P13CHSE3CJRMCA530S",
+        "cost": 300.44,
+        "transactionTime": "2023-02-16 23:34:14"
+      },
+      {
+        "transactionId": "01GZ4P14SE18X84J6SW9RK808A",
+        "cost": 410.87,
+        "transactionTime": "2023-02-20 04:02:19"
+      },
+      {
+        "transactionId": "01GZ4P14PE8RMJY8FD3TV6WSVS",
+        "cost": 322.32,
+        "transactionTime": "2023-03-05 11:05:59"
+      },
+      {
+        "transactionId": "01GZ4P14V0S5DMPAQ1PP4SSQDD",
+        "cost": 179.5,
+        "transactionTime": "2023-03-08 15:52:58"
+      },
+      {
+        "transactionId": "01GZ4P14P9WBJHGNDJ4VNM31F3",
+        "cost": 184.76,
+        "transactionTime": "2023-03-22 18:21:40"
+      },
+      {
+        "transactionId": "01GZ4P14FPTBCZ28G5MQPM57N8",
+        "cost": 345.38,
+        "transactionTime": "2023-03-23 18:54:41"
+      },
+      {
+        "transactionId": "01GZ4P14GQCBWPCAS863R5B2MX",
+        "cost": 156.87,
+        "transactionTime": "2023-03-27 01:33:14"
+      },
+      {
+        "transactionId": "01GZ4P14RZRS3Y7PG20Z7NMW5S",
+        "cost": 332.08,
+        "transactionTime": "2023-03-31 12:12:35"
+      },
+      {
+        "transactionId": "01GZ4P14KC4Q7FDXW6CXDXQ550",
+        "cost": 487.14,
+        "transactionTime": "2023-04-07 09:05:38"
+      },
+      {
+        "transactionId": "01GZ4P14RSCJ1R58K2GY73VKC2",
+        "cost": 469.65,
+        "transactionTime": "2023-04-12 04:13:37"
+      },
+      {
+        "transactionId": "01GZ4P14E2W9E3JWJR70ASK32M",
+        "cost": 184.9,
+        "transactionTime": "2023-04-13 19:30:11"
+      },
+      {
+        "transactionId": "01GZ4P14SK61FMJG0A404AWNNS",
+        "cost": 277.14,
+        "transactionTime": "2023-04-18 08:57:24"
+      },
+      {
+        "transactionId": "01GZ4P14VWZPVTJ3Z3W0SYCWFS",
+        "cost": 370.43,
+        "transactionTime": "2023-04-19 00:29:30"
+      },
+      {
+        "transactionId": "01GZ4P14RHG3KGS3G10XA677NG",
+        "cost": 256.25,
+        "transactionTime": "2023-04-21 06:50:15"
+      },
+      {
+        "transactionId": "01GZ4P14F1QEWHFAFRCX1DM7XP",
+        "cost": 432.17,
+        "transactionTime": "2023-04-22 21:33:48"
+      }
+    ]
+  },
+  {
+    "userId": "1040",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14M82TPFA7BG2KEE4X1B",
+        "cost": 269.02,
+        "transactionTime": "2023-01-10 02:02:56"
+      },
+      {
+        "transactionId": "01GZ4P14Q1BJ7BRVAZA6MS6948",
+        "cost": 127.07,
+        "transactionTime": "2023-01-31 06:11:27"
+      },
+      {
+        "transactionId": "01GZ4P14MJ3JACH231SSK6J2SB",
+        "cost": 161.28,
+        "transactionTime": "2023-02-06 10:02:12"
+      },
+      {
+        "transactionId": "01GZ4P14PZ10TKK6E3JSYBFSS3",
+        "cost": 102.67,
+        "transactionTime": "2023-02-26 07:39:53"
+      },
+      {
+        "transactionId": "01GZ4P14GDF5SGA0RXM9CGPEMM",
+        "cost": 157.37,
+        "transactionTime": "2023-03-10 07:52:44"
+      },
+      {
+        "transactionId": "01GZ4P14KNGGAEB90S4XX3MK24",
+        "cost": 439.57,
+        "transactionTime": "2023-03-11 21:22:21"
+      },
+      {
+        "transactionId": "01GZ4P14S4G2259QRMT8GCFVKK",
+        "cost": 137.82,
+        "transactionTime": "2023-03-26 11:23:28"
+      },
+      {
+        "transactionId": "01GZ4P14S4J68Q31WPK98M2JGC",
+        "cost": 410.92,
+        "transactionTime": "2023-04-06 03:23:18"
+      },
+      {
+        "transactionId": "01GZ4P14Q3R1Z241ZNB14R2VST",
+        "cost": 349.41,
+        "transactionTime": "2023-04-12 00:37:14"
+      },
+      {
+        "transactionId": "01GZ4P14KTZHR5DD4CR8469JMH",
+        "cost": 57.98,
+        "transactionTime": "2023-04-14 05:43:15"
+      },
+      {
+        "transactionId": "01GZ4P14EFFVBC6JTEWERJSGCB",
+        "cost": 425.26,
+        "transactionTime": "2023-04-18 00:45:06"
+      }
+    ]
+  },
+  {
+    "userId": "1041",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14P5RXBEGD73Q61Q0S44",
+        "cost": 21.25,
+        "transactionTime": "2023-01-02 12:26:50"
+      },
+      {
+        "transactionId": "01GZ4P14SYJWN1GQMW11T5DD2T",
+        "cost": 409.49,
+        "transactionTime": "2023-01-11 05:44:30"
+      },
+      {
+        "transactionId": "01GZ4P14R56B74XNC7BX13ZV9K",
+        "cost": 164.62,
+        "transactionTime": "2023-01-12 06:05:55"
+      },
+      {
+        "transactionId": "01GZ4P14SBK1HTSW8A1NDFVSNH",
+        "cost": 201.67,
+        "transactionTime": "2023-01-20 14:05:47"
+      },
+      {
+        "transactionId": "01GZ4P14KCP45N8CSF1020SVFG",
+        "cost": 193.35,
+        "transactionTime": "2023-01-24 20:15:32"
+      },
+      {
+        "transactionId": "01GZ4P14J3S1EYRE10239NW03R",
+        "cost": 57.11,
+        "transactionTime": "2023-01-27 02:12:13"
+      },
+      {
+        "transactionId": "01GZ4P14NRJD4D81F00AS09DJX",
+        "cost": 354.96,
+        "transactionTime": "2023-01-29 18:25:50"
+      },
+      {
+        "transactionId": "01GZ4P14F26ZHVZ1N7B0SBDR6Z",
+        "cost": 317.57,
+        "transactionTime": "2023-02-10 02:40:26"
+      },
+      {
+        "transactionId": "01GZ4P14HPAYX7VZ6BKP59N57V",
+        "cost": 187.04,
+        "transactionTime": "2023-02-13 22:47:23"
+      },
+      {
+        "transactionId": "01GZ4P14MTAPMF5RZ8XBXVHRGM",
+        "cost": 203.47,
+        "transactionTime": "2023-02-18 19:42:02"
+      },
+      {
+        "transactionId": "01GZ4P14HKC87KWH328RY8821A",
+        "cost": 207.87,
+        "transactionTime": "2023-02-19 06:56:51"
+      },
+      {
+        "transactionId": "01GZ4P14HWQX5BCFVS23ZRTKB7",
+        "cost": 373.41,
+        "transactionTime": "2023-03-02 20:31:03"
+      },
+      {
+        "transactionId": "01GZ4P14PND3YTM7RVNFRPF8XN",
+        "cost": 483.61,
+        "transactionTime": "2023-03-03 05:52:36"
+      },
+      {
+        "transactionId": "01GZ4P14EQ8S83H7D4R3W46PDC",
+        "cost": 211.38,
+        "transactionTime": "2023-03-22 14:06:46"
+      },
+      {
+        "transactionId": "01GZ4P14K15SGECB4AGHA0V7SJ",
+        "cost": 453.68,
+        "transactionTime": "2023-03-28 15:58:58"
+      },
+      {
+        "transactionId": "01GZ4P14QB5VE9MHYEB4KRH64A",
+        "cost": 335.23,
+        "transactionTime": "2023-03-30 22:03:24"
+      },
+      {
+        "transactionId": "01GZ4P14HGZXW2CHSSR2BHVPZ9",
+        "cost": 103.01,
+        "transactionTime": "2023-04-02 09:32:08"
+      },
+      {
+        "transactionId": "01GZ4P14WK43MWP9WR3PZFRGJ3",
+        "cost": 213.37,
+        "transactionTime": "2023-04-06 03:22:15"
+      },
+      {
+        "transactionId": "01GZ4P14F8NEDTA20JJV19AWW1",
+        "cost": 203.03,
+        "transactionTime": "2023-04-06 07:21:54"
+      },
+      {
+        "transactionId": "01GZ4P14N9TGGB4TEN5P2MY3KP",
+        "cost": 304.38,
+        "transactionTime": "2023-04-18 10:48:30"
+      },
+      {
+        "transactionId": "01GZ4P14FNTZQPR8C05HZAGDG5",
+        "cost": 352.52,
+        "transactionTime": "2023-04-18 17:42:36"
+      },
+      {
+        "transactionId": "01GZ4P14PTXXXAK71TRP2T442B",
+        "cost": 103.96,
+        "transactionTime": "2023-04-22 06:44:05"
+      }
+    ]
+  },
+  {
+    "userId": "1042",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14G5N2MBH33Q4DCV63Z9",
+        "cost": 281.03,
+        "transactionTime": "2023-01-01 09:34:07"
+      },
+      {
+        "transactionId": "01GZ4P14G5HC766J0S1YFNSKCF",
+        "cost": 54.14,
+        "transactionTime": "2023-01-05 23:30:33"
+      },
+      {
+        "transactionId": "01GZ4P14KQRWCPQ8VVAGC1A3WV",
+        "cost": 94.94,
+        "transactionTime": "2023-01-08 10:41:27"
+      },
+      {
+        "transactionId": "01GZ4P14SX53SV2SJ9H62JM059",
+        "cost": 61.27,
+        "transactionTime": "2023-01-09 20:22:11"
+      },
+      {
+        "transactionId": "01GZ4P14NT2HG4G2ZSMJRAM2EX",
+        "cost": 97.23,
+        "transactionTime": "2023-01-14 10:58:39"
+      },
+      {
+        "transactionId": "01GZ4P14PA0RHEFHYT599TSXZY",
+        "cost": 91.87,
+        "transactionTime": "2023-01-22 08:26:54"
+      },
+      {
+        "transactionId": "01GZ4P14V4GAVN75RRDK036HAV",
+        "cost": 41.13,
+        "transactionTime": "2023-01-29 08:53:08"
+      },
+      {
+        "transactionId": "01GZ4P14W4MC1XYB8E2CRXKDS4",
+        "cost": 264.09,
+        "transactionTime": "2023-02-09 18:34:35"
+      },
+      {
+        "transactionId": "01GZ4P14SEBRMFXGYRHZX2G8PS",
+        "cost": 124.89,
+        "transactionTime": "2023-02-13 02:13:50"
+      },
+      {
+        "transactionId": "01GZ4P14MV0Y8XX5DHG3XEN8EZ",
+        "cost": 3.04,
+        "transactionTime": "2023-02-15 22:46:42"
+      },
+      {
+        "transactionId": "01GZ4P14ETMYSD6A0YQ1R829RS",
+        "cost": 228.35,
+        "transactionTime": "2023-02-24 00:39:31"
+      },
+      {
+        "transactionId": "01GZ4P14WXQEG7R2MG42PPN7X1",
+        "cost": 466.38,
+        "transactionTime": "2023-03-10 02:38:56"
+      },
+      {
+        "transactionId": "01GZ4P14FMZKT4D27ZK42D9QMP",
+        "cost": 472.36,
+        "transactionTime": "2023-03-10 20:37:56"
+      },
+      {
+        "transactionId": "01GZ4P14FF3HKFARK7SYFMKDCD",
+        "cost": 49.11,
+        "transactionTime": "2023-03-17 01:29:11"
+      },
+      {
+        "transactionId": "01GZ4P14GXZYNYGQXK74SZT856",
+        "cost": 460.96,
+        "transactionTime": "2023-03-17 12:56:07"
+      },
+      {
+        "transactionId": "01GZ4P14Q609JHV0V3P4MFT8FX",
+        "cost": 138.94,
+        "transactionTime": "2023-03-28 00:13:14"
+      },
+      {
+        "transactionId": "01GZ4P14PHV3SXFWBFXK8C9DPS",
+        "cost": 66.95,
+        "transactionTime": "2023-04-18 12:55:34"
+      },
+      {
+        "transactionId": "01GZ4P14SC6XY35Y7AEKGCP4RQ",
+        "cost": 314.91,
+        "transactionTime": "2023-04-21 23:29:27"
+      },
+      {
+        "transactionId": "01GZ4P14MM4RXC7XSE866YRKNT",
+        "cost": 71.24,
+        "transactionTime": "2023-04-27 16:27:07"
+      }
+    ]
+  },
+  {
+    "userId": "1043",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14JMSPJYM7K88K68W22W",
+        "cost": 250.81,
+        "transactionTime": "2023-01-04 16:48:14"
+      },
+      {
+        "transactionId": "01GZ4P14GQQJKPRFHHR92T8WEQ",
+        "cost": 352.84,
+        "transactionTime": "2023-01-19 21:42:25"
+      },
+      {
+        "transactionId": "01GZ4P14PP1MJJJM2NEWE0V4QQ",
+        "cost": 243.1,
+        "transactionTime": "2023-02-10 14:46:06"
+      },
+      {
+        "transactionId": "01GZ4P14WDQPAH11P5VQ34KP82",
+        "cost": 186.38,
+        "transactionTime": "2023-02-13 10:43:05"
+      },
+      {
+        "transactionId": "01GZ4P14K7WX0YMZ0RWQ1KTTK1",
+        "cost": 322.46,
+        "transactionTime": "2023-02-14 15:18:28"
+      },
+      {
+        "transactionId": "01GZ4P14SFV8K8K4QN3MAV4CZ7",
+        "cost": 286.03,
+        "transactionTime": "2023-02-23 00:31:56"
+      },
+      {
+        "transactionId": "01GZ4P14GZPPRJB8N8RE3TX0BZ",
+        "cost": 243.41,
+        "transactionTime": "2023-03-06 09:54:06"
+      },
+      {
+        "transactionId": "01GZ4P14RTQNH53RZWMQ849GQH",
+        "cost": 25.88,
+        "transactionTime": "2023-03-06 11:22:24"
+      },
+      {
+        "transactionId": "01GZ4P14GY12CYSGKDBTEVXTVX",
+        "cost": 465.95,
+        "transactionTime": "2023-03-08 23:33:32"
+      },
+      {
+        "transactionId": "01GZ4P14NGX0A9ENQGDSZDZN1W",
+        "cost": 384.73,
+        "transactionTime": "2023-03-19 23:56:45"
+      },
+      {
+        "transactionId": "01GZ4P14MFA11NQ2WS35WH5BD0",
+        "cost": 6.48,
+        "transactionTime": "2023-03-28 22:08:59"
+      },
+      {
+        "transactionId": "01GZ4P14H8A35N1TG6DWSW1V32",
+        "cost": 12.55,
+        "transactionTime": "2023-03-30 07:56:31"
+      },
+      {
+        "transactionId": "01GZ4P14PCR3NKN5111C1NYYCR",
+        "cost": 123.42,
+        "transactionTime": "2023-04-03 06:15:51"
+      },
+      {
+        "transactionId": "01GZ4P14FE0ZFEPHMB4G90M3XX",
+        "cost": 117.18,
+        "transactionTime": "2023-04-03 18:54:39"
+      },
+      {
+        "transactionId": "01GZ4P14JV59DW577SZZ3NVQWD",
+        "cost": 141.52,
+        "transactionTime": "2023-04-10 10:41:53"
+      },
+      {
+        "transactionId": "01GZ4P14G3A6GWXT572XJ85DBB",
+        "cost": 399.57,
+        "transactionTime": "2023-04-14 15:20:02"
+      },
+      {
+        "transactionId": "01GZ4P14GCQ53383QM6QJTBTMH",
+        "cost": 42.16,
+        "transactionTime": "2023-04-27 20:51:50"
+      }
+    ]
+  },
+  {
+    "userId": "1044",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14VCTF8ZCDBBS4VJTR96",
+        "cost": 158.91,
+        "transactionTime": "2023-01-06 10:30:10"
+      },
+      {
+        "transactionId": "01GZ4P14PVSEF09ASPGSVNGHVW",
+        "cost": 220.09,
+        "transactionTime": "2023-01-14 02:43:47"
+      },
+      {
+        "transactionId": "01GZ4P14QGG6AGFFARBKET8G6F",
+        "cost": 411,
+        "transactionTime": "2023-01-16 14:17:22"
+      },
+      {
+        "transactionId": "01GZ4P14SDVJ7M68KEFW9VZQ0H",
+        "cost": 337.71,
+        "transactionTime": "2023-01-28 00:01:30"
+      },
+      {
+        "transactionId": "01GZ4P14F78VWGZAC3H933E1ZX",
+        "cost": 81.25,
+        "transactionTime": "2023-01-30 06:52:37"
+      },
+      {
+        "transactionId": "01GZ4P14QJ15QQQBK0HGJDCJGF",
+        "cost": 266.16,
+        "transactionTime": "2023-02-15 21:38:24"
+      },
+      {
+        "transactionId": "01GZ4P14J7X30AYKSG4Z8K7H9F",
+        "cost": 146.77,
+        "transactionTime": "2023-03-13 12:54:25"
+      },
+      {
+        "transactionId": "01GZ4P14KAT6T7W4XG2E0QVHVP",
+        "cost": 376.7,
+        "transactionTime": "2023-03-20 20:41:27"
+      },
+      {
+        "transactionId": "01GZ4P14V3J1A15EX0GRZ1KBWB",
+        "cost": 115.65,
+        "transactionTime": "2023-03-27 13:33:29"
+      },
+      {
+        "transactionId": "01GZ4P14NJ657618JSC8AYMSY5",
+        "cost": 451.15,
+        "transactionTime": "2023-03-28 02:32:25"
+      },
+      {
+        "transactionId": "01GZ4P14FRYA58FGB3NJC8FJXD",
+        "cost": 161.33,
+        "transactionTime": "2023-03-29 10:31:31"
+      },
+      {
+        "transactionId": "01GZ4P14WF7DWJBRB143Z8CACG",
+        "cost": 234.96,
+        "transactionTime": "2023-04-01 02:16:24"
+      },
+      {
+        "transactionId": "01GZ4P14JSWFNKTB8EF1BBQX7V",
+        "cost": 307.15,
+        "transactionTime": "2023-04-02 15:12:53"
+      },
+      {
+        "transactionId": "01GZ4P14H196640080MTCQVAH5",
+        "cost": 414.02,
+        "transactionTime": "2023-04-03 02:30:38"
+      },
+      {
+        "transactionId": "01GZ4P14NDMW77HT553W7DACJQ",
+        "cost": 64.69,
+        "transactionTime": "2023-04-08 09:41:56"
+      },
+      {
+        "transactionId": "01GZ4P14PSB590SFNRQPM6YKFZ",
+        "cost": 383.49,
+        "transactionTime": "2023-04-08 12:13:20"
+      },
+      {
+        "transactionId": "01GZ4P14SJJA9JA83G2FEJ20VG",
+        "cost": 227.01,
+        "transactionTime": "2023-04-15 18:00:18"
+      },
+      {
+        "transactionId": "01GZ4P14QC9MRSQNAJN55PYBGF",
+        "cost": 242.16,
+        "transactionTime": "2023-04-22 14:53:50"
+      },
+      {
+        "transactionId": "01GZ4P14E8KP8161EHA9VNS9YF",
+        "cost": 499.91,
+        "transactionTime": "2023-04-27 12:13:31"
+      }
+    ]
+  },
+  {
+    "userId": "1045",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14KFTDNQJCWW14YBQQVD",
+        "cost": 34.14,
+        "transactionTime": "2023-01-03 16:18:12"
+      },
+      {
+        "transactionId": "01GZ4P14ERH4W26CAY6RFYCDF8",
+        "cost": 82.34,
+        "transactionTime": "2023-01-13 17:33:21"
+      },
+      {
+        "transactionId": "01GZ4P14VSAC8FSSZM5B5HKTHP",
+        "cost": 461.86,
+        "transactionTime": "2023-01-18 23:48:33"
+      },
+      {
+        "transactionId": "01GZ4P14H7Z675MGV41SPQ798D",
+        "cost": 243.53,
+        "transactionTime": "2023-01-21 09:48:16"
+      },
+      {
+        "transactionId": "01GZ4P14HTXSRDJXGZDC50RXNA",
+        "cost": 137.7,
+        "transactionTime": "2023-02-02 01:11:08"
+      },
+      {
+        "transactionId": "01GZ4P14HY7VBAT4KVNMJPZ6MY",
+        "cost": 321.82,
+        "transactionTime": "2023-02-17 07:57:55"
+      },
+      {
+        "transactionId": "01GZ4P14Q9CR6QYFN6BEWWRYF2",
+        "cost": 71.49,
+        "transactionTime": "2023-03-06 01:00:33"
+      },
+      {
+        "transactionId": "01GZ4P14N3RQH2DNFTP8B3T1P4",
+        "cost": 423.96,
+        "transactionTime": "2023-03-10 04:17:04"
+      },
+      {
+        "transactionId": "01GZ4P14FXRCX2S83XHKX6FY8R",
+        "cost": 260.97,
+        "transactionTime": "2023-03-16 03:41:50"
+      },
+      {
+        "transactionId": "01GZ4P14J2NX7WZFNFRE54SCPG",
+        "cost": 152.49,
+        "transactionTime": "2023-03-25 04:32:05"
+      },
+      {
+        "transactionId": "01GZ4P14RMTRDXYJ1PHBGCS8VM",
+        "cost": 300.83,
+        "transactionTime": "2023-04-08 00:43:23"
+      },
+      {
+        "transactionId": "01GZ4P14MZZX277P5Z9V84GWEJ",
+        "cost": 482.72,
+        "transactionTime": "2023-04-12 12:56:48"
+      },
+      {
+        "transactionId": "01GZ4P14WDF25S3N20R6G236N0",
+        "cost": 205.93,
+        "transactionTime": "2023-04-22 13:43:45"
+      }
+    ]
+  },
+  {
+    "userId": "1046",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14TXVDZQC499XDKZN310",
+        "cost": 264.74,
+        "transactionTime": "2023-01-05 04:25:30"
+      },
+      {
+        "transactionId": "01GZ4P14HMQ80YDZT09WREDMHH",
+        "cost": 16.57,
+        "transactionTime": "2023-01-06 04:23:57"
+      },
+      {
+        "transactionId": "01GZ4P14N209GT8N1SXNZ34S0C",
+        "cost": 175.53,
+        "transactionTime": "2023-01-08 17:54:40"
+      },
+      {
+        "transactionId": "01GZ4P14H5KV3D3PPKPX88G3JC",
+        "cost": 58.53,
+        "transactionTime": "2023-01-11 22:11:41"
+      },
+      {
+        "transactionId": "01GZ4P14RP886FD99T84PRWBYA",
+        "cost": 392.15,
+        "transactionTime": "2023-01-15 19:50:29"
+      },
+      {
+        "transactionId": "01GZ4P14HD5J5FX700ZR3693GS",
+        "cost": 294.69,
+        "transactionTime": "2023-01-23 21:15:49"
+      },
+      {
+        "transactionId": "01GZ4P14X20HWA3ZTJ6KXZSGB3",
+        "cost": 484.81,
+        "transactionTime": "2023-01-24 08:04:43"
+      },
+      {
+        "transactionId": "01GZ4P14PEYYRGBYX3KEKAH5JP",
+        "cost": 85.59,
+        "transactionTime": "2023-02-01 05:48:56"
+      },
+      {
+        "transactionId": "01GZ4P14PR4T2HG0XVZBXE29BX",
+        "cost": 101.03,
+        "transactionTime": "2023-02-08 12:27:24"
+      },
+      {
+        "transactionId": "01GZ4P14WTC8GT0Z2WAX4SW0MA",
+        "cost": 280.75,
+        "transactionTime": "2023-02-11 08:59:04"
+      },
+      {
+        "transactionId": "01GZ4P14S1QZTE5QXTW2EY2M0G",
+        "cost": 457.12,
+        "transactionTime": "2023-02-11 16:56:38"
+      },
+      {
+        "transactionId": "01GZ4P14ETH1R6T9B62M2ZKHGT",
+        "cost": 220.03,
+        "transactionTime": "2023-02-15 20:43:29"
+      },
+      {
+        "transactionId": "01GZ4P14WKWN47CJP62GY63FYN",
+        "cost": 216.34,
+        "transactionTime": "2023-02-26 06:17:27"
+      },
+      {
+        "transactionId": "01GZ4P14K86QXKY7RDWKAXHQRH",
+        "cost": 215.95,
+        "transactionTime": "2023-02-27 06:20:04"
+      },
+      {
+        "transactionId": "01GZ4P14R2VT184JDFX18TSJ57",
+        "cost": 250.69,
+        "transactionTime": "2023-03-05 07:14:33"
+      },
+      {
+        "transactionId": "01GZ4P14M4PP8BSKMJNE0A1EH3",
+        "cost": 294.16,
+        "transactionTime": "2023-03-10 20:05:14"
+      },
+      {
+        "transactionId": "01GZ4P14WWEB9HJS7GX0SNEGXK",
+        "cost": 241.24,
+        "transactionTime": "2023-03-12 01:34:48"
+      },
+      {
+        "transactionId": "01GZ4P14W6MM9MHEN7J84X955J",
+        "cost": 127.91,
+        "transactionTime": "2023-03-24 22:39:45"
+      },
+      {
+        "transactionId": "01GZ4P14HYQQE8QVJ4XGEEVBPN",
+        "cost": 148.26,
+        "transactionTime": "2023-03-31 18:47:31"
+      },
+      {
+        "transactionId": "01GZ4P14G4XB3M50KSCYDB1K7J",
+        "cost": 441.39,
+        "transactionTime": "2023-04-02 09:13:30"
+      },
+      {
+        "transactionId": "01GZ4P14QHHP8PAP1ZCAZQFNXY",
+        "cost": 168.91,
+        "transactionTime": "2023-04-23 16:25:34"
+      },
+      {
+        "transactionId": "01GZ4P14VYDXXRQWXX694ZGHWJ",
+        "cost": 11.5,
+        "transactionTime": "2023-04-25 16:44:26"
+      },
+      {
+        "transactionId": "01GZ4P14X39SS0W6MG93GASHWC",
+        "cost": 107.09,
+        "transactionTime": "2023-04-26 12:11:38"
+      }
+    ]
+  },
+  {
+    "userId": "1047",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14K6NNB7QZ4HH2BE5ACY",
+        "cost": 107.36,
+        "transactionTime": "2023-01-01 10:27:47"
+      },
+      {
+        "transactionId": "01GZ4P14FB1PX743JBPNP3SH94",
+        "cost": 45.61,
+        "transactionTime": "2023-02-16 10:16:22"
+      },
+      {
+        "transactionId": "01GZ4P14M9F1BS5TX9DYZYT1W0",
+        "cost": 451.89,
+        "transactionTime": "2023-02-19 17:34:34"
+      },
+      {
+        "transactionId": "01GZ4P14V2HFCW9PZF0ZGABM5P",
+        "cost": 91.12,
+        "transactionTime": "2023-02-23 02:49:52"
+      },
+      {
+        "transactionId": "01GZ4P14MCYFYK7Q4RQR4B9B99",
+        "cost": 6.64,
+        "transactionTime": "2023-02-28 16:12:30"
+      },
+      {
+        "transactionId": "01GZ4P14KD2W89B5Y7BVYMNTR2",
+        "cost": 486.66,
+        "transactionTime": "2023-03-07 21:21:23"
+      },
+      {
+        "transactionId": "01GZ4P14NY4FDQT57QZ3PA7NMJ",
+        "cost": 293.17,
+        "transactionTime": "2023-03-10 19:44:08"
+      },
+      {
+        "transactionId": "01GZ4P14P0KK11FYAJKE9BGKNA",
+        "cost": 162.71,
+        "transactionTime": "2023-03-11 04:29:54"
+      },
+      {
+        "transactionId": "01GZ4P14J0MAQ5C4NHKNBFYJG8",
+        "cost": 70.84,
+        "transactionTime": "2023-03-21 07:15:04"
+      },
+      {
+        "transactionId": "01GZ4P14TWYVX0NDSAD54A9KTB",
+        "cost": 369.6,
+        "transactionTime": "2023-03-23 05:02:06"
+      },
+      {
+        "transactionId": "01GZ4P14SPT1JGSZCVZYXZRPKM",
+        "cost": 305.76,
+        "transactionTime": "2023-04-03 00:45:34"
+      },
+      {
+        "transactionId": "01GZ4P14T7G7841D7D9NPVCZTZ",
+        "cost": 369.14,
+        "transactionTime": "2023-04-06 04:05:17"
+      },
+      {
+        "transactionId": "01GZ4P14FWJ753QW2D9GS7C18F",
+        "cost": 72.49,
+        "transactionTime": "2023-04-13 16:45:23"
+      }
+    ]
+  },
+  {
+    "userId": "1048",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14Q3N39Z0NZHS76N9P4M",
+        "cost": 443.9,
+        "transactionTime": "2023-01-09 22:40:39"
+      },
+      {
+        "transactionId": "01GZ4P14S90SSMXD2VBATW4S2E",
+        "cost": 291.92,
+        "transactionTime": "2023-01-17 17:56:40"
+      },
+      {
+        "transactionId": "01GZ4P14J9A8D1Y5Q5Z4TFF560",
+        "cost": 14.3,
+        "transactionTime": "2023-01-19 12:17:36"
+      },
+      {
+        "transactionId": "01GZ4P14Q18DJ6G1YPD2553BAZ",
+        "cost": 228.44,
+        "transactionTime": "2023-01-25 00:12:09"
+      },
+      {
+        "transactionId": "01GZ4P14JGBNB7V4W4YY24WPSD",
+        "cost": 308.79,
+        "transactionTime": "2023-02-02 00:08:17"
+      },
+      {
+        "transactionId": "01GZ4P14PYH80QMN5GHPK314T5",
+        "cost": 458.13,
+        "transactionTime": "2023-02-06 13:50:15"
+      },
+      {
+        "transactionId": "01GZ4P14KPN8EG1B6EZ6WVC9K4",
+        "cost": 136.32,
+        "transactionTime": "2023-02-09 19:26:11"
+      },
+      {
+        "transactionId": "01GZ4P14FGCV24JC82CJ28KJW6",
+        "cost": 390.14,
+        "transactionTime": "2023-02-10 15:45:51"
+      },
+      {
+        "transactionId": "01GZ4P14H6ZVSM0VVF4BCGEQWC",
+        "cost": 63.51,
+        "transactionTime": "2023-02-18 21:50:26"
+      },
+      {
+        "transactionId": "01GZ4P14RYNNEPP8BHJA02A02M",
+        "cost": 485.52,
+        "transactionTime": "2023-03-04 18:45:36"
+      },
+      {
+        "transactionId": "01GZ4P14PPJKT60V56HEAD603H",
+        "cost": 338.74,
+        "transactionTime": "2023-03-08 16:48:25"
+      },
+      {
+        "transactionId": "01GZ4P14NWH7CHSD3NSJYJTJ4S",
+        "cost": 153.15,
+        "transactionTime": "2023-03-08 18:13:46"
+      },
+      {
+        "transactionId": "01GZ4P14PYY6157CSDGVBDYDVR",
+        "cost": 283.98,
+        "transactionTime": "2023-03-13 04:53:24"
+      },
+      {
+        "transactionId": "01GZ4P14EEX3K1MZQQYK08Y80J",
+        "cost": 116.93,
+        "transactionTime": "2023-03-13 13:01:43"
+      },
+      {
+        "transactionId": "01GZ4P14EXA3NF6NEHE9HSCSA2",
+        "cost": 5.54,
+        "transactionTime": "2023-03-23 02:44:52"
+      },
+      {
+        "transactionId": "01GZ4P14QCP6XA3ZYEN41YVRJM",
+        "cost": 422.19,
+        "transactionTime": "2023-03-28 10:16:00"
+      },
+      {
+        "transactionId": "01GZ4P14NMW2QQXYXQF4B31KXB",
+        "cost": 18.12,
+        "transactionTime": "2023-03-31 18:43:51"
+      },
+      {
+        "transactionId": "01GZ4P14MCC3SCGRKHGV4D3RNM",
+        "cost": 388.14,
+        "transactionTime": "2023-04-01 12:36:12"
+      },
+      {
+        "transactionId": "01GZ4P14KRQ1CNEQJKA60V059G",
+        "cost": 281.38,
+        "transactionTime": "2023-04-02 08:02:26"
+      },
+      {
+        "transactionId": "01GZ4P14SJNWXWNJBYXNCQC1GW",
+        "cost": 336.01,
+        "transactionTime": "2023-04-02 23:30:39"
+      },
+      {
+        "transactionId": "01GZ4P14W6TQBK7F9C3NN245QW",
+        "cost": 91.95,
+        "transactionTime": "2023-04-08 10:13:58"
+      },
+      {
+        "transactionId": "01GZ4P14PQW8J7ZZ75P65QFBK0",
+        "cost": 355.2,
+        "transactionTime": "2023-04-14 12:34:46"
+      },
+      {
+        "transactionId": "01GZ4P14H9XB1G9CVAYNKS4B6S",
+        "cost": 49.93,
+        "transactionTime": "2023-04-17 13:52:37"
+      },
+      {
+        "transactionId": "01GZ4P14JFYW2GGAR9K48TA4JX",
+        "cost": 475.49,
+        "transactionTime": "2023-04-24 06:58:49"
+      },
+      {
+        "transactionId": "01GZ4P14NAGVWXRAG8KSKZVW28",
+        "cost": 169.52,
+        "transactionTime": "2023-04-25 05:59:27"
+      },
+      {
+        "transactionId": "01GZ4P14MYSEXY3AV36A91Z7NC",
+        "cost": 41.34,
+        "transactionTime": "2023-04-26 08:14:51"
+      }
+    ]
+  },
+  {
+    "userId": "1049",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14EN85D7ZWTJXJHBNP9E",
+        "cost": 65.39,
+        "transactionTime": "2023-01-01 20:46:46"
+      },
+      {
+        "transactionId": "01GZ4P14JXHT4RHDK6D6Y5SB7F",
+        "cost": 284.3,
+        "transactionTime": "2023-01-03 06:42:56"
+      },
+      {
+        "transactionId": "01GZ4P14H72M3XV286VQCH9PYF",
+        "cost": 381.72,
+        "transactionTime": "2023-01-04 08:04:19"
+      },
+      {
+        "transactionId": "01GZ4P14MC9832VBS5VTWHRRMG",
+        "cost": 415.77,
+        "transactionTime": "2023-01-10 22:26:54"
+      },
+      {
+        "transactionId": "01GZ4P14WHC3E0P646X659FXP3",
+        "cost": 455.61,
+        "transactionTime": "2023-02-12 17:51:44"
+      },
+      {
+        "transactionId": "01GZ4P14WRHZE7QSCQ35H5HHE6",
+        "cost": 160.44,
+        "transactionTime": "2023-02-23 04:20:52"
+      },
+      {
+        "transactionId": "01GZ4P14MT8GP314AWR13J76BG",
+        "cost": 366.43,
+        "transactionTime": "2023-02-27 05:11:56"
+      },
+      {
+        "transactionId": "01GZ4P14NYFJ46BM4SKC7FZBXK",
+        "cost": 286.69,
+        "transactionTime": "2023-03-03 01:41:26"
+      },
+      {
+        "transactionId": "01GZ4P14KHABFK5TER5EPJHMFK",
+        "cost": 410.55,
+        "transactionTime": "2023-03-03 21:42:28"
+      },
+      {
+        "transactionId": "01GZ4P14FAVYP885W3RWXGQNMD",
+        "cost": 169.26,
+        "transactionTime": "2023-03-07 04:48:09"
+      },
+      {
+        "transactionId": "01GZ4P14NXW8VWQV9EPH1KR6DK",
+        "cost": 388.81,
+        "transactionTime": "2023-03-08 20:53:14"
+      },
+      {
+        "transactionId": "01GZ4P14FTTHZ4B4SSEXBAEW6A",
+        "cost": 143.56,
+        "transactionTime": "2023-03-10 15:09:58"
+      },
+      {
+        "transactionId": "01GZ4P14VSE33H6469R4TABF02",
+        "cost": 25.86,
+        "transactionTime": "2023-03-20 23:27:32"
+      },
+      {
+        "transactionId": "01GZ4P14Q6P3EDPS715GGG22DV",
+        "cost": 275.67,
+        "transactionTime": "2023-03-26 21:58:26"
+      },
+      {
+        "transactionId": "01GZ4P14EKFYJWHPJE6TDM2N8A",
+        "cost": 78.35,
+        "transactionTime": "2023-04-17 05:00:29"
+      },
+      {
+        "transactionId": "01GZ4P14FPN1YTHZ2VM7145YPG",
+        "cost": 238.93,
+        "transactionTime": "2023-04-18 02:15:16"
+      }
+    ]
+  },
+  {
+    "userId": "1050",
+    "transactions": [
+      {
+        "transactionId": "01GZ4P14QTM1J1R6YXE8V9WTTZ",
+        "cost": 171.01,
+        "transactionTime": "2023-01-09 06:44:07"
+      },
+      {
+        "transactionId": "01GZ4P14TVQTT43KWE0WXWH8QJ",
+        "cost": 472.48,
+        "transactionTime": "2023-01-10 19:20:59"
+      },
+      {
+        "transactionId": "01GZ4P14NVKA92DDBQD74B36GR",
+        "cost": 499.52,
+        "transactionTime": "2023-01-22 21:05:47"
+      },
+      {
+        "transactionId": "01GZ4P14PK1VQ5RD4JHGNKY72R",
+        "cost": 279.62,
+        "transactionTime": "2023-02-18 07:57:02"
+      },
+      {
+        "transactionId": "01GZ4P14Q3EGNW5489MY8WD5FY",
+        "cost": 161.47,
+        "transactionTime": "2023-02-18 20:14:37"
+      },
+      {
+        "transactionId": "01GZ4P14J1DMC5CBF01JV5PDP8",
+        "cost": 405.97,
+        "transactionTime": "2023-02-25 02:32:40"
+      },
+      {
+        "transactionId": "01GZ4P14JMRVKEPJ6QNV2KT7QH",
+        "cost": 463.79,
+        "transactionTime": "2023-02-26 16:16:32"
+      },
+      {
+        "transactionId": "01GZ4P14M05JQ2BWJD1B6KGWS8",
+        "cost": 13.57,
+        "transactionTime": "2023-03-05 01:56:44"
+      },
+      {
+        "transactionId": "01GZ4P14N0Q714WP8CJ0JBM3VZ",
+        "cost": 478.37,
+        "transactionTime": "2023-03-12 02:45:59"
+      },
+      {
+        "transactionId": "01GZ4P14NJ067HAR2N5SPBN0YZ",
+        "cost": 389.77,
+        "transactionTime": "2023-03-17 10:44:21"
+      },
+      {
+        "transactionId": "01GZ4P14WQMFR1SAM8AZZPTSZ5",
+        "cost": 280.19,
+        "transactionTime": "2023-04-01 07:54:03"
+      },
+      {
+        "transactionId": "01GZ4P14P5T331J10786QCNV0Q",
+        "cost": 150.22,
+        "transactionTime": "2023-04-02 10:55:09"
+      },
+      {
+        "transactionId": "01GZ4P14GFHKSCBKNV0TC1CYHT",
+        "cost": 257.21,
+        "transactionTime": "2023-04-02 21:04:13"
+      },
+      {
+        "transactionId": "01GZ4P14JA83Q7YC1S1PZD704T",
+        "cost": 203.73,
+        "transactionTime": "2023-04-08 01:09:36"
+      },
+      {
+        "transactionId": "01GZ4P14P7P7083T027GDWA70V",
+        "cost": 115,
+        "transactionTime": "2023-04-16 20:49:17"
+      },
+      {
+        "transactionId": "01GZ4P14JVRYXRR6X0172N6QXG",
+        "cost": 445.9,
+        "transactionTime": "2023-04-24 09:26:13"
+      },
+      {
+        "transactionId": "01GZ4P14QPTG0DCHRR848JE790",
+        "cost": 49.4,
+        "transactionTime": "2023-04-26 05:00:10"
+      }
+    ]
+  }
+]

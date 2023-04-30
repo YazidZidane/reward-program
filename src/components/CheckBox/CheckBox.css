@@ -1,0 +1,8 @@
+.selection-bar__checkbox {
+  margin: 10px 0;
+  color: #abb2b9;
+}
+
+.selection-bar__checkbox.checked {
+  color: black;
+}

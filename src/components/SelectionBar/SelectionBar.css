@@ -1,0 +1,35 @@
+.selection-bar {
+  margin: 20px 20px;
+  padding: 20px 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #eeeeee;
+}
+
+.selection-bar__input {
+  margin: 10px 0;
+}
+
+.selection-bar__get-button {
+  margin: 10px 10px 0 0;
+  padding: 10px 10px;
+  border-radius: 5px;
+  width: 150px;
+  background-color: #82e0aa;
+}
+
+.selection-bar__get-button:hover {
+  background-color: #abebc6;
+}
+
+.selection-bar__clear-button {
+  margin: 10px 0;
+  padding: 10px 10px;
+  border-radius: 5px;
+  width: 150px;
+  background-color: #f0b27a;
+}
+
+.selection-bar__clear-button:hover {
+  background-color: #f5cba7;
+}

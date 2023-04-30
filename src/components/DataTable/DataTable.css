@@ -1,0 +1,73 @@
+.result-tab {
+  margin: 20px 20px;
+  padding: 20px 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #eeeeee;
+}
+
+.result-loading {
+  margin: 0 auto;
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.result-error {
+  color: red;
+}
+
+.result-tab__span {
+  float: right;
+  width: 50%;
+}
+
+.result-tab__button {
+  margin: 10px 10px 0 0;
+  padding: 10px 10px;
+  border-radius: 5px;
+  width: 300px;
+  background-color: lightblue;
+}
+
+.result-tab__button:hover {
+  background-color: rgb(185, 230, 245);
+}
+
+.transaction-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.transaction-table thead tr {
+  background-color: lightblue;
+  color: black;
+}
+
+.transaction-table th,
+.transaction-table td {
+  padding: 12px 15px;
+}
+
+.transaction-table tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.hidden {
+  display: none;
+}
