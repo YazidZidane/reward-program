@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Reward Points Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A retailer offers a rewards program to its customers, awarding points based on each recorded purchase.
 
-## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and React version 18.2.0.
 
-In the project directory, you can run:
+## To start the application
 
-### `npm start`
+Under the program folder, use `npm install` to install all the dependencies.
 
-Runs the app in the development mode.\
+Use `npm start` to run the app in the development mode.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to use the application
 
-### `npm test`
+This is an application that could fetch the reward points a user get from the transaction history.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+It has three options:
 
-### `npm run build`
+1. Get all reward points
+2. Get reward points from a given time period
+3. Get reward points in a month
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+When the application starts, you will see the following selection bar to made your selections. First input the user ID **(Available user ID is from 1001 to 1050)**, then select a method to get data. If the information in the selection bar is available, you will see the result tab and full transaction list.
+![selectionBar](selectionBar.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Result when given available information in the selection bar.
+![result-tab](result.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Full transaction list when toggle the "Show Full Transaction History" button.
+![result-table](result-table.png)
