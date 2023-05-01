@@ -1,6 +1,6 @@
 # Reward Points Application
 
-A retailer offers a rewards program to its customers, awarding points based on each recorded purchase.
+Background: A retailer offers a rewards program to its customers, awarding points based on each recorded purchase. This is an application that can calculate the reward points and fetch all transaction history of a user.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and React version 18.2.0.
 
@@ -18,26 +18,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## How to use the application
 
-This is an application that could fetch the reward points a user get from the transaction history.
+This is an application that could fetch the reward points a user get from the transaction history. You can select a user from the dropdown menu, then select a time period you want to search, and get the reward points earned at this time and all transactions.
 
-It has three options:
-
-1. Get all reward points
-2. Get reward points from a given time period
-3. Get reward points in a month
-
-**Mock data:
+**Mock data range:
 User ID is from 1001 to 1050
-transactions are from 2023-01-01 to 2023-04-27**
+transactions are from 2023-01-01 to 2023-04-31**
 
-When the application starts, you will see the following selection bar to made your selections. First input the user ID, then select a method to get data. If the information in the selection bar is available, you will see the result tab and full transaction list.
-![selectionBar](selectionBar.png)
+When the application starts, you will see the following search bar. Select a user from the dropdown menu.
+![result-initial](result-initial.png)
 
-Result when given available information in the selection bar.
-![result-tab](result.png)
+You can skip the time picker and get all the history transactions and all reward points when click "GET RESULT" button.
+![result-withoutTime](result-withoutTime.png)
 
-Full transaction list when toggle the "Show Full Transaction History" button.
-![result-table](result-table.png)
+When provide a exact time period, the result will be filtered and limit to the time period.
+![result-withTime](result-withTime.png)
 
 ## Author
 
