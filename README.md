@@ -39,5 +39,6 @@ Result when given available information in the selection bar.
 Full transaction list when toggle the "Show Full Transaction History" button.
 ![result-table](result-table.png)
 
-##Author
+## Author
+
 Ted Xu
