@@ -1,23 +1,10 @@
-import React, { useEffect, useState } from "react";
-import CalculateReward from "../../utils/CalculateReward";
+import React, { useState } from "react";
 
 import "../../styles/DataTable.css";
 
-// rewardsInfo
-const defaultUserRewardInfo = {
-  totalCost: null,
-  totalReward: null,
-};
-
-export default function DataTable({ userData, loading, error }) {
-  console.log(userData);
+export default function SearchResult({ userData, loading, error }) {
+  console.log("userData", userData);
   const [showTable, setShowTable] = useState(true);
-
-  // useEffect(() => {
-  //   const { totalCost, totalRewards } = CalculateReward(userData);
-  //   setUserRewardInfo({ totalCost: totalCost, totalReward: totalRewards });
-  //   // setShowTable(true);
-  // }, [userData]);
 
   return (
     <div className="result-tab">
@@ -31,12 +18,15 @@ export default function DataTable({ userData, loading, error }) {
       ) : (
         <>
           <p>
-            User:<span className="result-tab__span">{userData.user}</span>
+            User:
+            <span className="result-tab__span" data-testid="user-id">
+              {userData.user}
+            </span>
           </p>
 
           <p>
             Total Reward Points:
-            <span className="result-tab__span">
+            <span className="result-tab__span" data-testid="total-reward">
               {userData.totalRewardPoints}
             </span>
           </p>

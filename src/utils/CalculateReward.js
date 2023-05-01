@@ -1,6 +1,8 @@
 const CalculateReward = (records) => {
   let totalRewards = 0;
-  const recordsWithRewards = [...records];
+  const recordsWithRewards = [...records].sort(
+    (a, b) => new Date(a.transactionTime) - new Date(b.transactionTime)
+  );
   recordsWithRewards.forEach((record) => {
     const reward = getReward(Math.floor(record.cost));
     record.reward = reward;

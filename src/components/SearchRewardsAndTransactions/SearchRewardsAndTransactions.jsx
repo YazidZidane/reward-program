@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-import DataTable from "../DataTable/DataTable";
+import SearchResult from "../SearchResult/SearchResult";
 import useFetch from "../../hooks/useFetch";
 import CalculateReward from "../../utils/CalculateReward";
 import { getUserList, getCustomerTransactions } from "../../mockAPI/API";
@@ -19,8 +19,7 @@ const defaultSearchResult = {
   transactionList: [],
 };
 
-// TransactionSearchBar
-export default function SelectionBar() {
+export default function SearchRewardsAndTransactions() {
   const [userList, setUserList] = useState([]);
   const [userSearchParams, setUserSearchParams] = useState(
     defaultUserSearchParams
@@ -35,7 +34,6 @@ export default function SelectionBar() {
     fetchData: fetchTransactionData,
   } = useFetch(getCustomerTransactions);
 
-  // handleSearchTransaction
   const handleSearchTransaction = async () => {
     if (!formValidation()) return;
     setShowResult(true);
@@ -55,20 +53,18 @@ export default function SelectionBar() {
   }, []);
 
   useEffect(() => {
-    if (transactionData.length !== 0) {
-      const { totalRewards, recordsWithRewards } =
-        CalculateReward(transactionData);
-      setSearchResult({
-        user: userSearchParams.user,
-        totalRewardPoints: totalRewards,
-        transactionList: recordsWithRewards,
-      });
-    }
+    const { totalRewards, recordsWithRewards } =
+      CalculateReward(transactionData);
+    setSearchResult({
+      user: userSearchParams.user,
+      totalRewardPoints: totalRewards,
+      transactionList: recordsWithRewards,
+    });
   }, [transactionData]);
 
   const formValidation = () => {
     if (userSearchParams.user === "") {
-      alert("Please input a user ID first!");
+      alert("Please select a user ID first!");
       return false;
     }
     if (
@@ -120,7 +116,7 @@ export default function SelectionBar() {
           </label>
           <div className="selection-bar__time-input">
             <label>
-              {"Search reward points and transactions for this user from  "}
+              {"Search reward points and transactions for this user from "}
               <input
                 type={"date"}
                 value={userSearchParams.startTime}
@@ -130,7 +126,6 @@ export default function SelectionBar() {
                     startTime: e.target.value,
                   })
                 }
-                data-testid="time-picker-input"
               />
             </label>
 
@@ -145,7 +140,6 @@ export default function SelectionBar() {
                     endTime: e.target.value,
                   })
                 }
-                data-testid="time-picker-input"
               />
             </label>
           </div>
@@ -168,7 +162,7 @@ export default function SelectionBar() {
       </div>
 
       {showResult ? (
-        <DataTable userData={searchResult} loading={loading} error={error} />
+        <SearchResult userData={searchResult} loading={loading} error={error} />
       ) : null}
     </>
   );

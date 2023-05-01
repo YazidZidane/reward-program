@@ -1,9 +1,9 @@
-import SelectionBar from "./components/SelectionBar/SelectionBar";
+import SearchRewardsAndTransactions from "./components/SearchRewardsAndTransactions/SearchRewardsAndTransactions";
 
 function App() {
   return (
     <>
-      <SelectionBar />
+      <SearchRewardsAndTransactions />
     </>
   );
 }
