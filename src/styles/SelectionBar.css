@@ -10,6 +10,10 @@
   margin: 10px 0;
 }
 
+.selection-bar__time-input {
+  margin: 10px 0;
+}
+
 .selection-bar__get-button {
   margin: 10px 10px 0 0;
   padding: 10px 10px;

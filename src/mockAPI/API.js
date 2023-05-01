@@ -1,33 +1,27 @@
 import transactionData from "./MOCK_DATA.json";
 
-export const getCustomerList = () => {
-  return new Promise((res, rej) => {
-    setTimeout(() => {
-      const customerList = transactionData
-        .map((transaction) => transaction.userId)
-        .filter((userId, index, arr) => arr.indexOf(userId) === index);
-      res(customerList);
-    }, 1000);
-  });
+export const getUserList = async () => {
+  return transactionData
+    .map((transaction) => transaction.userId)
+    .filter((userId, index, arr) => arr.indexOf(userId) === index)
+    .sort();
 };
 
 export const getCustomerTransactions = (userId, start, end) => {
   return new Promise((res, rej) => {
     setTimeout(() => {
-      const userData = transactionData.filter(
+      const userTransactions = transactionData.filter(
         (transaction) => transaction.userId === userId
-      )[0];
+      );
       // if no such user
-      if (userData === undefined) {
+      if (userTransactions === undefined) {
         rej("No such user!");
         return;
       }
-      const { transactions } = userData;
-      // if no transactions with such user(this would work)
       start === "" && end === ""
-        ? res(transactions)
+        ? res(userTransactions)
         : res(
-            transactions.filter(
+            userTransactions.filter(
               (transaction) =>
                 new Date(transaction.transactionTime) >= new Date(start) &&
                 new Date(transaction.transactionTime) <= new Date(end)

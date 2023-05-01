@@ -1,94 +1,94 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
-import { getCustomerTransactions } from "../../mockAPI/API";
-import TimePicker from "../TimePicker/TimePicker";
 import DataTable from "../DataTable/DataTable";
-import CheckBox from "../CheckBox/CheckBox";
-
 import useFetch from "../../hooks/useFetch";
+import CalculateReward from "../../utils/CalculateReward";
+import { getUserList, getCustomerTransactions } from "../../mockAPI/API";
 
 import "../../styles/SelectionBar.css";
 
-export const defaultMethods = {
-  get_all_transactions: "get-all-transactions",
-  get_transactions_by_given_time: "get-transactions-by-given-time",
-  get_transactions_by_month: "get-transactions-by-month",
-};
-
-export const timePickerTypes = {
-  date: "date",
-  month: "month",
-};
-
-const defaultUserInfo = {
+const defaultUserSearchParams = {
   user: "",
   startTime: "",
   endTime: "",
-  month: "",
-  method: "",
 };
 
+const defaultSearchResult = {
+  user: "",
+  totalRewardPoints: 0,
+  transactionList: [],
+};
+
+// TransactionSearchBar
 export default function SelectionBar() {
-  const [userInfo, setUserInfo] = useState(defaultUserInfo);
+  const [userList, setUserList] = useState([]);
+  const [userSearchParams, setUserSearchParams] = useState(
+    defaultUserSearchParams
+  );
+  const [searchResult, setSearchResult] = useState(defaultSearchResult);
   const [showResult, setShowResult] = useState(false);
 
-  const { loading, data, error, fetchData } = useFetch(getCustomerTransactions);
+  const {
+    loading,
+    data: transactionData,
+    error,
+    fetchData: fetchTransactionData,
+  } = useFetch(getCustomerTransactions);
 
-  const handleGet = async () => {
+  // handleSearchTransaction
+  const handleSearchTransaction = async () => {
     if (!formValidation()) return;
     setShowResult(true);
-    await fetchData(userInfo.user, userInfo.startTime, userInfo.endTime);
+    await fetchTransactionData(
+      userSearchParams.user,
+      userSearchParams.startTime,
+      userSearchParams.endTime
+    );
   };
 
+  useEffect(() => {
+    const getFullUserList = async () => {
+      const fullUserList = await getUserList();
+      setUserList(fullUserList);
+    };
+    getFullUserList();
+  }, []);
+
+  useEffect(() => {
+    if (transactionData.length !== 0) {
+      const { totalRewards, recordsWithRewards } =
+        CalculateReward(transactionData);
+      setSearchResult({
+        user: userSearchParams.user,
+        totalRewardPoints: totalRewards,
+        transactionList: recordsWithRewards,
+      });
+    }
+  }, [transactionData]);
+
   const formValidation = () => {
-    if (userInfo.user === "") {
+    if (userSearchParams.user === "") {
       alert("Please input a user ID first!");
       return false;
     }
-    if (userInfo.method === "") {
-      alert("Please provide a method!");
-      return false;
-    }
     if (
-      userInfo.method === defaultMethods.get_transactions_by_given_time &&
-      (userInfo.startTime === "" || userInfo.endTime === "")
+      (userSearchParams.startTime === "" || userSearchParams.endTime === "") &&
+      !(userSearchParams.startTime === "" && userSearchParams.endTime === "")
     ) {
       alert("Please provide all time!");
       return false;
     }
-    if (new Date(userInfo.startTime) > new Date(userInfo.endTime)) {
+    if (
+      new Date(userSearchParams.startTime) > new Date(userSearchParams.endTime)
+    ) {
       alert("Please provide available time period!");
       return false;
     }
     return true;
   };
 
-  const handleSelectMethod = (e) => {
-    setUserInfo({
-      ...userInfo,
-      method: e.target.name,
-      startTime: "",
-      endTime: "",
-    });
-  };
-
-  const handleMonth = (e) => {
-    setUserInfo((prev) => {
-      return { ...prev, month: e.target.value };
-    });
-    const date = e.target.value.split("-");
-    const daysInMonth = new Date(date[0], date[1], 0).getDate();
-    setUserInfo((prev) => {
-      return {
-        ...prev,
-        startTime: e.target.value + "-01",
-        endTime: e.target.value + "-" + daysInMonth,
-      };
-    });
-  };
-
-  const handleClear = () => {
-    setUserInfo(defaultUserInfo);
+  const handleClearFields = () => {
+    setUserSearchParams(defaultUserSearchParams);
     setShowResult(false);
   };
 
@@ -97,88 +97,78 @@ export default function SelectionBar() {
       <div className="selection-bar">
         <div className="selection-bar__input">
           <label>
-            Input userID:{" "}
-            <input
-              name="user"
-              value={userInfo.user}
+            Input User ID:{" "}
+            <select
+              type="select"
+              value={userSearchParams.user}
               onChange={(e) =>
-                setUserInfo({ ...userInfo, user: e.target.value })
+                setUserSearchParams({
+                  ...userSearchParams,
+                  user: e.target.value,
+                })
               }
-            />
+            >
+              <option value={""} key={"user"}></option>
+              {userList.map((user) => {
+                return (
+                  <option value={user} key={user}>
+                    {user}
+                  </option>
+                );
+              })}
+            </select>
           </label>
+          <div className="selection-bar__time-input">
+            <label>
+              {"Search reward points and transactions for this user from  "}
+              <input
+                type={"date"}
+                value={userSearchParams.startTime}
+                onChange={(e) =>
+                  setUserSearchParams({
+                    ...userSearchParams,
+                    startTime: e.target.value,
+                  })
+                }
+                data-testid="time-picker-input"
+              />
+            </label>
+
+            <label>
+              {" to "}
+              <input
+                type={"date"}
+                value={userSearchParams.endTime}
+                onChange={(e) =>
+                  setUserSearchParams({
+                    ...userSearchParams,
+                    endTime: e.target.value,
+                  })
+                }
+                data-testid="time-picker-input"
+              />
+            </label>
+          </div>
         </div>
 
-        <CheckBox
-          name={defaultMethods.get_all_transactions}
-          label={"Get all reward points"}
-          onChange={handleSelectMethod}
-          checked={userInfo.method === defaultMethods.get_all_transactions}
-        />
-
-        <CheckBox
-          name={defaultMethods.get_transactions_by_given_time}
-          label={"Get reward points in a given time period"}
-          onChange={handleSelectMethod}
-          checked={
-            userInfo.method === defaultMethods.get_transactions_by_given_time
-          }
-        >
-          <TimePicker
-            type={timePickerTypes.date}
-            label={"Start date:"}
-            value={userInfo.startTime}
-            onChange={(e) =>
-              setUserInfo({ ...userInfo, startTime: e.target.value })
-            }
-            disabled={
-              userInfo.method !== defaultMethods.get_transactions_by_given_time
-            }
-          />
-          <TimePicker
-            type={timePickerTypes.date}
-            label={"End date:"}
-            value={userInfo.endTime}
-            onChange={(e) =>
-              setUserInfo({ ...userInfo, endTime: e.target.value })
-            }
-            disabled={
-              userInfo.method !== defaultMethods.get_transactions_by_given_time
-            }
-          />
-        </CheckBox>
-
-        <CheckBox
-          name={defaultMethods.get_transactions_by_month}
-          label={"Get transactions in a month"}
-          onChange={handleSelectMethod}
-          checked={userInfo.method === defaultMethods.get_transactions_by_month}
-        >
-          <TimePicker
-            type={timePickerTypes.month}
-            label={"Select month:"}
-            value={userInfo.month}
-            onChange={handleMonth}
-            disabled={
-              userInfo.method !== defaultMethods.get_transactions_by_month
-            }
-          />
-        </CheckBox>
-
-        <button onClick={handleGet} className="selection-bar__get-button">
-          GET RESULT
-        </button>
-        <button onClick={handleClear} className="selection-bar__clear-button">
-          CLEAR
-        </button>
+        <div className="selection-bar__buttons">
+          <button
+            onClick={handleSearchTransaction}
+            className="selection-bar__get-button"
+          >
+            GET RESULT
+          </button>
+          <button
+            onClick={handleClearFields}
+            className="selection-bar__clear-button"
+          >
+            CLEAR
+          </button>
+        </div>
       </div>
 
       {showResult ? (
-        <DataTable
-          user={userInfo.user}
-          userData={data}
-          loading={loading}
-          error={error}
-        />
+        <DataTable userData={searchResult} loading={loading} error={error} />
       ) : null}
     </>
   );

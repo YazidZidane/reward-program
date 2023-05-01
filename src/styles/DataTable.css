@@ -35,7 +35,7 @@
 }
 
 .result-tab__button {
-  margin: 10px 10px 0 0;
+  margin: 10px auto;
   padding: 10px 10px;
   border-radius: 5px;
   width: 300px;
@@ -48,7 +48,7 @@
 
 .transaction-table {
   border-collapse: collapse;
-  margin: 25px 0;
+  margin: 25px auto;
   min-width: 400px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   text-align: center;

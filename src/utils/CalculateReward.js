@@ -1,13 +1,12 @@
 const CalculateReward = (records) => {
-  let totalRewards = 0,
-    totalCost = 0;
-  records.forEach((record) => {
-    const currCost = Math.floor(record.cost);
-    totalCost += record.cost;
-    totalRewards += getReward(currCost);
+  let totalRewards = 0;
+  const recordsWithRewards = [...records];
+  recordsWithRewards.forEach((record) => {
+    const reward = getReward(Math.floor(record.cost));
+    record.reward = reward;
+    totalRewards += reward;
   });
-  totalCost = totalCost.toFixed(2);
-  return { totalCost, totalRewards };
+  return { totalRewards, recordsWithRewards };
 };
 
 const getReward = (cost) => {

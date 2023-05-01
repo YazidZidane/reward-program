@@ -3,20 +3,21 @@ import CalculateReward from "../../utils/CalculateReward";
 
 import "../../styles/DataTable.css";
 
-const defaultUserInfo = {
+// rewardsInfo
+const defaultUserRewardInfo = {
   totalCost: null,
   totalReward: null,
 };
 
-export default function DataTable({ user, userData, loading, error }) {
-  const [userInfo, setUserInfo] = useState(defaultUserInfo);
-  const [showTable, setShowTable] = useState(false);
+export default function DataTable({ userData, loading, error }) {
+  console.log(userData);
+  const [showTable, setShowTable] = useState(true);
 
-  useEffect(() => {
-    const { totalCost, totalRewards } = CalculateReward(userData);
-    setUserInfo({ totalCost: totalCost, totalReward: totalRewards });
-    setShowTable(false);
-  }, [userData]);
+  // useEffect(() => {
+  //   const { totalCost, totalRewards } = CalculateReward(userData);
+  //   setUserRewardInfo({ totalCost: totalCost, totalReward: totalRewards });
+  //   // setShowTable(true);
+  // }, [userData]);
 
   return (
     <div className="result-tab">
@@ -30,15 +31,14 @@ export default function DataTable({ user, userData, loading, error }) {
       ) : (
         <>
           <p>
-            User:<span className="result-tab__span">{user}</span>
+            User:<span className="result-tab__span">{userData.user}</span>
           </p>
-          <p>
-            Total Cost:
-            <span className="result-tab__span">{userInfo.totalCost}</span>
-          </p>
+
           <p>
             Total Reward Points:
-            <span className="result-tab__span">{userInfo.totalReward}</span>
+            <span className="result-tab__span">
+              {userData.totalRewardPoints}
+            </span>
           </p>
           <button
             className="result-tab__button"
@@ -48,7 +48,7 @@ export default function DataTable({ user, userData, loading, error }) {
             {showTable ? "Hide" : "Show"} Full Transaction History
           </button>
 
-          {userData.length === 0 && showTable ? (
+          {userData.transactionList.length === 0 && showTable ? (
             <h1>No available transactions at this time.</h1>
           ) : (
             <table
@@ -57,16 +57,22 @@ export default function DataTable({ user, userData, loading, error }) {
             >
               <thead>
                 <tr>
-                  <th>time</th>
-                  <th>cost</th>
+                  <th>Transaction ID</th>
+                  <th>Transaction time</th>
+                  <th>Cost</th>
+                  <th>Reward points earned</th>
                 </tr>
               </thead>
               <tbody>
-                {userData.map((data) => {
+                {userData.transactionList.map((transaction) => {
+                  let transactionTime = new Date(transaction.transactionTime);
+                  transactionTime = transactionTime.toLocaleString();
                   return (
-                    <tr key={data.transactionId}>
-                      <td>{data.transactionTime}</td>
-                      <td> {data.cost}</td>
+                    <tr key={transaction.transactionId}>
+                      <td>{transaction.transactionId}</td>
+                      <td>{transactionTime}</td>
+                      <td> {transaction.cost}</td>
+                      <td>{transaction.reward}</td>
                     </tr>
                   );
                 })}
