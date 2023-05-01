@@ -135,6 +135,7 @@ describe("SelectionBar", () => {
     fireEvent.click(getAllCheckBox);
     const getResultButton = wrapper.getByText("GET RESULT");
     fireEvent.click(getResultButton);
+    expect(await screen.findByTestId("loading")).toBeInTheDocument();
     jest.advanceTimersByTime(1000);
     expect(await screen.findByText("User:")).toBeInTheDocument();
     expect(await screen.findByText("1001")).toBeInTheDocument();

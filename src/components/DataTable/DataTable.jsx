@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
-import "./DataTable.css";
 import CalculateReward from "../../utils/CalculateReward";
+
+import "../../styles/DataTable.css";
 
 const defaultUserInfo = {
   totalCost: null,

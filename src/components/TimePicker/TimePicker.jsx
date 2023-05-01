@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./TimePicker.css";
+import "../../styles/TimePicker.css";
 
 export const defaultTime = {
   min_date: "2023-01-01",

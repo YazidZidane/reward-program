@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 
-import { getCustomerTransactions, getCustomerList } from "../../mockAPI/API";
+import { getCustomerTransactions } from "../../mockAPI/API";
 import TimePicker from "../TimePicker/TimePicker";
 import DataTable from "../DataTable/DataTable";
 import CheckBox from "../CheckBox/CheckBox";
 
 import useFetch from "../../hooks/useFetch";
 
-import "./SelectionBar.css";
+import "../../styles/SelectionBar.css";
 
 export const defaultMethods = {
   get_all_transactions: "get-all-transactions",

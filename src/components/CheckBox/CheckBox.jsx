@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./CheckBox.css";
+import "../../styles/CheckBox.css";
 
 export default function CheckBox({ children, name, label, onChange, checked }) {
   return (
