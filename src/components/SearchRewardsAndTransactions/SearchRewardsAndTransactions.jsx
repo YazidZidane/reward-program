@@ -5,7 +5,7 @@ import useFetch from "../../hooks/useFetch";
 import CalculateReward from "../../utils/CalculateReward";
 import { getUserList, getCustomerTransactions } from "../../mockAPI/API";
 
-import "../../styles/SelectionBar.css";
+import "../../styles/SearchRewardsAndTransactions.css";
 
 const defaultUserSearchParams = {
   user: "",

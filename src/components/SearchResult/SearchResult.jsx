@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import "../../styles/DataTable.css";
+import "../../styles/SearchResult.css";
 
 export default function SearchResult({ userData, loading, error }) {
   console.log("userData", userData);
