@@ -24,14 +24,11 @@ This is an application that could fetch the reward points a user get from the tr
 User ID is from 1001 to 1050
 transactions are from 2023-01-01 to 2023-04-31**
 
-When the application starts, you will see the following search bar. Select a user from the dropdown menu.
-![result-initial](result-initial.png)
+When the application starts, you will see a search bar. You can select a user from the dropdown menu.
 
 You can skip the time picker and get all the history transactions and all reward points when click "GET RESULT" button.
-![result-withoutTime](result-withoutTime.png)
 
-When provide a exact time period, the result will be filtered and limit to the time period.
-![result-withTime](result-withTime.png)
+When provide a exact time period, the result will be filtered based on the given time period.
 
 ## Author
 
